@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chi Tardi Arriva</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" v-cloak>
+    <aside class="sidebar">
+      <h2 class="sidebar-title">{{ s.app_title }}</h2>
+      <p class="sidebar-subtitle">{{ s.app_subtitle }}</p>
+
+      <button v-if="hasFilters" class="clear-btn" @click="clearFilters">Cancella filtri</button>
+
+      <!-- Tag filter -->
+      <div class="filter-section">
+        <p class="filter-label">Argomenti</p>
+        <div class="tag-chips">
+          <button
+            v-for="tag in allTags"
+            :key="tag"
+            class="chip"
+            :class="{ active: selectedTags.includes(tag) }"
+            @click="toggleTag(tag)"
+          >{{ tag }}</button>
+        </div>
+      </div>
+
+      <!-- Speaker suggestion box -->
+      <div class="filter-section suggest-section">
+        <p class="filter-label">Manca qualcuno?</p>
+        <div class="suggest-row">
+          <input
+            type="text"
+            v-model="suggestInput"
+            placeholder="Nome speaker..."
+            class="speaker-search-input"
+            @keydown.enter="addSuggestion"
+          >
+          <button class="suggest-btn" @click="addSuggestion" :disabled="!suggestInput.trim()">+</button>
+        </div>
+        <ul v-if="suggestedSpeakers.length > 0" class="suggest-list">
+          <li v-for="(name, i) in suggestedSpeakers" :key="i" class="suggest-item">
+            <span>{{ name }}</span>
+            <button class="remove-chip" @click="removeSuggestion(i)">×</button>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Speaker search + selection -->
+      <div class="filter-section">
+        <p class="filter-label">Speaker</p>
+        <div class="speaker-search-wrapper">
+          <input
+            type="text"
+            v-model="speakerSearch"
+            placeholder="Cerca speaker..."
+            class="speaker-search-input"
+            @focus="showDropdown = true"
+            @blur="showDropdown = false"
+          >
+          <div v-if="showDropdown && filteredSpeakerOptions.length > 0" class="speaker-dropdown">
+            <button
+              v-for="sp in filteredSpeakerOptions"
+              :key="sp.name"
+              class="dropdown-item"
+              :class="{ selected: selectedSpeakers.includes(sp.name) }"
+              @mousedown.prevent="toggleSpeaker(sp.name)"
+            >{{ sp.name }}</button>
+          </div>
+        </div>
+        <div v-if="selectedSpeakers.length > 0" class="selected-chips">
+          <span v-for="name in selectedSpeakers" :key="name" class="selected-chip">
+            {{ name }}<button class="remove-chip" @click="toggleSpeaker(name)">×</button>
+          </span>
+        </div>
+      </div>
+    </aside>
+
+    <main class="content">
+      <div class="controls">
+        <input
+          type="text"
+          v-model="locationFilter"
+          :placeholder="s.filter_location_placeholder"
+          class="filter-input"
+        >
+        <label class="sort-label">
+          <select v-model="sortKey" class="sort-select">
+            <option value="date">{{ s.sort_by_date }}</option>
+            <option value="location">{{ s.sort_by_location }}</option>
+          </select>
+        </label>
+        <button class="sort-dir-btn" @click="sortDir = sortDir === 'asc' ? 'desc' : 'asc'" :title="sortDir">
+          {{ sortDir === 'asc' ? '↑' : '↓' }}
+        </button>
+      </div>
+
+      <p class="result-count">{{ filteredEvents.length }} eventi</p>
+
+      <p v-if="filteredEvents.length === 0" class="empty-state">
+        {{ s.no_results }}
+      </p>
+
+      <table v-else>
+        <thead>
+          <tr>
+            <th>{{ s.date }}</th>
+            <th>{{ s.col_time }}</th>
+            <th>{{ s.col_speaker }}</th>
+            <th>{{ s.col_title }}</th>
+            <th>{{ s.col_city }}</th>
+            <th>{{ s.col_venue }}</th>
+            <th>{{ s.col_source }}</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="ev in filteredEvents" :key="ev.id">
+            <td class="date-cell">
+              <span v-if="ev.date_parsed">{{ formatDate(ev.date_parsed) }}</span>
+              <span v-else class="no-date">{{ s.no_date_label }}</span>
+            </td>
+            <td class="time-cell">{{ extractTime(ev.date) }}</td>
+            <td class="speaker-cell">{{ ev.speaker_name }}</td>
+            <td class="title-cell">{{ ev.title }}</td>
+            <td class="city-cell">{{ ev.city || '—' }}</td>
+            <td class="venue-cell">{{ ev.venue || '—' }}</td>
+            <td class="source-cell">{{ sourceName(ev.source_id) }}</td>
+            <td class="link-cell">
+              <a v-if="ev.url" :href="ev.url" target="_blank" rel="noopener">{{ s.link_label }}</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <script>
+  const { createApp } = Vue;
+
+  createApp({
+    data() {
+      return {
+        events: [],
+        speakers: [],
+        sources: [],
+        s: {},
+        selectedSpeakers: JSON.parse(localStorage.getItem('selectedSpeakers') || '[]'),
+        selectedTags: JSON.parse(localStorage.getItem('selectedTags') || '[]'),
+        speakerSearch: '',
+        showDropdown: false,
+        suggestInput: '',
+        suggestedSpeakers: JSON.parse(localStorage.getItem('suggestedSpeakers') || '[]'),
+        locationFilter: '',
+        sortKey: 'date',
+        sortDir: 'asc',
+      };
+    },
+
+    computed: {
+      today() {
+        return new Date().toISOString().split('T')[0];
+      },
+
+      // Map speaker name → tags for quick lookup in filteredEvents
+      speakerTagMap() {
+        const map = {};
+        this.speakers.forEach(sp => { map[sp.name] = sp.tags || []; });
+        return map;
+      },
+
+      // Sorted list of all unique tags across all speakers
+      allTags() {
+        const tags = new Set();
+        this.speakers.forEach(sp => (sp.tags || []).forEach(t => tags.add(t)));
+        return [...tags].sort();
+      },
+
+      // Speakers shown in the search dropdown: filtered by selected tags (if any)
+      // and by the search text
+      filteredSpeakerOptions() {
+        let list = this.speakers;
+        if (this.selectedTags.length > 0) {
+          list = list.filter(sp =>
+            (sp.tags || []).some(t => this.selectedTags.includes(t))
+          );
+        }
+        const q = this.speakerSearch.toLowerCase();
+        if (q) {
+          list = list.filter(sp => sp.name.toLowerCase().includes(q));
+        }
+        return list;
+      },
+
+      // True when any filter is active (drives "clear" button visibility)
+      hasFilters() {
+        return (
+          this.selectedSpeakers.length > 0 ||
+          this.selectedTags.length > 0 ||
+          this.locationFilter.trim().length > 0
+        );
+      },
+
+      filteredEvents() {
+        let evs = this.events;
+
+        // Hide events that have already passed
+        evs = evs.filter(e => !e.date_parsed || e.date_parsed >= this.today);
+
+        // Tag filter: keep events whose speaker has at least one selected tag
+        if (this.selectedTags.length > 0) {
+          evs = evs.filter(e => {
+            const tags = this.speakerTagMap[e.speaker_name] || [];
+            return this.selectedTags.some(t => tags.includes(t));
+          });
+        }
+
+        // Speaker filter: further narrow to specific selected speakers
+        if (this.selectedSpeakers.length > 0) {
+          evs = evs.filter(e => this.selectedSpeakers.includes(e.speaker_name));
+        }
+
+        if (this.locationFilter.trim()) {
+          const q = this.locationFilter.trim().toLowerCase();
+          evs = evs.filter(e =>
+            (e.city || '').toLowerCase().includes(q) ||
+            (e.venue || '').toLowerCase().includes(q)
+          );
+        }
+
+        return [...evs].sort((a, b) => {
+          if (this.sortKey === 'date') {
+            // Events without a parsed date always sink to the bottom
+            if (!a.date_parsed && !b.date_parsed) return 0;
+            if (!a.date_parsed) return 1;
+            if (!b.date_parsed) return -1;
+            const cmp = a.date_parsed.localeCompare(b.date_parsed);
+            return this.sortDir === 'asc' ? cmp : -cmp;
+          } else {
+            const la = (a.city || '').toLowerCase();
+            const lb = (b.city || '').toLowerCase();
+            const cmp = la.localeCompare(lb, 'it');
+            return this.sortDir === 'asc' ? cmp : -cmp;
+          }
+        });
+      },
+    },
+
+    watch: {
+      selectedSpeakers(val) {
+        localStorage.setItem('selectedSpeakers', JSON.stringify(val));
+      },
+      selectedTags(val) {
+        localStorage.setItem('selectedTags', JSON.stringify(val));
+      },
+      suggestedSpeakers(val) {
+        localStorage.setItem('suggestedSpeakers', JSON.stringify(val));
+      },
+    },
+
+    methods: {
+      toggleSpeaker(name) {
+        const idx = this.selectedSpeakers.indexOf(name);
+        if (idx === -1) {
+          this.selectedSpeakers = [...this.selectedSpeakers, name];
+        } else {
+          this.selectedSpeakers = this.selectedSpeakers.filter(n => n !== name);
+        }
+      },
+
+      toggleTag(tag) {
+        const idx = this.selectedTags.indexOf(tag);
+        if (idx === -1) {
+          this.selectedTags = [...this.selectedTags, tag];
+        } else {
+          this.selectedTags = this.selectedTags.filter(t => t !== tag);
+        }
+      },
+
+      addSuggestion() {
+        const name = this.suggestInput.trim();
+        if (!name || this.suggestedSpeakers.includes(name)) return;
+        this.suggestedSpeakers = [...this.suggestedSpeakers, name];
+        this.suggestInput = '';
+      },
+
+      removeSuggestion(i) {
+        this.suggestedSpeakers = this.suggestedSpeakers.filter((_, idx) => idx !== i);
+      },
+
+      clearFilters() {
+        this.selectedSpeakers = [];
+        this.selectedTags = [];
+        this.locationFilter = '';
+      },
+
+      sourceName(sourceId) {
+        const src = this.sources.find(s => s.id === sourceId);
+        return src ? src.name : sourceId;
+      },
+
+      formatDate(iso) {
+        // "2026-04-09" → "09 Apr 2026"
+        if (!iso) return '';
+        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        const [y, m, d] = iso.split('-');
+        return `${d} ${months[parseInt(m) - 1]} ${y}`;
+      },
+
+      extractTime(raw) {
+        // Find first HH:MM pattern in the raw date string
+        if (!raw) return '';
+        const m = raw.match(/\b(\d{1,2})[:\.](\d{2})\b/);
+        if (!m) return '';
+        return `${m[1].padStart(2, '0')}:${m[2]}`;
+      },
+    },
+
+    async mounted() {
+      const [eventsRaw, speakers, sources, strings] = await Promise.all([
+        fetch('data/events.json').then(r => r.json()),
+        fetch('data/speakers.json').then(r => r.json()),
+        fetch('data/sources.json').then(r => r.json()),
+        fetch('data/strings.json').then(r => r.json()),
+      ]);
+
+      this.events = Object.values(eventsRaw);
+      this.speakers = speakers;
+      this.sources = sources;
+      this.s = strings;
+
+      // Remove any stale speaker names from localStorage
+      const knownNames = speakers.map(sp => sp.name);
+      this.selectedSpeakers = this.selectedSpeakers.filter(n => knownNames.includes(n));
+
+      // Remove any stale tags from localStorage
+      const knownTags = new Set(speakers.flatMap(sp => sp.tags || []));
+      this.selectedTags = this.selectedTags.filter(t => knownTags.has(t));
+    },
+  }).mount('#app');
+  </script>
+</body>
+</html>

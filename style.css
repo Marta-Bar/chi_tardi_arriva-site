@@ -1,0 +1,420 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+[v-cloak] { display: none; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 14px;
+  background: #f5f5f5;
+  color: #1a1a1a;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  min-height: 100vh;
+}
+
+/* ── Sidebar ── */
+
+.sidebar {
+  background: #fff;
+  border-right: 1px solid #e2e2e2;
+  padding: 1.25rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111;
+}
+
+.sidebar-subtitle {
+  margin: -0.5rem 0 0;
+  font-size: 12px;
+  color: #888;
+}
+
+/* ── Clear all filters button ── */
+
+.clear-btn {
+  width: 100%;
+  padding: 6px 10px;
+  background: none;
+  border: 1px solid #fca5a5;
+  border-radius: 5px;
+  color: #b91c1c;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: center;
+  transition: background 0.1s;
+}
+
+.clear-btn:hover {
+  background: #fef2f2;
+}
+
+/* ── Filter sections (tags + speaker search) ── */
+
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.filter-label {
+  margin: 0;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #bbb;
+}
+
+/* ── Tag chips ── */
+
+.tag-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.chip {
+  display: inline-block;
+  padding: 3px 9px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fafafa;
+  color: #444;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1.5;
+  transition: background 0.1s, color 0.1s, border-color 0.1s;
+}
+
+.chip:hover {
+  background: #eef2ff;
+  border-color: #a5b4fc;
+}
+
+.chip.active {
+  background: #2563eb;
+  color: #fff;
+  border-color: #2563eb;
+}
+
+/* ── Speaker suggestion box ── */
+
+.suggest-section {
+  border-top: 1px solid #f0f0f0;
+  padding-top: 0.75rem;
+}
+
+.suggest-row {
+  display: flex;
+  gap: 5px;
+}
+
+.suggest-row .speaker-search-input {
+  flex: 1;
+}
+
+.suggest-btn {
+  padding: 6px 11px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #fafafa;
+  cursor: pointer;
+  font-size: 16px;
+  color: #555;
+  line-height: 1;
+  transition: background 0.1s;
+}
+
+.suggest-btn:hover:not(:disabled) {
+  background: #eef2ff;
+  border-color: #a5b4fc;
+}
+
+.suggest-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.suggest-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.suggest-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 8px;
+  background: #fffbeb;
+  border: 1px solid #fde68a;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #92400e;
+}
+
+/* ── Speaker search dropdown ── */
+
+.speaker-search-wrapper {
+  position: relative;
+}
+
+.speaker-search-input {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 13px;
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.speaker-search-input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px #bfdbfe;
+}
+
+.speaker-dropdown {
+  position: absolute;
+  top: calc(100% + 3px);
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  max-height: 220px;
+  overflow-y: auto;
+  z-index: 100;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 6px 10px;
+  border: none;
+  background: none;
+  font-size: 13px;
+  cursor: pointer;
+  color: #333;
+}
+
+.dropdown-item:hover {
+  background: #eef2ff;
+}
+
+.dropdown-item.selected {
+  color: #2563eb;
+  font-weight: 600;
+}
+
+.dropdown-item.selected::before {
+  content: '✓ ';
+}
+
+/* ── Selected speaker chips ── */
+
+.selected-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.selected-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  padding: 3px 7px;
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 4px;
+  font-size: 12px;
+  color: #1d4ed8;
+}
+
+.remove-chip {
+  border: none;
+  background: none;
+  color: #93c5fd;
+  cursor: pointer;
+  padding: 0;
+  line-height: 1;
+  font-size: 15px;
+}
+
+.remove-chip:hover {
+  color: #1d4ed8;
+}
+
+/* ── Main content ── */
+
+.content {
+  padding: 1.5rem 2rem;
+  min-width: 0;
+}
+
+/* ── Controls bar ── */
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.filter-input,
+.sort-select {
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 13px;
+  background: #fff;
+  color: #1a1a1a;
+}
+
+.filter-input {
+  min-width: 200px;
+}
+
+.filter-input:focus,
+.sort-select:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px #bfdbfe;
+}
+
+.sort-label {
+  display: flex;
+  align-items: center;
+}
+
+.sort-dir-btn {
+  padding: 6px 11px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  color: #555;
+  line-height: 1;
+}
+
+.sort-dir-btn:hover {
+  background: #f0f0f0;
+}
+
+.result-count {
+  margin: 0 0 0.75rem;
+  font-size: 12px;
+  color: #999;
+}
+
+/* ── Table ── */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.07);
+}
+
+thead th {
+  padding: 9px 12px;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #666;
+  background: #f8f8f8;
+  border-bottom: 1px solid #e5e5e5;
+  white-space: nowrap;
+}
+
+tbody tr {
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.1s;
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: #f0f4ff;
+}
+
+td {
+  padding: 8px 12px;
+  vertical-align: top;
+}
+
+.date-cell {
+  white-space: nowrap;
+  color: #444;
+  font-size: 13px;
+}
+
+.no-date {
+  color: #ccc;
+}
+
+.speaker-cell {
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.title-cell {
+  max-width: 340px;
+  color: #222;
+}
+
+.source-cell {
+  white-space: nowrap;
+  color: #888;
+  font-size: 12px;
+}
+
+.link-cell {
+  text-align: center;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.empty-state {
+  color: #aaa;
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 15px;
+}
