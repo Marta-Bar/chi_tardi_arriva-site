@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Alessandro Aresu",
+    "aliases": [
+      "Aresu"
+    ],
+    "tags": [
+      "geopolitics",
+      "technology"
+    ]
+  },
+  {
+    "name": "Alessandro Barbero",
+    "aliases": [
+      "Barbero"
+    ],
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "name": "Guido Barbujani",
+    "aliases": [
+      "Barbujani"
+    ],
+    "tags": [
+      "science",
+      "biology"
+    ]
+  },
+  {
+    "name": "Silvia Bencivelli",
+    "aliases": [
+      "Bencivelli"
+    ],
+    "tags": [
+      "science",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Dario Bressanini",
+    "aliases": [
+      "Bressanini"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Mirko Campochiari",
+    "aliases": [
+      "Parabellum"
+    ],
+    "tags": [
+      "history",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Eugenio Cau",
+    "aliases": [
+      "Cau",
+      "Globo"
+    ],
+    "tags": [
+      "geopolitics",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Francesco Costa",
+    "aliases": [
+      "Costa"
+    ],
+    "tags": [
+      "geopolitics",
+      "politics",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Stefano Gandelli",
+    "aliases": [
+      "Gandelli",
+      "Geopop"
+    ],
+    "tags": [
+      "science",
+      "technology"
+    ]
+  },
+  {
+    "name": "Vera Gheno",
+    "aliases": [
+      "Gheno"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Andrea Girolami",
+    "aliases": [
+      "Girolami"
+    ],
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "name": "Simone Guida",
+    "aliases": [
+      "Nova Lectio"
+    ],
+    "tags": [
+      "geopolitics",
+      "history"
+    ]
+  },
+  {
+    "name": "Chiara Galeazzi",
+    "aliases": [
+      "Galeazzi"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Silvia Kuna Ballero",
+    "aliases": [
+      "Kuna"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Alessandro Masala",
+    "aliases": [
+      "Masala",
+      "Shy",
+      "Breaking Italy"
+    ],
+    "tags": [
+      "journalism",
+      "politics"
+    ]
+  },
+  {
+    "name": "Francesca Mannocchi",
+    "aliases": [
+      "Mannocchi"
+    ],
+    "tags": [
+      "journalism",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Beatrice Mautino",
+    "aliases": [
+      "Mautino"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Luca Misculin",
+    "aliases": [
+      "Misculin"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Simone Montangero",
+    "aliases": [
+      "Montangero"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Stefano Nazzi",
+    "aliases": [
+      "Nazzi",
+      "Indagini"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Telmo Pievani",
+    "aliases": [
+      "Pievani"
+    ],
+    "tags": [
+      "science",
+      "biology"
+    ]
+  },
+  {
+    "name": "Giulia Pompili",
+    "aliases": [
+      "Pompili",
+      "Katane"
+    ],
+    "tags": [
+      "geopolitics",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Antonello Provenzale",
+    "aliases": [
+      "Provenzale"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Michele Raineri",
+    "aliases": [
+      "Raineri"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Ruggero Rollini",
+    "aliases": [
+      "Rollini"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Linda Laura Sabbadini",
+    "aliases": [
+      "Sabbadini"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Cecilia Sala",
+    "aliases": [
+      "Sala"
+    ],
+    "tags": [
+      "journalism",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Giorgio Vallortigara",
+    "aliases": [
+      "Vallortigara"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Marcello Ascani",
+    "aliases": [
+      "Ascani"
+    ],
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "name": "Barbascura X",
+    "aliases": [
+      "Barbascura"
+    ],
+    "tags": [
+      "science",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Giovanna Botteri",
+    "aliases": [
+      "Botteri"
+    ],
+    "tags": [
+      "journalism",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Roberto Burioni",
+    "aliases": [
+      "Burioni"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Eva Cantarella",
+    "aliases": [
+      "Cantarella"
+    ],
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "name": "Lucio Caracciolo",
+    "aliases": [
+      "Caracciolo"
+    ],
+    "tags": [
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Giacomo Moro Mauretto",
+    "aliases": [
+      "Entropy for Life"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Gad Lerner",
+    "aliases": [
+      "Lerner"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Mister RIP",
+    "aliases": [
+      "Mr. RIP"
+    ],
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "name": "Luca Perri",
+    "aliases": [
+      "Perri"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Massimo Polidoro",
+    "aliases": [
+      "Polidoro"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Domenico Quirico",
+    "aliases": [
+      "Quirico"
+    ],
+    "tags": [
+      "journalism",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Federico Rampini",
+    "aliases": [
+      "Rampini"
+    ],
+    "tags": [
+      "geopolitics",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Carlo Rovelli",
+    "aliases": [
+      "Rovelli"
+    ],
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "name": "Nathalie Tocci",
+    "aliases": [
+      "Tocci"
+    ],
+    "tags": [
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Pablo Trincia",
+    "aliases": [
+      "Trincia"
+    ],
+    "tags": [
+      "journalism",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Alessandro Vanoli",
+    "aliases": [
+      "Vanoli"
+    ],
+    "tags": [
+      "history"
+    ]
+  },
+  {
+    "name": "Pierfrancesco Diliberto",
+    "aliases": [
+      "Pif"
+    ],
+    "tags": [
+      "journalism",
+      "comedy"
+    ]
+  },
+  {
+    "name": "Valerio Lundini",
+    "aliases": [
+      "Lundini"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Daniele Tinti",
+    "aliases": [
+      "Tinti"
+    ],
+    "tags": [
+      "comedy",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Stefano Rapone",
+    "aliases": [
+      "Rapone"
+    ],
+    "tags": [
+      "comedy",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Annalisa Cuzzocrea",
+    "aliases": [
+      "Cuzzocrea"
+    ],
+    "tags": [
+      "journalism",
+      "politics"
+    ]
+  },
+  {
+    "name": "Riccardo Haupt",
+    "aliases": [
+      "Haupt"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Alessandro Tommasi",
+    "aliases": [
+      "Tommasi"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Agnese Pini",
+    "aliases": [
+      "Pini"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Francesca Milano",
+    "aliases": [
+      "Milano"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  },
+  {
+    "name": "Marta Ottaviani",
+    "aliases": [
+      "Ottaviani"
+    ],
+    "tags": [
+      "journalism",
+      "geopolitics"
+    ]
+  },
+  {
+    "name": "Lorenzo Pregliasco",
+    "aliases": [
+      "Pregliasco"
+    ],
+    "tags": [
+      "journalism",
+      "politics"
+    ]
+  },
+  {
+    "name": "Luca Sofri",
+    "aliases": [
+      "Sofri"
+    ],
+    "tags": [
+      "journalism"
+    ]
+  }
+]

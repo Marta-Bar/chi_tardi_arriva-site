@@ -1,0 +1,213 @@
+{
+  "3196bc50f954b425f848a10df841cd68": {
+    "source_id": "biennale_tecnologia",
+    "title": "Le condizioni poste dal nostro cervello all’alleanza con l’intelligenza artificiale",
+    "speaker_name": "Giorgio Vallortigara",
+    "date": "16 Apr 2026 Dalle 11:30 alle 12:30",
+    "city": "Torino",
+    "venue": "Politecnico di Torino - Aula Magna",
+    "url": "https://www.biennaletecnologia.it/evento/le-condizioni-poste-dal-nostro-cervello-allalleanza-con-lintelligenza-artificiale/",
+    "extra": {
+      "all_guests": [
+        "Giorgio Vallortigara"
+      ]
+    },
+    "id": "3196bc50f954b425f848a10df841cd68",
+    "content_hash": "ac32ebb04939b9d116f3f7fd3c899868",
+    "date_parsed": "2026-04-16"
+  },
+  "367d74353fcb2c3dd6e90f5a6467ce81": {
+    "source_id": "biennale_tecnologia",
+    "title": "A tavola con la scienza",
+    "speaker_name": "Dario Bressanini",
+    "date": "16 Apr 2026 Dalle 18:00 alle 19:00",
+    "city": "Torino",
+    "venue": "Palazzo Madama, Sala Atelier",
+    "url": "https://www.biennaletecnologia.it/evento/a-tavola-con-la-scienza/",
+    "extra": {
+      "all_guests": [
+        "Dario Bressanini",
+        "Enrica Favaro"
+      ]
+    },
+    "id": "367d74353fcb2c3dd6e90f5a6467ce81",
+    "content_hash": "c164bac74bbf9ce3dde845174384642f",
+    "date_parsed": "2026-04-16"
+  },
+  "06ff456bff02a70902f7a56f374d97f8": {
+    "source_id": "biennale_tecnologia",
+    "title": "Dentro il cuore tecnologico del futuro: perché i semiconduttori contano e perché sono fondamentali negli equilibri mondiali",
+    "speaker_name": "Alessandro Aresu",
+    "date": "18 Apr 2026 Dalle 11:30 alle 12:30",
+    "city": "Torino",
+    "venue": "Polo del '900",
+    "url": "https://www.biennaletecnologia.it/evento/dentro-il-cuore-tecnologico-del-futuro-perche-i-semiconduttori-contano-e-perche-sono-fondamentali-negli-equilibri-mondiali/",
+    "extra": {
+      "all_guests": [
+        "Alessandro Aresu",
+        "Matteo Sonza Reorda"
+      ]
+    },
+    "id": "06ff456bff02a70902f7a56f374d97f8",
+    "content_hash": "8ed16495751dc47ddc8006aa88d69300",
+    "date_parsed": "2026-04-18"
+  },
+  "c6960b51be5aa284a70470d4ed5a2a65": {
+    "source_id": "biennale_tecnologia",
+    "title": "L’acqua nello sviluppo della società: dalle civiltà antiche all’industria moderna",
+    "speaker_name": "Antonello Provenzale",
+    "date": "18 Apr 2026 Dalle 16:30 alle 17:30",
+    "city": "Torino",
+    "venue": "Lingotto Fiere, Sala Rossa",
+    "url": "https://www.biennaletecnologia.it/evento/lacqua-nello-sviluppo-della-societa-dalle-civilta-antiche-allindustria-moderna/",
+    "extra": {
+      "all_guests": [
+        "Antonello Provenzale",
+        "Francesco Remotti",
+        "Pietro Terna"
+      ]
+    },
+    "id": "c6960b51be5aa284a70470d4ed5a2a65",
+    "content_hash": "d94ca5d17a461f385d6c6bd060e6836c",
+    "date_parsed": "2026-04-18"
+  },
+  "4a9c379b83d3fa64cd1c006fa43aad9a": {
+    "source_id": "biennale_tecnologia",
+    "title": "Provato sul mio corpo",
+    "speaker_name": "Silvia Bencivelli",
+    "date": "19 Apr 2026 Dalle 15:30 alle 16:30",
+    "city": "Torino",
+    "venue": "Campus Luigi Einaudi - Aula Magna",
+    "url": "https://www.biennaletecnologia.it/evento/provato-sul-mio-corpo/",
+    "extra": {
+      "all_guests": [
+        "Silvia Bencivelli"
+      ]
+    },
+    "id": "4a9c379b83d3fa64cd1c006fa43aad9a",
+    "content_hash": "3196852a2d2682d60d4fbf44582fd062",
+    "date_parsed": "2026-04-19"
+  },
+  "dd68b85ce2a3d89df5c120bf7c776c72": {
+    "source_id": "biennale_tecnologia",
+    "title": "Tecnomusik – Il Libro del mondo scritto in musica",
+    "speaker_name": "Telmo Pievani",
+    "date": "19 Apr 2026 Dalle 16:15 alle 17:30",
+    "city": "Torino",
+    "venue": "Sala del rettorato, Politecnico di Torino",
+    "url": "https://www.biennaletecnologia.it/evento/tecnomusik-il-libro-del-mondo-scritto-in-musica/",
+    "extra": {
+      "all_guests": [
+        "Telmo Pievani",
+        "Giorgio Li Calzi"
+      ]
+    },
+    "id": "dd68b85ce2a3d89df5c120bf7c776c72",
+    "content_hash": "872870d9866379c01bbac3e9512dcd57",
+    "date_parsed": "2026-04-19"
+  },
+  "e6f360b1309cdf692d453062fbd519b8": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-04-10 12:30",
+    "city": "Roma",
+    "venue": "Salone delle Fontane, EUR, Roma",
+    "url": "https://www.francescocosta.net/agenda/30f34f3780307ca8b7912b5cf8ac3c94/",
+    "extra": {},
+    "id": "e6f360b1309cdf692d453062fbd519b8",
+    "content_hash": "0fc886fb62af23d419be8cee92ea2cb2",
+    "date_parsed": "2026-04-10"
+  },
+  "b3b0c076675711462b295c9456951068": {
+    "source_id": "costa_agenda",
+    "title": "Morning con Nicola Ghittoni",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-04-11 10:00",
+    "city": "Torino",
+    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
+    "url": "https://www.francescocosta.net/agenda/786132f24c64b540330bd6d3316d038d/",
+    "extra": {},
+    "id": "b3b0c076675711462b295c9456951068",
+    "content_hash": "3d983b41d670178c8377a51e761d3753",
+    "date_parsed": "2026-04-11"
+  },
+  "4cb6366c1a92257f238542ab9fd0c9ee": {
+    "source_id": "costa_agenda",
+    "title": "Wilson con Elsa Fornero",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-04-11 16:30",
+    "city": "Torino",
+    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
+    "url": "https://www.francescocosta.net/agenda/121b6c82da22a17f0ae4b12ad5514c1e/",
+    "extra": {},
+    "id": "4cb6366c1a92257f238542ab9fd0c9ee",
+    "content_hash": "c2bc067533a89be2962654625fbca00f",
+    "date_parsed": "2026-04-11"
+  },
+  "f461963df6df57ad4d5cc041de73a285": {
+    "source_id": "costa_agenda",
+    "title": "Allegramente pessimista con Francesco Piccolo",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-04-12 16:30",
+    "city": "Torino",
+    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
+    "url": "https://www.francescocosta.net/agenda/3a9be3c81594351cea18311442d12ea8/",
+    "extra": {},
+    "id": "f461963df6df57ad4d5cc041de73a285",
+    "content_hash": "106b6158b26aef52a65aee37c5d7b0ba",
+    "date_parsed": "2026-04-12"
+  },
+  "ad354731da5f9771e6950ecc10c47996": {
+    "source_id": "costa_agenda",
+    "title": "Tienimi Wilson con Matteo Bordone",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-04-12 18:30",
+    "city": "Torino",
+    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
+    "url": "https://www.francescocosta.net/agenda/2c00994e1b274863b9acf2d375220f6b/",
+    "extra": {},
+    "id": "ad354731da5f9771e6950ecc10c47996",
+    "content_hash": "133375cc8f5980bd3d70af2fbc151336",
+    "date_parsed": "2026-04-12"
+  },
+  "a3b15dff94d02d337a104531d398be54": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-06-15 20:00",
+    "city": "Rivoli (to)",
+    "venue": "Corso Susa, 128, 10098, Rivoli (TO)",
+    "url": "https://www.francescocosta.net/agenda/8c064b765381eaee93d1fac585481e94/",
+    "extra": {},
+    "id": "a3b15dff94d02d337a104531d398be54",
+    "content_hash": "16faf4f12aff4018b52c383cc0bdfeb1",
+    "date_parsed": "2026-06-15"
+  },
+  "a2e199eb8fdc9ded6c60624ede0a69d0": {
+    "source_id": "palazzo_ducale_eventi",
+    "title": "“E non scappare mai, Rizzoli 2025”, in dialogo con Nadia Terranova",
+    "speaker_name": "Annalisa Cuzzocrea",
+    "date": "13 Apr 2026, ore 18.30",
+    "city": "Genova",
+    "venue": "Palazzo Ducale Sala del Maggior Consiglio",
+    "url": "https://palazzoducale.genova.it/evento/annalisa-cuzzocrea/",
+    "extra": {},
+    "id": "a2e199eb8fdc9ded6c60624ede0a69d0",
+    "content_hash": "3f5a456018463b98f7aa1e090d791754",
+    "date_parsed": "2026-04-13"
+  },
+  "18de7310b37009e47dbe4543c3749fd3": {
+    "source_id": "teatro_nazionale_genova",
+    "title": "Francesca Mannocchi e Rodrigo D'Erasmo - Crescere, la guerra",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "2026-04-08",
+    "city": "Genova",
+    "venue": "Teatro Ivo Chiesa",
+    "url": "https://www.teatronazionalegenova.it/eventi/2025-2026/francesca-mannocchi-e-rodrigo-d-erasmo-crescere-la-guerra.htm",
+    "extra": {},
+    "id": "18de7310b37009e47dbe4543c3749fd3",
+    "content_hash": "0040dd1352ace433cc126cc754a46cc1",
+    "date_parsed": "2026-04-08"
+  }
+}

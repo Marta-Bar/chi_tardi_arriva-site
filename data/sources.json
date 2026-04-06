@@ -1,0 +1,92 @@
+[
+  {
+    "id": "festival_scienza",
+    "name": "Festival della Scienza",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "festival_comunicazione",
+    "name": "Festival della Comunicazione",
+    "location": "Camogli",
+    "scope": "local"
+  },
+  {
+    "id": "festival_mente",
+    "name": "Festival della Mente",
+    "location": "Sarzana",
+    "scope": "local"
+  },
+  {
+    "id": "salone_libro",
+    "name": "Salone del Libro",
+    "location": "Torino",
+    "scope": "national"
+  },
+  {
+    "id": "cicap_fest",
+    "name": "CICAP Fest",
+    "location": "Padova",
+    "scope": "national"
+  },
+  {
+    "id": "biennale_tecnologia",
+    "name": "Biennale Tecnologia",
+    "location": "Torino",
+    "scope": "national"
+  },
+  {
+    "id": "festivaletteratura",
+    "name": "Festivaletteratura",
+    "location": "Mantova",
+    "scope": "national"
+  },
+  {
+    "id": "costa_agenda",
+    "name": "Francesco Costa Agenda",
+    "location": "",
+    "scope": "national"
+  },
+  {
+    "id": "palazzo_ducale_eventi",
+    "name": "Palazzo Ducale — Eventi",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "biblioteche_genova",
+    "name": "Biblioteche di Genova",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "teatro_nazionale_genova",
+    "name": "Teatro Nazionale di Genova",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "feltrinelli_genova",
+    "name": "La Feltrinelli — Genova",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "galata_museo_del_mare",
+    "name": "Galata Museo del Mare",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "societa_storia_patria",
+    "name": "Società Ligure di Storia Patria",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "crazy_bull_genova",
+    "name": "Crazy Bull cafe",
+    "location": "Genova",
+    "scope": "local"
+  }
+]
