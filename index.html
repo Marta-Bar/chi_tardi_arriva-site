@@ -28,27 +28,6 @@
         </div>
       </div>
 
-      <!-- Speaker suggestion box -->
-      <div class="filter-section suggest-section">
-        <p class="filter-label">Manca qualcuno?</p>
-        <div class="suggest-row">
-          <input
-            type="text"
-            v-model="suggestInput"
-            placeholder="Nome speaker..."
-            class="speaker-search-input"
-            @keydown.enter="addSuggestion"
-          >
-          <button class="suggest-btn" @click="addSuggestion" :disabled="!suggestInput.trim()">+</button>
-        </div>
-        <ul v-if="suggestedSpeakers.length > 0" class="suggest-list">
-          <li v-for="(name, i) in suggestedSpeakers" :key="i" class="suggest-item">
-            <span>{{ name }}</span>
-            <button class="remove-chip" @click="removeSuggestion(i)">×</button>
-          </li>
-        </ul>
-      </div>
-
       <!-- Speaker search + selection -->
       <div class="filter-section">
         <p class="filter-label">Speaker</p>
@@ -153,8 +132,6 @@
         selectedTags: JSON.parse(localStorage.getItem('selectedTags') || '[]'),
         speakerSearch: '',
         showDropdown: false,
-        suggestInput: '',
-        suggestedSpeakers: JSON.parse(localStorage.getItem('suggestedSpeakers') || '[]'),
         locationFilter: '',
         sortKey: 'date',
         sortDir: 'asc',
@@ -257,9 +234,6 @@
       selectedTags(val) {
         localStorage.setItem('selectedTags', JSON.stringify(val));
       },
-      suggestedSpeakers(val) {
-        localStorage.setItem('suggestedSpeakers', JSON.stringify(val));
-      },
     },
 
     methods: {
@@ -279,17 +253,6 @@
         } else {
           this.selectedTags = this.selectedTags.filter(t => t !== tag);
         }
-      },
-
-      addSuggestion() {
-        const name = this.suggestInput.trim();
-        if (!name || this.suggestedSpeakers.includes(name)) return;
-        this.suggestedSpeakers = [...this.suggestedSpeakers, name];
-        this.suggestInput = '';
-      },
-
-      removeSuggestion(i) {
-        this.suggestedSpeakers = this.suggestedSpeakers.filter((_, idx) => idx !== i);
       },
 
       clearFilters() {
