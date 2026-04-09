@@ -66,6 +66,12 @@
     "scope": "local"
   },
   {
+    "id": "politeama_genovese",
+    "name": "Politeama Genovese",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
     "id": "feltrinelli_genova",
     "name": "La Feltrinelli — Genova",
     "location": "Genova",

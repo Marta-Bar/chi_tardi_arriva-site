@@ -196,5 +196,31 @@
     "id": "a2e199eb8fdc9ded6c60624ede0a69d0",
     "content_hash": "3f5a456018463b98f7aa1e090d791754",
     "date_parsed": "2026-04-13"
+  },
+  "45591c3d45a591805a18bc3e68a0c8a7": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione del libro di Anna Danesi",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-05-04 16:00",
+    "city": "Milano",
+    "venue": "Biblioteca Ambrosoli, Palazzo di Giustizia di Milano",
+    "url": "https://www.francescocosta.net/agenda/708740b17340160ef33df6a8505c6bff/",
+    "extra": {},
+    "id": "45591c3d45a591805a18bc3e68a0c8a7",
+    "content_hash": "f81e97a3d575c0be2487d31199d1dda4",
+    "date_parsed": "2026-05-04"
+  },
+  "7642751b2080ccfe158c08ece9dce6b6": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa e Paolo Giordano",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-05-08 21:15",
+    "city": "Trieste",
+    "venue": "Teatro Miela, Piazza Luigi Amedeo Duca degli Abruzzi, 3, 34132 Trieste TS, Italia",
+    "url": "https://www.francescocosta.net/agenda/4067de6b61be2cb1e86954e7a2ac32ad/",
+    "extra": {},
+    "id": "7642751b2080ccfe158c08ece9dce6b6",
+    "content_hash": "ec800468a3a74a0884a448a8feba3b5b",
+    "date_parsed": "2026-05-08"
   }
 }

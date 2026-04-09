@@ -479,20 +479,6 @@
     ]
   },
   {
-    "name": "Riccardo Haupt",
-    "aliases": [
-      "Haupt"
-    ],
-    "tags": []
-  },
-  {
-    "name": "Alessandro Tommasi",
-    "aliases": [
-      "Tommasi"
-    ],
-    "tags": []
-  },
-  {
     "name": "Agnese Pini",
     "aliases": [
       "Pini"
@@ -537,6 +523,292 @@
     ],
     "tags": [
       "journalism"
+    ]
+  },
+  {
+    "name": "Francesco De Carlo",
+    "aliases": [
+      "De Carlo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Edoardo Ferrario",
+    "aliases": [
+      "Ferrario"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Luca Ravenna",
+    "aliases": [
+      "Ravenna"
+    ],
+    "tags": [
+      "comedy",
+      "podcast"
+    ]
+  },
+  {
+    "name": "Michela Giraud",
+    "aliases": [
+      "Giraud"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Saverio Raimondo",
+    "aliases": [
+      "Raimondo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Filippo Giardina",
+    "aliases": [
+      "Giardina"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Paolo Kessisoglu",
+    "aliases": [
+      "Kessisoglu",
+      "Luca e Paolo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Luca Bizzarri",
+    "aliases": [
+      "Bizzarri",
+      "Luca e Paolo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Claudio Morici",
+    "aliases": [
+      "Morici"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Giacomo Poretti",
+    "aliases": [
+      "Poretti",
+      "Aldo Giovanni e Giacomo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Francesco Paolantoni",
+    "aliases": [
+      "Paolantoni"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Nino Frassica",
+    "aliases": [
+      "Frassica"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Geppi Cucciari",
+    "aliases": [
+      "Cucciari"
+    ],
+    "tags": [
+      "comedy",
+      "journalism"
+    ]
+  },
+  {
+    "name": "Alessandro Cattelan",
+    "aliases": [
+      "Cattelan"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Max Angioni",
+    "aliases": [
+      "Angioni"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Maccio Capatonda",
+    "aliases": [
+      "Capatonda",
+      "Marcello Macchia"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Herbert Ballerina",
+    "aliases": [
+      "Ballerina",
+      "Alberto Gottardo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Francesco Pannofino",
+    "aliases": [
+      "Pannofino"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Alessandro Tiberi",
+    "aliases": [
+      "Tiberi"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Carolina Crescentini",
+    "aliases": [
+      "Crescentini"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Valerio Aprea",
+    "aliases": [
+      "Aprea"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Ninni Bruschetta",
+    "aliases": [
+      "Bruschetta"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Antonio Catania",
+    "aliases": [
+      "Catania"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Roberta Fiorentini",
+    "aliases": [
+      "Fiorentini"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Caterina Guzzanti",
+    "aliases": [
+      "Guzzanti"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Paolo Calabresi",
+    "aliases": [
+      "Calabresi"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Gianluca Gobbi",
+    "aliases": [
+      "Gobbi"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Karin Proia",
+    "aliases": [
+      "Proia"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Andrea Sartoretti",
+    "aliases": [
+      "Sartoretti"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Massimo De Lorenzo",
+    "aliases": [
+      "De Lorenzo"
+    ],
+    "tags": [
+      "comedy"
+    ]
+  },
+  {
+    "name": "Carlo De Ruggieri",
+    "aliases": [
+      "De Ruggieri"
+    ],
+    "tags": [
+      "comedy"
     ]
   }
 ]

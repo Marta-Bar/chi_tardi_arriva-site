@@ -14,6 +14,20 @@
 
       <button v-if="hasFilters" class="clear-btn" @click="clearFilters">Cancella filtri</button>
 
+      <!-- Region filter -->
+      <div class="filter-section">
+        <p class="filter-label">Regione</p>
+        <div class="tag-chips">
+          <button
+            v-for="region in allRegions"
+            :key="region"
+            class="chip"
+            :class="{ active: selectedRegions.includes(region) }"
+            @click="toggleRegion(region)"
+          >{{ region }}</button>
+        </div>
+      </div>
+
       <!-- Tag filter -->
       <div class="filter-section">
         <p class="filter-label">Argomenti</p>
@@ -121,6 +135,22 @@
   <script>
   const { createApp } = Vue;
 
+  // City → region mapping. Cities not listed here have no region and are hidden
+  // when any region filter is active.
+  const CITY_REGION = {
+    'Genova':   'Liguria',
+    'Camogli':  'Liguria',
+    'Sarzana':  'Liguria',
+    'Torino':   'Piemonte',
+    'Milano':   'Lombardia',
+    'Mantova':  'Lombardia',
+    'Padova':   'Veneto',
+    'Roma':     'Lazio',
+    'Napoli':   'Campania',
+    'Bologna':  'Emilia-Romagna',
+    'Firenze':  'Toscana',
+  };
+
   createApp({
     data() {
       return {
@@ -130,6 +160,7 @@
         s: {},
         selectedSpeakers: JSON.parse(localStorage.getItem('selectedSpeakers') || '[]'),
         selectedTags: JSON.parse(localStorage.getItem('selectedTags') || '[]'),
+        selectedRegions: JSON.parse(localStorage.getItem('selectedRegions') || '["Liguria"]'),
         speakerSearch: '',
         showDropdown: false,
         locationFilter: '',
@@ -157,6 +188,16 @@
         return [...tags].sort();
       },
 
+      // Sorted list of all regions that appear in actual events
+      allRegions() {
+        const regions = new Set();
+        this.events.forEach(e => {
+          const r = CITY_REGION[e.city];
+          if (r) regions.add(r);
+        });
+        return [...regions].sort();
+      },
+
       // Speakers shown in the search dropdown: filtered by selected tags (if any)
       // and by the search text
       filteredSpeakerOptions() {
@@ -178,6 +219,7 @@
         return (
           this.selectedSpeakers.length > 0 ||
           this.selectedTags.length > 0 ||
+          this.selectedRegions.length > 0 ||
           this.locationFilter.trim().length > 0
         );
       },
@@ -187,6 +229,14 @@
 
         // Hide events that have already passed
         evs = evs.filter(e => !e.date_parsed || e.date_parsed >= this.today);
+
+        // Region filter: keep events whose city maps to a selected region
+        if (this.selectedRegions.length > 0) {
+          evs = evs.filter(e => {
+            const r = CITY_REGION[e.city];
+            return r && this.selectedRegions.includes(r);
+          });
+        }
 
         // Tag filter: keep events whose speaker has at least one selected tag
         if (this.selectedTags.length > 0) {
@@ -234,6 +284,9 @@
       selectedTags(val) {
         localStorage.setItem('selectedTags', JSON.stringify(val));
       },
+      selectedRegions(val) {
+        localStorage.setItem('selectedRegions', JSON.stringify(val));
+      },
     },
 
     methods: {
@@ -255,9 +308,19 @@
         }
       },
 
+      toggleRegion(region) {
+        const idx = this.selectedRegions.indexOf(region);
+        if (idx === -1) {
+          this.selectedRegions = [...this.selectedRegions, region];
+        } else {
+          this.selectedRegions = this.selectedRegions.filter(r => r !== region);
+        }
+      },
+
       clearFilters() {
         this.selectedSpeakers = [];
         this.selectedTags = [];
+        this.selectedRegions = [];
         this.locationFilter = '';
       },
 
@@ -303,6 +366,10 @@
       // Remove any stale tags from localStorage
       const knownTags = new Set(speakers.flatMap(sp => sp.tags || []));
       this.selectedTags = this.selectedTags.filter(t => knownTags.has(t));
+
+      // Remove any stale regions from localStorage
+      const knownRegions = new Set(Object.values(eventsRaw).map(e => CITY_REGION[e.city]).filter(Boolean));
+      this.selectedRegions = this.selectedRegions.filter(r => knownRegions.has(r));
     },
   }).mount('#app');
   </script>
