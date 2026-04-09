@@ -222,5 +222,57 @@
     "id": "7642751b2080ccfe158c08ece9dce6b6",
     "content_hash": "ec800468a3a74a0884a448a8feba3b5b",
     "date_parsed": "2026-05-08"
+  },
+  "06c8ca68eeb7e9ebb299857a046051a9": {
+    "source_id": "politeama_genovese",
+    "title": "Valerio Aprea",
+    "speaker_name": "Valerio Aprea",
+    "date": "2026-04-15 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/07/01/valerio-aprea/",
+    "extra": {},
+    "id": "06c8ca68eeb7e9ebb299857a046051a9",
+    "content_hash": "d93b7e02a12c090d4e3f438c82a9f63b",
+    "date_parsed": "2026-04-15"
+  },
+  "984bac0abe9cb843613051077b39cbcd": {
+    "source_id": "politeama_genovese",
+    "title": "Stefano Nazzi",
+    "speaker_name": "Stefano Nazzi",
+    "date": "2026-04-14 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/09/17/stefano-nazzi/",
+    "extra": {},
+    "id": "984bac0abe9cb843613051077b39cbcd",
+    "content_hash": "8470a6c56bb6dae783bc66f04dc96753",
+    "date_parsed": "2026-04-14"
+  },
+  "dd7ff86c12c126e695fe6cdabcc1c88d": {
+    "source_id": "politeama_genovese",
+    "title": "Francesco De Carlo",
+    "speaker_name": "Francesco De Carlo",
+    "date": "2026-06-11 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/11/17/francesco-de-carlo/",
+    "extra": {},
+    "id": "dd7ff86c12c126e695fe6cdabcc1c88d",
+    "content_hash": "a6beffe06a02041caae6f99f28b67912",
+    "date_parsed": "2026-06-11"
+  },
+  "5081c9fba9c7777bcaa0cd46a327472e": {
+    "source_id": "politeama_genovese",
+    "title": "Luca Ravenna",
+    "speaker_name": "Luca Ravenna",
+    "date": "2026-04-27 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/10/09/luca-ravenna/",
+    "extra": {},
+    "id": "5081c9fba9c7777bcaa0cd46a327472e",
+    "content_hash": "4e5945cf4ae50fbfa06d80f99a23cf81",
+    "date_parsed": "2026-04-27"
   }
 }
