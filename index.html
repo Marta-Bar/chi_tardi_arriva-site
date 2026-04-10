@@ -347,11 +347,12 @@
     },
 
     async mounted() {
+      const v = '20260410082444';
       const [eventsRaw, speakers, sources, strings] = await Promise.all([
-        fetch('data/events.json').then(r => r.json()),
-        fetch('data/speakers.json').then(r => r.json()),
-        fetch('data/sources.json').then(r => r.json()),
-        fetch('data/strings.json').then(r => r.json()),
+        fetch(`data/events.json?v=${v}`).then(r => r.json()),
+        fetch(`data/speakers.json?v=${v}`).then(r => r.json()),
+        fetch(`data/sources.json?v=${v}`).then(r => r.json()),
+        fetch(`data/strings.json?v=${v}`).then(r => r.json()),
       ]);
 
       this.events = Object.values(eventsRaw);
