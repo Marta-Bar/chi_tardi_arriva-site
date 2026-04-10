@@ -66,6 +66,12 @@
     "scope": "local"
   },
   {
+    "id": "teatro_strada_nuova",
+    "name": "Teatro Strada Nuova",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
     "id": "politeama_genovese",
     "name": "Politeama Genovese",
     "location": "Genova",
@@ -92,6 +98,12 @@
   {
     "id": "crazy_bull_genova",
     "name": "Crazy Bull cafe",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "genova_teatro",
+    "name": "GenovaTeatro.it",
     "location": "Genova",
     "scope": "local"
   }
