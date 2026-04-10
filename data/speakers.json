@@ -1008,7 +1008,6 @@
   {
     "name": "Giovanni Storti",
     "aliases": [
-      "Giovanni",
       "Aldo Giovanni e Giacomo"
     ],
     "tags": [
@@ -1154,6 +1153,64 @@
     ],
     "tags": [
       "comedy"
+    ]
+  },
+  {
+    "name": "Zerocalcare",
+    "aliases": [
+      "Zerocalcare",
+      "Michele Rech"
+    ],
+    "tags": [
+      "comics"
+    ]
+  },
+  {
+    "name": "Leo Ortolani",
+    "aliases": [
+      "Ortolani"
+    ],
+    "tags": [
+      "comics"
+    ]
+  },
+  {
+    "name": "Gipi",
+    "aliases": [
+      "Gipi",
+      "Giovanni Cecchin"
+    ],
+    "tags": [
+      "comics"
+    ]
+  },
+  {
+    "name": "Sio",
+    "aliases": [
+      "Sio",
+      "Simone Albrigi"
+    ],
+    "tags": [
+      "comics"
+    ]
+  },
+  {
+    "name": "Giacomo Bevilacqua",
+    "aliases": [
+      "Giacomo Bevilacqua"
+    ],
+    "tags": [
+      "comics"
+    ]
+  },
+  {
+    "name": "Silver",
+    "aliases": [
+      "Silver",
+      "Guido Silvestri"
+    ],
+    "tags": [
+      "comics"
     ]
   }
 ]

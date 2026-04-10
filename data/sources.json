@@ -102,6 +102,12 @@
     "scope": "local"
   },
   {
+    "id": "please_stand_up",
+    "name": "Please Stand Up — Genova",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
     "id": "genova_teatro",
     "name": "GenovaTeatro.it",
     "location": "Genova",
