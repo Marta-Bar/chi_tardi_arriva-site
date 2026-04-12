@@ -90,14 +90,8 @@
     "scope": "local"
   },
   {
-    "id": "societa_storia_patria",
-    "name": "Società Ligure di Storia Patria",
-    "location": "Genova",
-    "scope": "local"
-  },
-  {
     "id": "crazy_bull_genova",
-    "name": "Crazy Bull cafe",
+    "name": "Crazy Bull Genova",
     "location": "Genova",
     "scope": "local"
   },
@@ -110,6 +104,12 @@
   {
     "id": "genova_teatro",
     "name": "GenovaTeatro.it",
+    "location": "Genova",
+    "scope": "local"
+  },
+  {
+    "id": "porto_antico",
+    "name": "Porto Antico di Genova",
     "location": "Genova",
     "scope": "local"
   }

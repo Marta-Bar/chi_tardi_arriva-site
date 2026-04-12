@@ -106,45 +106,6 @@
     "content_hash": "872870d9866379c01bbac3e9512dcd57",
     "date_parsed": "2026-04-19"
   },
-  "e6f360b1309cdf692d453062fbd519b8": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-04-10 12:30",
-    "city": "Roma",
-    "venue": "Salone delle Fontane, EUR, Roma",
-    "url": "https://www.francescocosta.net/agenda/30f34f3780307ca8b7912b5cf8ac3c94/",
-    "extra": {},
-    "id": "e6f360b1309cdf692d453062fbd519b8",
-    "content_hash": "0fc886fb62af23d419be8cee92ea2cb2",
-    "date_parsed": "2026-04-10"
-  },
-  "b3b0c076675711462b295c9456951068": {
-    "source_id": "costa_agenda",
-    "title": "Morning con Nicola Ghittoni",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-04-11 10:00",
-    "city": "Torino",
-    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
-    "url": "https://www.francescocosta.net/agenda/786132f24c64b540330bd6d3316d038d/",
-    "extra": {},
-    "id": "b3b0c076675711462b295c9456951068",
-    "content_hash": "3d983b41d670178c8377a51e761d3753",
-    "date_parsed": "2026-04-11"
-  },
-  "4cb6366c1a92257f238542ab9fd0c9ee": {
-    "source_id": "costa_agenda",
-    "title": "Wilson con Elsa Fornero",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-04-11 16:30",
-    "city": "Torino",
-    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
-    "url": "https://www.francescocosta.net/agenda/121b6c82da22a17f0ae4b12ad5514c1e/",
-    "extra": {},
-    "id": "4cb6366c1a92257f238542ab9fd0c9ee",
-    "content_hash": "c2bc067533a89be2962654625fbca00f",
-    "date_parsed": "2026-04-11"
-  },
   "f461963df6df57ad4d5cc041de73a285": {
     "source_id": "costa_agenda",
     "title": "Allegramente pessimista con Francesco Piccolo",

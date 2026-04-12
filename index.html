@@ -38,7 +38,7 @@
             class="chip"
             :class="{ active: selectedTags.includes(tag) }"
             @click="toggleTag(tag)"
-          >{{ tag }}</button>
+          >{{ tagLabel(tag) }}</button>
         </div>
       </div>
 
@@ -103,7 +103,6 @@
             <th>{{ s.date }}</th>
             <th>{{ s.col_time }}</th>
             <th>{{ s.col_speaker }}</th>
-            <th>{{ s.col_title }}</th>
             <th>{{ s.col_city }}</th>
             <th>{{ s.col_venue }}</th>
             <th>{{ s.col_source }}</th>
@@ -117,8 +116,12 @@
               <span v-else class="no-date">{{ s.no_date_label }}</span>
             </td>
             <td class="time-cell">{{ extractTime(ev.date) }}</td>
-            <td class="speaker-cell">{{ ev.speaker_name }}</td>
-            <td class="title-cell">{{ ev.title }}</td>
+            <td class="speaker-cell">
+              <div class="speaker-name">{{ ev.speaker_name }}</div>
+              <div v-if="speakerTagList(ev.speaker_name).length" class="speaker-tags">
+                <span v-for="tag in speakerTagList(ev.speaker_name)" :key="tag" class="tag-mini" :style="tagStyle(tag)">{{ tagLabel(tag) }}</span>
+              </div>
+            </td>
             <td class="city-cell">{{ ev.city || '—' }}</td>
             <td class="venue-cell">{{ ev.venue || '—' }}</td>
             <td class="source-cell">{{ sourceName(ev.source_id) }}</td>
@@ -134,6 +137,33 @@
   <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
   <script>
   const { createApp } = Vue;
+
+  const TAG_LABELS = {
+    biology:     'biologia',
+    comedy:      'commedia',
+    comics:      'fumetti',
+    geopolitics: 'geopolitica',
+    history:     'storia',
+    journalism:  'giornalismo',
+    podcast:     'podcast',
+    politics:    'politica',
+    science:     'scienza',
+    technology:  'tecnologia',
+  };
+
+  // bg / text colors per tag
+  const TAG_COLORS = {
+    biology:     { bg: '#dcfce7', color: '#15803d' },
+    comedy:      { bg: '#ffedd5', color: '#c2410c' },
+    comics:      { bg: '#f3e8ff', color: '#7e22ce' },
+    geopolitics: { bg: '#fee2e2', color: '#b91c1c' },
+    history:     { bg: '#fef9c3', color: '#854d0e' },
+    journalism:  { bg: '#ccfbf1', color: '#0f766e' },
+    podcast:     { bg: '#e0e7ff', color: '#3730a3' },
+    politics:    { bg: '#ffe4e6', color: '#be123c' },
+    science:     { bg: '#dbeafe', color: '#1d4ed8' },
+    technology:  { bg: '#cffafe', color: '#0e7490' },
+  };
 
   // City → region mapping. Cities not listed here have no region and are hidden
   // when any region filter is active.
@@ -324,15 +354,29 @@
         this.locationFilter = '';
       },
 
+      tagLabel(tag) {
+        return TAG_LABELS[tag] || tag;
+      },
+
+      tagStyle(tag) {
+        const c = TAG_COLORS[tag];
+        if (!c) return {};
+        return { background: c.bg, color: c.color };
+      },
+
+      speakerTagList(speakerName) {
+        return this.speakerTagMap[speakerName] || [];
+      },
+
       sourceName(sourceId) {
         const src = this.sources.find(s => s.id === sourceId);
         return src ? src.name : sourceId;
       },
 
       formatDate(iso) {
-        // "2026-04-09" → "09 Apr 2026"
+        // "2026-04-09" → "09 apr 2026"
         if (!iso) return '';
-        const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        const months = ['gen','feb','mar','apr','mag','giu','lug','ago','set','ott','nov','dic'];
         const [y, m, d] = iso.split('-');
         return `${d} ${months[parseInt(m) - 1]} ${y}`;
       },
@@ -347,7 +391,7 @@
     },
 
     async mounted() {
-      const v = '20260410160555';
+      const v = '20260412092022';
       const [eventsRaw, speakers, sources, strings] = await Promise.all([
         fetch(`data/events.json?v=${v}`).then(r => r.json()),
         fetch(`data/speakers.json?v=${v}`).then(r => r.json()),
