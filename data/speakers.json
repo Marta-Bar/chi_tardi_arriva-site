@@ -5,7 +5,7 @@
       "Aresu"
     ],
     "tags": [
-      "geopolitics",
+      "news",
       "technology"
     ]
   },
@@ -35,7 +35,7 @@
     ],
     "tags": [
       "science",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -54,7 +54,7 @@
     ],
     "tags": [
       "history",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -64,8 +64,7 @@
       "Globo"
     ],
     "tags": [
-      "geopolitics",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -74,9 +73,8 @@
       "Costa"
     ],
     "tags": [
-      "geopolitics",
-      "politics",
-      "journalism"
+      "news",
+      "politics"
     ]
   },
   {
@@ -96,7 +94,7 @@
       "Gheno"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -114,7 +112,7 @@
       "Nova Lectio"
     ],
     "tags": [
-      "geopolitics",
+      "news",
       "history"
     ]
   },
@@ -144,7 +142,7 @@
       "Breaking Italy"
     ],
     "tags": [
-      "journalism",
+      "news",
       "politics"
     ]
   },
@@ -154,8 +152,7 @@
       "Mannocchi"
     ],
     "tags": [
-      "journalism",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -173,7 +170,7 @@
       "Misculin"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -192,7 +189,7 @@
       "Indagini"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -212,8 +209,7 @@
       "Katane"
     ],
     "tags": [
-      "geopolitics",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -231,7 +227,7 @@
       "Raineri"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -258,8 +254,7 @@
       "Sala"
     ],
     "tags": [
-      "journalism",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -296,8 +291,7 @@
       "Botteri"
     ],
     "tags": [
-      "journalism",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -324,7 +318,7 @@
       "Caracciolo"
     ],
     "tags": [
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -342,7 +336,7 @@
       "Lerner"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -378,8 +372,7 @@
       "Quirico"
     ],
     "tags": [
-      "journalism",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -388,8 +381,7 @@
       "Rampini"
     ],
     "tags": [
-      "geopolitics",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -407,7 +399,7 @@
       "Tocci"
     ],
     "tags": [
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -416,7 +408,7 @@
       "Trincia"
     ],
     "tags": [
-      "journalism",
+      "news",
       "podcast"
     ]
   },
@@ -435,7 +427,7 @@
       "Pif"
     ],
     "tags": [
-      "journalism",
+      "news",
       "comedy"
     ]
   },
@@ -474,7 +466,7 @@
       "Cuzzocrea"
     ],
     "tags": [
-      "journalism",
+      "news",
       "politics"
     ]
   },
@@ -484,7 +476,7 @@
       "Pini"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -493,7 +485,7 @@
       "Milano"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -502,8 +494,7 @@
       "Ottaviani"
     ],
     "tags": [
-      "journalism",
-      "geopolitics"
+      "news"
     ]
   },
   {
@@ -512,7 +503,7 @@
       "Pregliasco"
     ],
     "tags": [
-      "journalism",
+      "news",
       "politics"
     ]
   },
@@ -522,7 +513,7 @@
       "Sofri"
     ],
     "tags": [
-      "journalism"
+      "news"
     ]
   },
   {
@@ -644,7 +635,7 @@
     ],
     "tags": [
       "comedy",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -1114,7 +1105,7 @@
     ],
     "tags": [
       "comedy",
-      "journalism"
+      "news"
     ]
   },
   {
@@ -1211,6 +1202,27 @@
     ],
     "tags": [
       "comics"
+    ]
+  },
+  {
+    "name": "Francesca Albanese",
+    "aliases": [
+      "Francesca Albanese",
+      "Albanese"
+    ],
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "name": "Pietro Minto",
+    "aliases": [
+      "Pietro Minto",
+      "Minto"
+    ],
+    "tags": [
+      "technology",
+      "news"
     ]
   }
 ]

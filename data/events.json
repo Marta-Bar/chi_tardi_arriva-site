@@ -5,7 +5,7 @@
     "speaker_name": "Giorgio Vallortigara",
     "date": "16 Apr 2026 Dalle 11:30 alle 12:30",
     "city": "Torino",
-    "venue": "Politecnico di Torino - Aula Magna",
+    "venue": "Campus O.V. Marchesini",
     "url": "https://www.biennaletecnologia.it/evento/le-condizioni-poste-dal-nostro-cervello-allalleanza-con-lintelligenza-artificiale/",
     "extra": {
       "all_guests": [
@@ -13,7 +13,7 @@
       ]
     },
     "id": "3196bc50f954b425f848a10df841cd68",
-    "content_hash": "ac32ebb04939b9d116f3f7fd3c899868",
+    "content_hash": "9df3ac58069b672a8f05276c44676859",
     "date_parsed": "2026-04-16"
   },
   "367d74353fcb2c3dd6e90f5a6467ce81": {
@@ -22,7 +22,7 @@
     "speaker_name": "Dario Bressanini",
     "date": "16 Apr 2026 Dalle 18:00 alle 19:00",
     "city": "Torino",
-    "venue": "Palazzo Madama, Sala Atelier",
+    "venue": "Cinema Massimo",
     "url": "https://www.biennaletecnologia.it/evento/a-tavola-con-la-scienza/",
     "extra": {
       "all_guests": [
@@ -31,7 +31,7 @@
       ]
     },
     "id": "367d74353fcb2c3dd6e90f5a6467ce81",
-    "content_hash": "c164bac74bbf9ce3dde845174384642f",
+    "content_hash": "ac59cbb630483c40828ae611d4f5bde5",
     "date_parsed": "2026-04-16"
   },
   "06ff456bff02a70902f7a56f374d97f8": {
@@ -40,7 +40,7 @@
     "speaker_name": "Alessandro Aresu",
     "date": "18 Apr 2026 Dalle 11:30 alle 12:30",
     "city": "Torino",
-    "venue": "Polo del '900",
+    "venue": "Politecnico di Torino – Aula Magna",
     "url": "https://www.biennaletecnologia.it/evento/dentro-il-cuore-tecnologico-del-futuro-perche-i-semiconduttori-contano-e-perche-sono-fondamentali-negli-equilibri-mondiali/",
     "extra": {
       "all_guests": [
@@ -49,7 +49,7 @@
       ]
     },
     "id": "06ff456bff02a70902f7a56f374d97f8",
-    "content_hash": "8ed16495751dc47ddc8006aa88d69300",
+    "content_hash": "bfebfd0ef7318b02128810693cc49ee5",
     "date_parsed": "2026-04-18"
   },
   "c6960b51be5aa284a70470d4ed5a2a65": {
@@ -58,7 +58,7 @@
     "speaker_name": "Antonello Provenzale",
     "date": "18 Apr 2026 Dalle 16:30 alle 17:30",
     "city": "Torino",
-    "venue": "Lingotto Fiere, Sala Rossa",
+    "venue": "Castello del Valentino – Sala d’onore",
     "url": "https://www.biennaletecnologia.it/evento/lacqua-nello-sviluppo-della-societa-dalle-civilta-antiche-allindustria-moderna/",
     "extra": {
       "all_guests": [
@@ -68,7 +68,7 @@
       ]
     },
     "id": "c6960b51be5aa284a70470d4ed5a2a65",
-    "content_hash": "d94ca5d17a461f385d6c6bd060e6836c",
+    "content_hash": "2965f9d2634170e987fcd24edaa3aaeb",
     "date_parsed": "2026-04-18"
   },
   "4a9c379b83d3fa64cd1c006fa43aad9a": {
@@ -77,7 +77,7 @@
     "speaker_name": "Silvia Bencivelli",
     "date": "19 Apr 2026 Dalle 15:30 alle 16:30",
     "city": "Torino",
-    "venue": "Campus Luigi Einaudi - Aula Magna",
+    "venue": "Campus Luigi Einaudi, Aula B4",
     "url": "https://www.biennaletecnologia.it/evento/provato-sul-mio-corpo/",
     "extra": {
       "all_guests": [
@@ -85,7 +85,7 @@
       ]
     },
     "id": "4a9c379b83d3fa64cd1c006fa43aad9a",
-    "content_hash": "3196852a2d2682d60d4fbf44582fd062",
+    "content_hash": "7d81d8cd70bf98ba98f228b1f86ded96",
     "date_parsed": "2026-04-19"
   },
   "dd68b85ce2a3d89df5c120bf7c776c72": {
@@ -94,7 +94,7 @@
     "speaker_name": "Telmo Pievani",
     "date": "19 Apr 2026 Dalle 16:15 alle 17:30",
     "city": "Torino",
-    "venue": "Sala del rettorato, Politecnico di Torino",
+    "venue": "Politecnico di Torino, Sala 7 – Cittadella Politecnica",
     "url": "https://www.biennaletecnologia.it/evento/tecnomusik-il-libro-del-mondo-scritto-in-musica/",
     "extra": {
       "all_guests": [
@@ -103,7 +103,7 @@
       ]
     },
     "id": "dd68b85ce2a3d89df5c120bf7c776c72",
-    "content_hash": "872870d9866379c01bbac3e9512dcd57",
+    "content_hash": "a9976b6d3dac5ce5258cd60d6cef1642",
     "date_parsed": "2026-04-19"
   },
   "f461963df6df57ad4d5cc041de73a285": {
@@ -118,45 +118,6 @@
     "id": "f461963df6df57ad4d5cc041de73a285",
     "content_hash": "106b6158b26aef52a65aee37c5d7b0ba",
     "date_parsed": "2026-04-12"
-  },
-  "ad354731da5f9771e6950ecc10c47996": {
-    "source_id": "costa_agenda",
-    "title": "Tienimi Wilson con Matteo Bordone",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-04-12 18:30",
-    "city": "Torino",
-    "venue": "OGR, Corso Castelfidardo, 22, 10128 Torino TO",
-    "url": "https://www.francescocosta.net/agenda/2c00994e1b274863b9acf2d375220f6b/",
-    "extra": {},
-    "id": "ad354731da5f9771e6950ecc10c47996",
-    "content_hash": "133375cc8f5980bd3d70af2fbc151336",
-    "date_parsed": "2026-04-12"
-  },
-  "a3b15dff94d02d337a104531d398be54": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-06-15 20:00",
-    "city": "Rivoli (to)",
-    "venue": "Corso Susa, 128, 10098, Rivoli (TO)",
-    "url": "https://www.francescocosta.net/agenda/8c064b765381eaee93d1fac585481e94/",
-    "extra": {},
-    "id": "a3b15dff94d02d337a104531d398be54",
-    "content_hash": "16faf4f12aff4018b52c383cc0bdfeb1",
-    "date_parsed": "2026-06-15"
-  },
-  "a2e199eb8fdc9ded6c60624ede0a69d0": {
-    "source_id": "palazzo_ducale_eventi",
-    "title": "“E non scappare mai, Rizzoli 2025”, in dialogo con Nadia Terranova",
-    "speaker_name": "Annalisa Cuzzocrea",
-    "date": "13 Apr 2026, ore 18.30",
-    "city": "Genova",
-    "venue": "Palazzo Ducale Sala del Maggior Consiglio",
-    "url": "https://palazzoducale.genova.it/evento/annalisa-cuzzocrea/",
-    "extra": {},
-    "id": "a2e199eb8fdc9ded6c60624ede0a69d0",
-    "content_hash": "3f5a456018463b98f7aa1e090d791754",
-    "date_parsed": "2026-04-13"
   },
   "45591c3d45a591805a18bc3e68a0c8a7": {
     "source_id": "costa_agenda",
@@ -184,57 +145,31 @@
     "content_hash": "ec800468a3a74a0884a448a8feba3b5b",
     "date_parsed": "2026-05-08"
   },
-  "06c8ca68eeb7e9ebb299857a046051a9": {
-    "source_id": "politeama_genovese",
-    "title": "Valerio Aprea",
-    "speaker_name": "Valerio Aprea",
-    "date": "2026-04-15 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/07/01/valerio-aprea/",
+  "a3b15dff94d02d337a104531d398be54": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-06-15 20:00",
+    "city": "Rivoli (to)",
+    "venue": "Corso Susa, 128, 10098, Rivoli (TO)",
+    "url": "https://www.francescocosta.net/agenda/8c064b765381eaee93d1fac585481e94/",
     "extra": {},
-    "id": "06c8ca68eeb7e9ebb299857a046051a9",
-    "content_hash": "d93b7e02a12c090d4e3f438c82a9f63b",
-    "date_parsed": "2026-04-15"
+    "id": "a3b15dff94d02d337a104531d398be54",
+    "content_hash": "16faf4f12aff4018b52c383cc0bdfeb1",
+    "date_parsed": "2026-06-15"
   },
-  "984bac0abe9cb843613051077b39cbcd": {
-    "source_id": "politeama_genovese",
-    "title": "Stefano Nazzi",
-    "speaker_name": "Stefano Nazzi",
-    "date": "2026-04-14 21:00",
+  "a2e199eb8fdc9ded6c60624ede0a69d0": {
+    "source_id": "palazzo_ducale_eventi",
+    "title": "“E non scappare mai, Rizzoli 2025”, in dialogo con Nadia Terranova",
+    "speaker_name": "Annalisa Cuzzocrea",
+    "date": "13 Apr 2026, ore 18.30",
     "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/09/17/stefano-nazzi/",
+    "venue": "Palazzo Ducale Sala del Maggior Consiglio",
+    "url": "https://palazzoducale.genova.it/evento/annalisa-cuzzocrea/",
     "extra": {},
-    "id": "984bac0abe9cb843613051077b39cbcd",
-    "content_hash": "8470a6c56bb6dae783bc66f04dc96753",
-    "date_parsed": "2026-04-14"
-  },
-  "dd7ff86c12c126e695fe6cdabcc1c88d": {
-    "source_id": "politeama_genovese",
-    "title": "Francesco De Carlo",
-    "speaker_name": "Francesco De Carlo",
-    "date": "2026-06-11 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/11/17/francesco-de-carlo/",
-    "extra": {},
-    "id": "dd7ff86c12c126e695fe6cdabcc1c88d",
-    "content_hash": "a6beffe06a02041caae6f99f28b67912",
-    "date_parsed": "2026-06-11"
-  },
-  "5081c9fba9c7777bcaa0cd46a327472e": {
-    "source_id": "politeama_genovese",
-    "title": "Luca Ravenna",
-    "speaker_name": "Luca Ravenna",
-    "date": "2026-04-27 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/10/09/luca-ravenna/",
-    "extra": {},
-    "id": "5081c9fba9c7777bcaa0cd46a327472e",
-    "content_hash": "4e5945cf4ae50fbfa06d80f99a23cf81",
-    "date_parsed": "2026-04-27"
+    "id": "a2e199eb8fdc9ded6c60624ede0a69d0",
+    "content_hash": "3f5a456018463b98f7aa1e090d791754",
+    "date_parsed": "2026-04-13"
   },
   "5399bb9c88662007b6b8168a6cf2bc09": {
     "source_id": "teatro_strada_nuova",
@@ -249,6 +184,19 @@
     "content_hash": "aa80da13dfc6cb2d5e6aff2bc4c6a362",
     "date_parsed": "2026-04-20"
   },
+  "06c8ca68eeb7e9ebb299857a046051a9": {
+    "source_id": "politeama_genovese",
+    "title": "Valerio Aprea",
+    "speaker_name": "Valerio Aprea",
+    "date": "2026-04-15 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/07/01/valerio-aprea/",
+    "extra": {},
+    "id": "06c8ca68eeb7e9ebb299857a046051a9",
+    "content_hash": "d93b7e02a12c090d4e3f438c82a9f63b",
+    "date_parsed": "2026-04-15"
+  },
   "2a680ea206d1501ff0447ee347303719": {
     "source_id": "politeama_genovese",
     "title": "Katia Follesa",
@@ -262,30 +210,30 @@
     "content_hash": "612330a516d92183bf14ca05f0fed846",
     "date_parsed": "2026-12-04"
   },
-  "f2f1c0d3afc715dc84b82aad73539db1": {
+  "984bac0abe9cb843613051077b39cbcd": {
     "source_id": "politeama_genovese",
-    "title": "Katia Follesa",
-    "speaker_name": "Katia Follesa",
-    "date": "2026-12-04 21:00",
+    "title": "Stefano Nazzi",
+    "speaker_name": "Stefano Nazzi",
+    "date": "2026-04-14 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/03/20/katia-follesa-2/",
+    "url": "https://www.politeamagenovese.it/2025/09/17/stefano-nazzi/",
     "extra": {},
-    "id": "f2f1c0d3afc715dc84b82aad73539db1",
-    "content_hash": "4c36fbd0153cf867b35619b96460a17b",
-    "date_parsed": "2026-12-04"
+    "id": "984bac0abe9cb843613051077b39cbcd",
+    "content_hash": "8470a6c56bb6dae783bc66f04dc96753",
+    "date_parsed": "2026-04-14"
   },
   "95bd9599dbd8148b0636879a0a255152": {
     "source_id": "politeama_genovese",
     "title": "Eleazaro Rossi",
     "speaker_name": "Eleazaro Rossi",
-    "date": "2026-05-12",
+    "date": "2026-05-12 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2025/07/16/eleazaro-rossi/",
     "extra": {},
     "id": "95bd9599dbd8148b0636879a0a255152",
-    "content_hash": "2a3dd590d8b49da1fd1ff619109b7796",
+    "content_hash": "be0fd4d82743fac2ad37f1f6523056b2",
     "date_parsed": "2026-05-12"
   },
   "19a1f53f9db72d8d7633cb4806e0ac24": {
@@ -301,6 +249,19 @@
     "content_hash": "496e7beb084ba8d7c430c22ed32258d8",
     "date_parsed": "2026-05-26"
   },
+  "dd7ff86c12c126e695fe6cdabcc1c88d": {
+    "source_id": "politeama_genovese",
+    "title": "Francesco De Carlo",
+    "speaker_name": "Francesco De Carlo",
+    "date": "2026-06-11 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/11/17/francesco-de-carlo/",
+    "extra": {},
+    "id": "dd7ff86c12c126e695fe6cdabcc1c88d",
+    "content_hash": "a6beffe06a02041caae6f99f28b67912",
+    "date_parsed": "2026-06-11"
+  },
   "ce9e7d518bcb04af2012b5c4ab15cd88": {
     "source_id": "politeama_genovese",
     "title": "Maurizio Battista",
@@ -313,18 +274,5 @@
     "id": "ce9e7d518bcb04af2012b5c4ab15cd88",
     "content_hash": "c7a8ad3d3b4b621ae4586c6a4f17a938",
     "date_parsed": "2026-04-28"
-  },
-  "affa1658de4b3eee09110ef9964a34b1": {
-    "source_id": "politeama_genovese",
-    "title": "Giovanni Allevi",
-    "speaker_name": "Giovanni Storti",
-    "date": "2026-05-08 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/10/18/giovanni-allevi/",
-    "extra": {},
-    "id": "affa1658de4b3eee09110ef9964a34b1",
-    "content_hash": "73fbdc9c0a46d310832dc1c972a3f382",
-    "date_parsed": "2026-05-08"
   }
 }
