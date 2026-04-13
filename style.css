@@ -102,14 +102,7 @@ body {
 }
 
 .chip:hover {
-  background: #eef2ff;
-  border-color: #a5b4fc;
-}
-
-.chip.active {
-  background: #2563eb;
-  color: #fff;
-  border-color: #2563eb;
+  filter: brightness(0.93);
 }
 
 /* ── Speaker search dropdown ── */

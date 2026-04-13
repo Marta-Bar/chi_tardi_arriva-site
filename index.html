@@ -36,7 +36,7 @@
             v-for="tag in allTags"
             :key="tag"
             class="chip"
-            :class="{ active: selectedTags.includes(tag) }"
+            :style="tagChipStyle(tag, selectedTags.includes(tag))"
             @click="toggleTag(tag)"
           >{{ tagLabel(tag) }}</button>
         </div>
@@ -140,11 +140,9 @@
 
   const TAG_LABELS = {
     biology:     'biologia',
-    comedy:      'commedia',
     comics:      'fumetti',
-    geopolitics: 'geopolitica',
     history:     'storia',
-    journalism:  'giornalismo',
+    news:        'attualità',
     podcast:     'podcast',
     politics:    'politica',
     science:     'scienza',
@@ -156,9 +154,8 @@
     biology:     { bg: '#dcfce7', color: '#15803d' },
     comedy:      { bg: '#ffedd5', color: '#c2410c' },
     comics:      { bg: '#f3e8ff', color: '#7e22ce' },
-    geopolitics: { bg: '#fee2e2', color: '#b91c1c' },
     history:     { bg: '#fef9c3', color: '#854d0e' },
-    journalism:  { bg: '#ccfbf1', color: '#0f766e' },
+    news:        { bg: '#fee2e2', color: '#b91c1c' },
     podcast:     { bg: '#e0e7ff', color: '#3730a3' },
     politics:    { bg: '#ffe4e6', color: '#be123c' },
     science:     { bg: '#dbeafe', color: '#1d4ed8' },
@@ -354,6 +351,14 @@
         this.locationFilter = '';
       },
 
+      tagChipStyle(tag, isActive) {
+        const c = TAG_COLORS[tag];
+        if (!c) return {};
+        return isActive
+          ? { background: c.color, color: '#fff', borderColor: c.color }
+          : { background: c.bg, color: c.color, borderColor: 'transparent' };
+      },
+
       tagLabel(tag) {
         return TAG_LABELS[tag] || tag;
       },
@@ -391,7 +396,7 @@
     },
 
     async mounted() {
-      const v = '20260412092022';
+      const v = '20260413090714';
       const [eventsRaw, speakers, sources, strings] = await Promise.all([
         fetch(`data/events.json?v=${v}`).then(r => r.json()),
         fetch(`data/speakers.json?v=${v}`).then(r => r.json()),
