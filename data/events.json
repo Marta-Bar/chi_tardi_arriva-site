@@ -1,39 +1,4 @@
 {
-  "3196bc50f954b425f848a10df841cd68": {
-    "source_id": "biennale_tecnologia",
-    "title": "Le condizioni poste dal nostro cervello all’alleanza con l’intelligenza artificiale",
-    "speaker_name": "Giorgio Vallortigara",
-    "date": "16 Apr 2026 Dalle 11:30 alle 12:30",
-    "city": "Torino",
-    "venue": "Politecnico di Torino - Aula Magna",
-    "url": "https://www.biennaletecnologia.it/evento/le-condizioni-poste-dal-nostro-cervello-allalleanza-con-lintelligenza-artificiale/",
-    "extra": {
-      "all_guests": [
-        "Giorgio Vallortigara"
-      ]
-    },
-    "id": "3196bc50f954b425f848a10df841cd68",
-    "content_hash": "ac32ebb04939b9d116f3f7fd3c899868",
-    "date_parsed": "2026-04-16"
-  },
-  "367d74353fcb2c3dd6e90f5a6467ce81": {
-    "source_id": "biennale_tecnologia",
-    "title": "A tavola con la scienza",
-    "speaker_name": "Dario Bressanini",
-    "date": "16 Apr 2026 Dalle 18:00 alle 19:00",
-    "city": "Torino",
-    "venue": "Palazzo Madama, Sala Atelier",
-    "url": "https://www.biennaletecnologia.it/evento/a-tavola-con-la-scienza/",
-    "extra": {
-      "all_guests": [
-        "Dario Bressanini",
-        "Enrica Favaro"
-      ]
-    },
-    "id": "367d74353fcb2c3dd6e90f5a6467ce81",
-    "content_hash": "c164bac74bbf9ce3dde845174384642f",
-    "date_parsed": "2026-04-16"
-  },
   "06ff456bff02a70902f7a56f374d97f8": {
     "source_id": "biennale_tecnologia",
     "title": "Dentro il cuore tecnologico del futuro: perché i semiconduttori contano e perché sono fondamentali negli equilibri mondiali",
