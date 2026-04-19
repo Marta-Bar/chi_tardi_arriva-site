@@ -1,41 +1,4 @@
 {
-  "06ff456bff02a70902f7a56f374d97f8": {
-    "source_id": "biennale_tecnologia",
-    "title": "Dentro il cuore tecnologico del futuro: perché i semiconduttori contano e perché sono fondamentali negli equilibri mondiali",
-    "speaker_name": "Alessandro Aresu",
-    "date": "18 Apr 2026 Dalle 11:30 alle 12:30",
-    "city": "Torino",
-    "venue": "Polo del '900",
-    "url": "https://www.biennaletecnologia.it/evento/dentro-il-cuore-tecnologico-del-futuro-perche-i-semiconduttori-contano-e-perche-sono-fondamentali-negli-equilibri-mondiali/",
-    "extra": {
-      "all_guests": [
-        "Alessandro Aresu",
-        "Matteo Sonza Reorda"
-      ]
-    },
-    "id": "06ff456bff02a70902f7a56f374d97f8",
-    "content_hash": "8ed16495751dc47ddc8006aa88d69300",
-    "date_parsed": "2026-04-18"
-  },
-  "c6960b51be5aa284a70470d4ed5a2a65": {
-    "source_id": "biennale_tecnologia",
-    "title": "L’acqua nello sviluppo della società: dalle civiltà antiche all’industria moderna",
-    "speaker_name": "Antonello Provenzale",
-    "date": "18 Apr 2026 Dalle 16:30 alle 17:30",
-    "city": "Torino",
-    "venue": "Lingotto Fiere, Sala Rossa",
-    "url": "https://www.biennaletecnologia.it/evento/lacqua-nello-sviluppo-della-societa-dalle-civilta-antiche-allindustria-moderna/",
-    "extra": {
-      "all_guests": [
-        "Antonello Provenzale",
-        "Francesco Remotti",
-        "Pietro Terna"
-      ]
-    },
-    "id": "c6960b51be5aa284a70470d4ed5a2a65",
-    "content_hash": "d94ca5d17a461f385d6c6bd060e6836c",
-    "date_parsed": "2026-04-18"
-  },
   "4a9c379b83d3fa64cd1c006fa43aad9a": {
     "source_id": "biennale_tecnologia",
     "title": "Provato sul mio corpo",
