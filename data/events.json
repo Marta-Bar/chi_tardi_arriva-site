@@ -1,39 +1,4 @@
 {
-  "4a9c379b83d3fa64cd1c006fa43aad9a": {
-    "source_id": "biennale_tecnologia",
-    "title": "Provato sul mio corpo",
-    "speaker_name": "Silvia Bencivelli",
-    "date": "19 Apr 2026 Dalle 15:30 alle 16:30",
-    "city": "Torino",
-    "venue": "Campus Luigi Einaudi - Aula Magna",
-    "url": "https://www.biennaletecnologia.it/evento/provato-sul-mio-corpo/",
-    "extra": {
-      "all_guests": [
-        "Silvia Bencivelli"
-      ]
-    },
-    "id": "4a9c379b83d3fa64cd1c006fa43aad9a",
-    "content_hash": "3196852a2d2682d60d4fbf44582fd062",
-    "date_parsed": "2026-04-19"
-  },
-  "dd68b85ce2a3d89df5c120bf7c776c72": {
-    "source_id": "biennale_tecnologia",
-    "title": "Tecnomusik – Il Libro del mondo scritto in musica",
-    "speaker_name": "Telmo Pievani",
-    "date": "19 Apr 2026 Dalle 16:15 alle 17:30",
-    "city": "Torino",
-    "venue": "Sala del rettorato, Politecnico di Torino",
-    "url": "https://www.biennaletecnologia.it/evento/tecnomusik-il-libro-del-mondo-scritto-in-musica/",
-    "extra": {
-      "all_guests": [
-        "Telmo Pievani",
-        "Giorgio Li Calzi"
-      ]
-    },
-    "id": "dd68b85ce2a3d89df5c120bf7c776c72",
-    "content_hash": "872870d9866379c01bbac3e9512dcd57",
-    "date_parsed": "2026-04-19"
-  },
   "a3b15dff94d02d337a104531d398be54": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
