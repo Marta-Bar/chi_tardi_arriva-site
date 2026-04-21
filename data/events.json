@@ -64,19 +64,6 @@
     "content_hash": "4e5945cf4ae50fbfa06d80f99a23cf81",
     "date_parsed": "2026-04-27"
   },
-  "5399bb9c88662007b6b8168a6cf2bc09": {
-    "source_id": "teatro_strada_nuova",
-    "title": "Fall Reloaded",
-    "speaker_name": "Giorgio Montanini",
-    "date": "2026-04-20 21:00",
-    "city": "Genova",
-    "venue": "Teatro Strada Nuova",
-    "url": "https://biglietti.teatrostradanuova.it/eventi/fall-reloaded-giorgio-montanini.htm",
-    "extra": {},
-    "id": "5399bb9c88662007b6b8168a6cf2bc09",
-    "content_hash": "aa80da13dfc6cb2d5e6aff2bc4c6a362",
-    "date_parsed": "2026-04-20"
-  },
   "2a680ea206d1501ff0447ee347303719": {
     "source_id": "politeama_genovese",
     "title": "Katia Follesa",
@@ -154,5 +141,18 @@
     "id": "affa1658de4b3eee09110ef9964a34b1",
     "content_hash": "73fbdc9c0a46d310832dc1c972a3f382",
     "date_parsed": "2026-05-08"
+  },
+  "1b88cb6fad32046451b76564570b766a": {
+    "source_id": "teatro_strada_nuova",
+    "title": "Best of(f)",
+    "speaker_name": "Claudio Morici",
+    "date": "2026-05-21 21:00",
+    "city": "Genova",
+    "venue": "Teatro Strada Nuova",
+    "url": "https://biglietti.teatrostradanuova.it/eventi/best-off-claudio-morici.htm",
+    "extra": {},
+    "id": "1b88cb6fad32046451b76564570b766a",
+    "content_hash": "88e281aef78e19656057cf28d0fe7f52",
+    "date_parsed": "2026-05-21"
   }
 }
