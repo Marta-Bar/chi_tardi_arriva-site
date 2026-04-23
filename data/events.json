@@ -154,5 +154,18 @@
     "id": "1b88cb6fad32046451b76564570b766a",
     "content_hash": "88e281aef78e19656057cf28d0fe7f52",
     "date_parsed": "2026-05-21"
+  },
+  "ca1864cfd98279a532b1cb592cbe6b4a": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-05-07 20:30",
+    "city": "Modena",
+    "venue": "Viale Buon Pastore, 43 Modena",
+    "url": "https://www.francescocosta.net/agenda/f2948bde72d909b8099ae59d0d2473d9/",
+    "extra": {},
+    "id": "ca1864cfd98279a532b1cb592cbe6b4a",
+    "content_hash": "f2daf06face0436f344d0ffc491d298c",
+    "date_parsed": "2026-05-07"
   }
 }
