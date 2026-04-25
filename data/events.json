@@ -167,5 +167,31 @@
     "id": "ca1864cfd98279a532b1cb592cbe6b4a",
     "content_hash": "f2daf06face0436f344d0ffc491d298c",
     "date_parsed": "2026-05-07"
+  },
+  "3edc2cf051dec0a0cb4971b739238f3e": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Marco Cartasegna, Livia Viganò e Francesco Zaffarano",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-05-15 10:45",
+    "city": "Torino",
+    "venue": "Lingotto Fiere, Torino",
+    "url": "https://www.francescocosta.net/agenda/382e434640995b9d6b8ee24a87cb866c/",
+    "extra": {},
+    "id": "3edc2cf051dec0a0cb4971b739238f3e",
+    "content_hash": "99453569a453b92685680e9baf621e53",
+    "date_parsed": "2026-05-15"
+  },
+  "ad1dd8d0365d46001a462c4a64f5fdbf": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-05-16 11:00",
+    "city": "Torino",
+    "venue": "Lingotto Fiere, Torino",
+    "url": "https://www.francescocosta.net/agenda/60e4321a0982ba65758ec4c9fdd51ebd/",
+    "extra": {},
+    "id": "ad1dd8d0365d46001a462c4a64f5fdbf",
+    "content_hash": "8d17c3359c7b406aadb13b6c0686aa28",
+    "date_parsed": "2026-05-16"
   }
 }
