@@ -103,19 +103,6 @@
     "content_hash": "496e7beb084ba8d7c430c22ed32258d8",
     "date_parsed": "2026-05-26"
   },
-  "ce9e7d518bcb04af2012b5c4ab15cd88": {
-    "source_id": "politeama_genovese",
-    "title": "Maurizio Battista",
-    "speaker_name": "Maurizio Battista",
-    "date": "2026-04-28 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/11/11/maurizio-battista/",
-    "extra": {},
-    "id": "ce9e7d518bcb04af2012b5c4ab15cd88",
-    "content_hash": "c7a8ad3d3b4b621ae4586c6a4f17a938",
-    "date_parsed": "2026-04-28"
-  },
   "affa1658de4b3eee09110ef9964a34b1": {
     "source_id": "politeama_genovese",
     "title": "Giovanni Allevi",
@@ -180,5 +167,31 @@
     "id": "ad1dd8d0365d46001a462c4a64f5fdbf",
     "content_hash": "8d17c3359c7b406aadb13b6c0686aa28",
     "date_parsed": "2026-05-16"
+  },
+  "c782ea486bbf6236526657505e3a2573": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-07-22 21:00",
+    "city": "Pozzolo formigaro (al)",
+    "venue": "Pozzolo Formigaro, Castello Sforzesco, (AL)",
+    "url": "https://www.francescocosta.net/agenda/03f7e8423310000f6d9d2b3ebd310bb3/",
+    "extra": {},
+    "id": "c782ea486bbf6236526657505e3a2573",
+    "content_hash": "2d22b647bbd64b8334313f2372830925",
+    "date_parsed": "2026-07-22"
+  },
+  "0e4de4738685d0702d7eea64e0b7881a": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2027-03-28 21:00",
+    "city": "Saluzzo (cn)",
+    "venue": "Il Quartiere, Piazza Montebello, 1, 12037 Saluzzo CN, Italia",
+    "url": "https://www.francescocosta.net/agenda/b2830bb169042f28fc34bd1b71cccc15/",
+    "extra": {},
+    "id": "0e4de4738685d0702d7eea64e0b7881a",
+    "content_hash": "e82a2014458215825246c3bbe17264da",
+    "date_parsed": "2027-03-28"
   }
 }
