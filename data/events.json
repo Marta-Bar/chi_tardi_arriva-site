@@ -193,5 +193,31 @@
     "id": "0e4de4738685d0702d7eea64e0b7881a",
     "content_hash": "e82a2014458215825246c3bbe17264da",
     "date_parsed": "2027-03-28"
+  },
+  "517d5b4551c0738aa4bd27786f3cf306": {
+    "source_id": "salone_libro",
+    "title": "Zadie Smith",
+    "speaker_name": "Cecilia Sala",
+    "date": "2026-05-15 17:30",
+    "city": "Torino",
+    "venue": "LingottoPad. 3Sala Azzurra",
+    "url": "https://www.salonelibro.it/programma-eventi/zadie_smith/19450",
+    "extra": {},
+    "id": "517d5b4551c0738aa4bd27786f3cf306",
+    "content_hash": "02a80407d2461f9c49aa249cc5df4940",
+    "date_parsed": "2026-05-15"
+  },
+  "d9bd62b42ba9b102d60489dd40bda3e4": {
+    "source_id": "salone_libro",
+    "title": "Alessandro Baricco",
+    "speaker_name": "Cecilia Sala",
+    "date": "2026-05-14 17:00",
+    "city": "Torino",
+    "venue": "LingottoCentro CongressiAuditorium",
+    "url": "https://www.salonelibro.it/programma-eventi/alessandro_baricco/19406",
+    "extra": {},
+    "id": "d9bd62b42ba9b102d60489dd40bda3e4",
+    "content_hash": "e35b50fdf4712debf5aa539a3e0d587d",
+    "date_parsed": "2026-05-14"
   }
 }
