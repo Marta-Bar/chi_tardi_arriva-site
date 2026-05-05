@@ -12,19 +12,6 @@
     "content_hash": "16faf4f12aff4018b52c383cc0bdfeb1",
     "date_parsed": "2026-06-15"
   },
-  "45591c3d45a591805a18bc3e68a0c8a7": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione del libro di Anna Danesi",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-05-04 16:00",
-    "city": "Milano",
-    "venue": "Biblioteca Ambrosoli, Palazzo di Giustizia di Milano",
-    "url": "https://www.francescocosta.net/agenda/708740b17340160ef33df6a8505c6bff/",
-    "extra": {},
-    "id": "45591c3d45a591805a18bc3e68a0c8a7",
-    "content_hash": "f81e97a3d575c0be2487d31199d1dda4",
-    "date_parsed": "2026-05-04"
-  },
   "7642751b2080ccfe158c08ece9dce6b6": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa e Paolo Giordano",
@@ -232,5 +219,18 @@
     "id": "6624d928bb4d1f85e01241bc41df6d3c",
     "content_hash": "ad8d993ee497c65708addac6ca1e1421",
     "date_parsed": "2027-03-01"
+  },
+  "ab003d1863ef8f6262e3f4c9ae53ac22": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2027-03-26 17:00",
+    "city": "Brescia",
+    "venue": "Aula Magna di Giurisprudenza, via San Faustino, 41, Brescia",
+    "url": "https://www.francescocosta.net/agenda/176ab09da8d2b22bf9e4e662ec421626/",
+    "extra": {},
+    "id": "ab003d1863ef8f6262e3f4c9ae53ac22",
+    "content_hash": "c8ca60e713bd7d0e11f511813e621a32",
+    "date_parsed": "2027-03-26"
   }
 }
