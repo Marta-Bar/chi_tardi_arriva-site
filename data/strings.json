@@ -11,6 +11,8 @@
   "source": "Fonte",
   "date": "Data",
   "location": "Luogo",
+  "email_subject_programme_live": "Programma online: {source_name}",
+  "email_body_programme_live": "Il programma di {source_name} è ora disponibile.\n\nEventi rilevati con i tuoi speaker: {event_count}\nSito: {source_url}\n",
   "app_title": "Chi Tardi Arriva",
   "app_subtitle": "I tuoi speaker, i loro eventi",
   "filter_location_placeholder": "Filtra per luogo...",

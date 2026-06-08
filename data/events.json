@@ -1,4 +1,17 @@
 {
+  "93e4753a6923cf9ae2ec44c0d116bfbd": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-06-08 16:30",
+    "city": "Torino",
+    "venue": "ESCP Business School - Turin Campus, Via Andrea Doria, 27, 10123 Torino TO, Italia",
+    "url": "https://www.francescocosta.net/agenda/3dba7ec1b84618ba32464b7777416003/",
+    "extra": {},
+    "id": "93e4753a6923cf9ae2ec44c0d116bfbd",
+    "content_hash": "2eafcb567569f1df20c5629b3b65f836",
+    "date_parsed": "2026-06-08"
+  },
   "a3b15dff94d02d337a104531d398be54": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
@@ -12,44 +25,31 @@
     "content_hash": "16faf4f12aff4018b52c383cc0bdfeb1",
     "date_parsed": "2026-06-15"
   },
-  "dd7ff86c12c126e695fe6cdabcc1c88d": {
-    "source_id": "politeama_genovese",
-    "title": "Francesco De Carlo",
-    "speaker_name": "Francesco De Carlo",
-    "date": "2026-06-11 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/11/17/francesco-de-carlo/",
+  "56be093f12e18ca082094d85201f942c": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-06-18 15:30",
+    "city": "Peccioli (pi)",
+    "venue": "Centro Polivalente, Via del Carmine, 1, 56037 Peccioli PI, Italia",
+    "url": "https://www.francescocosta.net/agenda/4d727d2ca4265bbfbe35c1554f98115f/",
     "extra": {},
-    "id": "dd7ff86c12c126e695fe6cdabcc1c88d",
-    "content_hash": "a6beffe06a02041caae6f99f28b67912",
-    "date_parsed": "2026-06-11"
+    "id": "56be093f12e18ca082094d85201f942c",
+    "content_hash": "46b4dc17f6e5a300a238be45608bda24",
+    "date_parsed": "2026-06-18"
   },
-  "2a680ea206d1501ff0447ee347303719": {
-    "source_id": "politeama_genovese",
-    "title": "Katia Follesa",
-    "speaker_name": "Katia Follesa",
-    "date": "2026-12-04 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/02/13/katia-follesa/",
+  "8b33ebea8efb1be6f716ca383ef4d92d": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Luca Sofri e Francesco Costa)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-07-04 10:00",
+    "city": "Peccioli (pi)",
+    "venue": "Galleria dei Giganti, Viale Camillo Benso Conte di Cavour, 3B, 56037 Peccioli PI, Italia",
+    "url": "https://www.francescocosta.net/agenda/1874b3373d0cfe1baa78bf91e06d75ec/",
     "extra": {},
-    "id": "2a680ea206d1501ff0447ee347303719",
-    "content_hash": "612330a516d92183bf14ca05f0fed846",
-    "date_parsed": "2026-12-04"
-  },
-  "f2f1c0d3afc715dc84b82aad73539db1": {
-    "source_id": "politeama_genovese",
-    "title": "Katia Follesa",
-    "speaker_name": "Katia Follesa",
-    "date": "2026-12-04 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/03/20/katia-follesa-2/",
-    "extra": {},
-    "id": "f2f1c0d3afc715dc84b82aad73539db1",
-    "content_hash": "4c36fbd0153cf867b35619b96460a17b",
-    "date_parsed": "2026-12-04"
+    "id": "8b33ebea8efb1be6f716ca383ef4d92d",
+    "content_hash": "8966530399dcc52f926076ffff6a7c64",
+    "date_parsed": "2026-07-04"
   },
   "c782ea486bbf6236526657505e3a2573": {
     "source_id": "costa_agenda",
@@ -68,92 +68,40 @@
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
     "speaker_name": "Francesco Costa",
-    "date": "2027-03-28 21:00",
+    "date": "2026-07-28 21:00",
     "city": "Saluzzo (cn)",
     "venue": "Il Quartiere, Piazza Montebello, 1, 12037 Saluzzo CN, Italia",
     "url": "https://www.francescocosta.net/agenda/b2830bb169042f28fc34bd1b71cccc15/",
     "extra": {},
     "id": "0e4de4738685d0702d7eea64e0b7881a",
-    "content_hash": "e82a2014458215825246c3bbe17264da",
-    "date_parsed": "2027-03-28"
+    "content_hash": "740f139a131fc6c135b8faa55b0103fb",
+    "date_parsed": "2026-07-28"
   },
   "6624d928bb4d1f85e01241bc41df6d3c": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
     "speaker_name": "Francesco Costa",
-    "date": "2027-03-01 21:00",
+    "date": "2026-09-01 21:00",
     "city": "Nizza monferrato (at)",
     "venue": "Piazza Martiri di Alessandria, 14049 Nizza Monferrato AT, Italia",
     "url": "https://www.francescocosta.net/agenda/e2c73caa95293f2cc00bca1e7eda028e/",
     "extra": {},
     "id": "6624d928bb4d1f85e01241bc41df6d3c",
-    "content_hash": "ad8d993ee497c65708addac6ca1e1421",
-    "date_parsed": "2027-03-01"
+    "content_hash": "85c7fd8c7f3fdc1d54dc8304ee853f29",
+    "date_parsed": "2026-09-01"
   },
-  "ab003d1863ef8f6262e3f4c9ae53ac22": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2027-03-26 17:00",
-    "city": "Brescia",
-    "venue": "Aula Magna di Giurisprudenza, via San Faustino, 41, Brescia",
-    "url": "https://www.francescocosta.net/agenda/176ab09da8d2b22bf9e4e662ec421626/",
-    "extra": {},
-    "id": "ab003d1863ef8f6262e3f4c9ae53ac22",
-    "content_hash": "c8ca60e713bd7d0e11f511813e621a32",
-    "date_parsed": "2027-03-26"
-  },
-  "8b33ebea8efb1be6f716ca383ef4d92d": {
-    "source_id": "costa_agenda",
-    "title": "I giornali spiegati bene (con Luca Sofri e Francesco Costa)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-04 10:00",
-    "city": "Peccioli (pi)",
-    "venue": "Galleria dei Giganti, Viale Camillo Benso Conte di Cavour, 3B, 56037 Peccioli PI, Italia",
-    "url": "https://www.francescocosta.net/agenda/1874b3373d0cfe1baa78bf91e06d75ec/",
-    "extra": {},
-    "id": "8b33ebea8efb1be6f716ca383ef4d92d",
-    "content_hash": "8966530399dcc52f926076ffff6a7c64",
-    "date_parsed": "2026-07-04"
-  },
-  "74f891fd3348cc3bd13b438e88857736": {
+  "929420391a6f08e3b97e2b4ab21a07aa": {
     "source_id": "politeama_genovese",
-    "title": "Angelo Pintus",
-    "speaker_name": "Angelo Pintus",
-    "date": "2026-10-25 21:00",
+    "title": "Stefano Rapone",
+    "speaker_name": "Stefano Rapone",
+    "date": "2026-11-30 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
+    "url": "https://www.politeamagenovese.it/2026/06/06/stefano-rapone/",
     "extra": {},
-    "id": "74f891fd3348cc3bd13b438e88857736",
-    "content_hash": "108bba1e2691d7f4bca636ec0fa8e473",
-    "date_parsed": "2026-10-25"
-  },
-  "93e4753a6923cf9ae2ec44c0d116bfbd": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-06-08 16:30",
-    "city": "Torino",
-    "venue": "ESCP Business School - Turin Campus, Via Andrea Doria, 27, 10123 Torino TO, Italia",
-    "url": "https://www.francescocosta.net/agenda/3dba7ec1b84618ba32464b7777416003/",
-    "extra": {},
-    "id": "93e4753a6923cf9ae2ec44c0d116bfbd",
-    "content_hash": "2eafcb567569f1df20c5629b3b65f836",
-    "date_parsed": "2026-06-08"
-  },
-  "56be093f12e18ca082094d85201f942c": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-06-18 15:30",
-    "city": "Peccioli (pi)",
-    "venue": "Centro Polivalente, Via del Carmine, 1, 56037 Peccioli PI, Italia",
-    "url": "https://www.francescocosta.net/agenda/4d727d2ca4265bbfbe35c1554f98115f/",
-    "extra": {},
-    "id": "56be093f12e18ca082094d85201f942c",
-    "content_hash": "46b4dc17f6e5a300a238be45608bda24",
-    "date_parsed": "2026-06-18"
+    "id": "929420391a6f08e3b97e2b4ab21a07aa",
+    "content_hash": "8c664b034ecc3eda2cd8e7ee7f712bc3",
+    "date_parsed": "2026-11-30"
   },
   "a7c412e041b57b36242acd3a0ca44c9e": {
     "source_id": "politeama_genovese",
@@ -168,17 +116,17 @@
     "content_hash": "7a3d0d4b053a1e30f29755374ddf9d4d",
     "date_parsed": "2027-03-23"
   },
-  "929420391a6f08e3b97e2b4ab21a07aa": {
+  "74f891fd3348cc3bd13b438e88857736": {
     "source_id": "politeama_genovese",
-    "title": "Stefano Rapone",
-    "speaker_name": "Stefano Rapone",
-    "date": "2026-11-30 21:00",
+    "title": "Angelo Pintus",
+    "speaker_name": "Angelo Pintus",
+    "date": "2026-10-25",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/06/06/stefano-rapone/",
+    "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
     "extra": {},
-    "id": "929420391a6f08e3b97e2b4ab21a07aa",
-    "content_hash": "8c664b034ecc3eda2cd8e7ee7f712bc3",
-    "date_parsed": "2026-11-30"
+    "id": "74f891fd3348cc3bd13b438e88857736",
+    "content_hash": "31a99e01382d5340ca50dd7634b24b6a",
+    "date_parsed": "2026-10-25"
   }
 }
