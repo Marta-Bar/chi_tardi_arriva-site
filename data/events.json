@@ -115,5 +115,18 @@
     "id": "74f891fd3348cc3bd13b438e88857736",
     "content_hash": "31a99e01382d5340ca50dd7634b24b6a",
     "date_parsed": "2026-10-25"
+  },
+  "2a680ea206d1501ff0447ee347303719": {
+    "source_id": "politeama_genovese",
+    "title": "Katia Follesa",
+    "speaker_name": "Katia Follesa",
+    "date": "2026-12-04",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2025/02/13/katia-follesa/",
+    "extra": {},
+    "id": "2a680ea206d1501ff0447ee347303719",
+    "content_hash": "eb788a5c2087d68402695c182e1095bd",
+    "date_parsed": "2026-12-04"
   }
 }
