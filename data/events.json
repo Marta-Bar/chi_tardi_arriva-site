@@ -128,18 +128,5 @@
     "id": "2a680ea206d1501ff0447ee347303719",
     "content_hash": "eb788a5c2087d68402695c182e1095bd",
     "date_parsed": "2026-12-04"
-  },
-  "dd7ff86c12c126e695fe6cdabcc1c88d": {
-    "source_id": "politeama_genovese",
-    "title": "Francesco De Carlo",
-    "speaker_name": "Francesco De Carlo",
-    "date": "2026-06-11 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/11/17/francesco-de-carlo/",
-    "extra": {},
-    "id": "dd7ff86c12c126e695fe6cdabcc1c88d",
-    "content_hash": "a6beffe06a02041caae6f99f28b67912",
-    "date_parsed": "2026-06-11"
   }
 }
