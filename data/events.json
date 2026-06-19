@@ -1,17 +1,4 @@
 {
-  "56be093f12e18ca082094d85201f942c": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-06-18 15:30",
-    "city": "Peccioli (pi)",
-    "venue": "Centro Polivalente, Via del Carmine, 1, 56037 Peccioli PI, Italia",
-    "url": "https://www.francescocosta.net/agenda/4d727d2ca4265bbfbe35c1554f98115f/",
-    "extra": {},
-    "id": "56be093f12e18ca082094d85201f942c",
-    "content_hash": "46b4dc17f6e5a300a238be45608bda24",
-    "date_parsed": "2026-06-18"
-  },
   "8b33ebea8efb1be6f716ca383ef4d92d": {
     "source_id": "costa_agenda",
     "title": "I giornali spiegati bene (con Luca Sofri e Francesco Costa)",
@@ -115,5 +102,18 @@
     "id": "2a680ea206d1501ff0447ee347303719",
     "content_hash": "eb788a5c2087d68402695c182e1095bd",
     "date_parsed": "2026-12-04"
+  },
+  "69733c131636bc7a8a44d1a61006dbd2": {
+    "source_id": "politeama_genovese",
+    "title": "Eleazaro Rossi",
+    "speaker_name": "Eleazaro Rossi",
+    "date": "2027-02-15 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/06/18/eleazaro-rossi-2/",
+    "extra": {},
+    "id": "69733c131636bc7a8a44d1a61006dbd2",
+    "content_hash": "1f85d5ade16a54ba38af717743cb887e",
+    "date_parsed": "2027-02-15"
   }
 }
