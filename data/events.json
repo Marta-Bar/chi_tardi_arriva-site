@@ -115,5 +115,18 @@
     "id": "69733c131636bc7a8a44d1a61006dbd2",
     "content_hash": "1f85d5ade16a54ba38af717743cb887e",
     "date_parsed": "2027-02-15"
+  },
+  "7d731de23b1892097d0cd731c7e903b7": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Luca Sofri e Francesco Costa)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-07-07 21:30",
+    "city": "Parma",
+    "venue": "La Galleria, Via Emilia Est, 7B Parma",
+    "url": "https://www.francescocosta.net/agenda/7dbddd0299e16357331df2da8553c896/",
+    "extra": {},
+    "id": "7d731de23b1892097d0cd731c7e903b7",
+    "content_hash": "607860746357483a7074b3524d9228fd",
+    "date_parsed": "2026-07-07"
   }
 }
