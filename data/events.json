@@ -245,5 +245,44 @@
     "id": "780c05cc4245b6b023b4893e5714ff6f",
     "content_hash": "3f8199d0c10c7eca34e12e66bdeb935d",
     "date_parsed": "2026-07-11"
+  },
+  "751b3ec38dd99803a27a330178c61db0": {
+    "source_id": "politeama_genovese",
+    "title": "Virginia Raffaele",
+    "speaker_name": "Virginia Raffaele",
+    "date": "2027-03-20",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
+    "extra": {},
+    "id": "751b3ec38dd99803a27a330178c61db0",
+    "content_hash": "2e5ff5a99237e579f1087facd2827d4d",
+    "date_parsed": "2027-03-20"
+  },
+  "5446cefcb150e74c5196bbe58c4e001c": {
+    "source_id": "politeama_genovese",
+    "title": "Andrea Pennacchi",
+    "speaker_name": "Andrea Pennacchi",
+    "date": "2027-04-03 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/01/andrea-pennacchi/",
+    "extra": {},
+    "id": "5446cefcb150e74c5196bbe58c4e001c",
+    "content_hash": "765a2e069558e719a40f05c41f0096c9",
+    "date_parsed": "2027-04-03"
+  },
+  "3a84ed3887c0455ec7b273f9981753ab": {
+    "source_id": "politeama_genovese",
+    "title": "Aldo Cazzullo",
+    "speaker_name": "Aldo Baglio",
+    "date": "2027-04-06 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/01/aldo-cazzullo/",
+    "extra": {},
+    "id": "3a84ed3887c0455ec7b273f9981753ab",
+    "content_hash": "f403aff2132d7090f0c033a0fc657170",
+    "date_parsed": "2027-04-06"
   }
 }
