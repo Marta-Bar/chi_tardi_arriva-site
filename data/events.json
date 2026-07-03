@@ -284,5 +284,31 @@
     "id": "3a84ed3887c0455ec7b273f9981753ab",
     "content_hash": "f403aff2132d7090f0c033a0fc657170",
     "date_parsed": "2027-04-06"
+  },
+  "1427b1e1fd8ef67001d1df9fad859329": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Giada Messetti e Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-08-02 18:00",
+    "city": "Corvara (bz)",
+    "venue": "Sala manifestazioni F. A. Rottonara Str. Col Alt 36, 39033 Corvara",
+    "url": "https://www.francescocosta.net/agenda/a106492aba1bb0cbbca336f93955114b/",
+    "extra": {},
+    "id": "1427b1e1fd8ef67001d1df9fad859329",
+    "content_hash": "10c3ad00e04150b9177eb82d5d405b66",
+    "date_parsed": "2026-08-02"
+  },
+  "baca5a846598d0ab7d35045d89b4fc44": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-08-03 18:00",
+    "city": "Cortina d’ampezzo (bl)",
+    "venue": "Cinema Alexander Girardi Hall, Via Marangoi, 2, 32043 Cortina d'Ampezzo BL, Italia",
+    "url": "https://www.francescocosta.net/agenda/2b8931d4aecec3e633bcc3ff18c9d04a/",
+    "extra": {},
+    "id": "baca5a846598d0ab7d35045d89b4fc44",
+    "content_hash": "b5eb40b71ca7a2014f1858ae25c578ba",
+    "date_parsed": "2026-08-03"
   }
 }
