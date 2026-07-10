@@ -103,19 +103,6 @@
     "content_hash": "1f85d5ade16a54ba38af717743cb887e",
     "date_parsed": "2027-02-15"
   },
-  "b3cab0bd1c8a9e125df5c400c07ca601": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-09 18:30",
-    "city": "Villafranca di verona (vr)",
-    "venue": "Museo Nicolis 71 Viale Postumia  37069 Villafranca di Verona",
-    "url": "https://www.francescocosta.net/agenda/b780dd32c8553ebeefc5f9e46afa845b/",
-    "extra": {},
-    "id": "b3cab0bd1c8a9e125df5c400c07ca601",
-    "content_hash": "fcf5346fcc363a9b445c3b280e98751e",
-    "date_parsed": "2026-07-09"
-  },
   "c92bde11f9a3b7b492e43b17c94e74f8": {
     "source_id": "politeama_genovese",
     "title": "Maccio Capatonda",
