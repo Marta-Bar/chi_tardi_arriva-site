@@ -258,5 +258,18 @@
     "id": "073f6f7b7347c3f39b62d1b235e4ce21",
     "content_hash": "c595d6190f10a40c61278b40ab0a8132",
     "date_parsed": "2026-08-01"
+  },
+  "29f123c8b54ede2e086df2181b2d43e1": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-07-30 21:15",
+    "city": "Brescia",
+    "venue": "Via del Castello, 925121 Brescia BS, Castello di Brescia",
+    "url": "https://www.francescocosta.net/agenda/ae2f67dd622453aa37a25e936ebb142d/",
+    "extra": {},
+    "id": "29f123c8b54ede2e086df2181b2d43e1",
+    "content_hash": "2100881ceffaa871542f470e9fc3f4ba",
+    "date_parsed": "2026-07-30"
   }
 }
