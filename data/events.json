@@ -271,5 +271,18 @@
     "id": "29f123c8b54ede2e086df2181b2d43e1",
     "content_hash": "2100881ceffaa871542f470e9fc3f4ba",
     "date_parsed": "2026-07-30"
+  },
+  "f0a229e53e539640685906c6ca794d04": {
+    "source_id": "politeama_genovese",
+    "title": "Geppi Cucciari",
+    "speaker_name": "Geppi Cucciari",
+    "date": "2026-11-23 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/15/geppi-cucciari/",
+    "extra": {},
+    "id": "f0a229e53e539640685906c6ca794d04",
+    "content_hash": "a466cf69cf02f8c0872c9aa76568a258",
+    "date_parsed": "2026-11-23"
   }
 }
