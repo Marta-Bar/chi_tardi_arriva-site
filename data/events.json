@@ -284,5 +284,50 @@
     "id": "f0a229e53e539640685906c6ca794d04",
     "content_hash": "a466cf69cf02f8c0872c9aa76568a258",
     "date_parsed": "2026-11-23"
+  },
+  "58c2e67bf1c2313dacf7843c41cdfc17": {
+    "source_id": "festival_mente",
+    "title": "Crescere, la guerra",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 19:00",
+    "city": "Sarzana",
+    "venue": "Chiostro delle Muse",
+    "url": "https://www.festivaldellamente.it/it/?p=24162",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi, Rodrigo D’Erasmo"
+    },
+    "id": "58c2e67bf1c2313dacf7843c41cdfc17",
+    "content_hash": "570835cb20516a2c50cf9001fe94b076",
+    "date_parsed": null
+  },
+  "0b0c20ba6054f9f176c11121882ce2b8": {
+    "source_id": "festival_mente",
+    "title": "Le parole che bruciano",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 18:00",
+    "city": "Sarzana",
+    "venue": "Piazza dell'Accademia",
+    "url": "https://www.festivaldellamente.it/it/?p=24172",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi"
+    },
+    "id": "0b0c20ba6054f9f176c11121882ce2b8",
+    "content_hash": "3f49188083d6287aebe62af72f502e44",
+    "date_parsed": null
+  },
+  "ab3f427b3365be709ef7c8c240be18f5": {
+    "source_id": "festival_mente",
+    "title": "San Francesco e il fuoco",
+    "speaker_name": "Alessandro Barbero",
+    "date": "Settembre 2026 21:00",
+    "city": "Sarzana",
+    "venue": "Piazza Duomo",
+    "url": "https://www.festivaldellamente.it/it/?p=24203",
+    "extra": {
+      "all_speakers": "Alessandro Barbero"
+    },
+    "id": "ab3f427b3365be709ef7c8c240be18f5",
+    "content_hash": "35136eba6f382faf2a0c95acda66786d",
+    "date_parsed": null
   }
 }
