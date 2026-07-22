@@ -1,4 +1,49 @@
 {
+  "58c2e67bf1c2313dacf7843c41cdfc17": {
+    "source_id": "festival_mente",
+    "title": "Crescere, la guerra",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 17:00",
+    "city": "Sarzana",
+    "venue": "Piazza del Duomo",
+    "url": "https://www.festivaldellamente.it/it/?p=24162",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi, Rodrigo D’Erasmo"
+    },
+    "id": "58c2e67bf1c2313dacf7843c41cdfc17",
+    "content_hash": "067a5b2bd5395dbf635107c40d84b139",
+    "date_parsed": null
+  },
+  "0b0c20ba6054f9f176c11121882ce2b8": {
+    "source_id": "festival_mente",
+    "title": "Le parole che bruciano",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 18:00",
+    "city": "Sarzana",
+    "venue": "Fortezza Firmafede",
+    "url": "https://www.festivaldellamente.it/it/?p=24172",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi"
+    },
+    "id": "0b0c20ba6054f9f176c11121882ce2b8",
+    "content_hash": "869260ddacdb68f0313067ea7b3fcc7a",
+    "date_parsed": null
+  },
+  "ab3f427b3365be709ef7c8c240be18f5": {
+    "source_id": "festival_mente",
+    "title": "San Francesco e il fuoco",
+    "speaker_name": "Alessandro Barbero",
+    "date": "Settembre 2026 11:30",
+    "city": "Sarzana",
+    "venue": "Piazza Matteotti",
+    "url": "https://www.festivaldellamente.it/it/?p=24203",
+    "extra": {
+      "all_speakers": "Alessandro Barbero"
+    },
+    "id": "ab3f427b3365be709ef7c8c240be18f5",
+    "content_hash": "cdfaf4f349860bc453e45c6312fdd3fa",
+    "date_parsed": null
+  },
   "c782ea486bbf6236526657505e3a2573": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
@@ -25,6 +70,58 @@
     "content_hash": "740f139a131fc6c135b8faa55b0103fb",
     "date_parsed": "2026-07-28"
   },
+  "29f123c8b54ede2e086df2181b2d43e1": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-07-30 21:15",
+    "city": "Brescia",
+    "venue": "Via del Castello, 925121 Brescia BS, Castello di Brescia",
+    "url": "https://www.francescocosta.net/agenda/ae2f67dd622453aa37a25e936ebb142d/",
+    "extra": {},
+    "id": "29f123c8b54ede2e086df2181b2d43e1",
+    "content_hash": "2100881ceffaa871542f470e9fc3f4ba",
+    "date_parsed": "2026-07-30"
+  },
+  "073f6f7b7347c3f39b62d1b235e4ce21": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa e Giada Messetti",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-08-01 17:30",
+    "city": "Comano terme (tn)",
+    "venue": "Parco delle Terme di Comano",
+    "url": "https://www.francescocosta.net/agenda/fb59b27e645ae0767716fdcc0a5f4b81/",
+    "extra": {},
+    "id": "073f6f7b7347c3f39b62d1b235e4ce21",
+    "content_hash": "a6dc2efae4a8c9031a2dcf2078406be5",
+    "date_parsed": "2026-08-01"
+  },
+  "1427b1e1fd8ef67001d1df9fad859329": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa e Giada Messetti",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-08-02 21:00",
+    "city": "Corvara (bz)",
+    "venue": "Sala manifestazioni F. A. Rottonara Str. Col Alt 36, 39033 Corvara",
+    "url": "https://www.francescocosta.net/agenda/a106492aba1bb0cbbca336f93955114b/",
+    "extra": {},
+    "id": "1427b1e1fd8ef67001d1df9fad859329",
+    "content_hash": "af1b5fa139edee4bf561f736a57ada73",
+    "date_parsed": "2026-08-02"
+  },
+  "baca5a846598d0ab7d35045d89b4fc44": {
+    "source_id": "costa_agenda",
+    "title": "Incontro con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-08-03 18:00",
+    "city": "Cortina d’ampezzo (bl)",
+    "venue": "Cinema Alexander Girardi Hall, Via Marangoi, 2, 32043 Cortina d'Ampezzo BL, Italia",
+    "url": "https://www.francescocosta.net/agenda/2b8931d4aecec3e633bcc3ff18c9d04a/",
+    "extra": {},
+    "id": "baca5a846598d0ab7d35045d89b4fc44",
+    "content_hash": "b5eb40b71ca7a2014f1858ae25c578ba",
+    "date_parsed": "2026-08-03"
+  },
   "6624d928bb4d1f85e01241bc41df6d3c": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
@@ -38,70 +135,70 @@
     "content_hash": "85c7fd8c7f3fdc1d54dc8304ee853f29",
     "date_parsed": "2026-09-01"
   },
-  "929420391a6f08e3b97e2b4ab21a07aa": {
+  "07800e8b02eb0b8fe3ab478535a03df6": {
     "source_id": "politeama_genovese",
-    "title": "Stefano Rapone",
-    "speaker_name": "Stefano Rapone",
-    "date": "2026-11-30 21:00",
+    "title": "Paolo Kessisoglu",
+    "speaker_name": "Paolo Kessisoglu",
+    "date": "2027-02-13 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/06/06/stefano-rapone/",
+    "url": "https://www.politeamagenovese.it/2026/07/01/paolo-kessisoglu/",
     "extra": {},
-    "id": "929420391a6f08e3b97e2b4ab21a07aa",
-    "content_hash": "8c664b034ecc3eda2cd8e7ee7f712bc3",
-    "date_parsed": "2026-11-30"
+    "id": "07800e8b02eb0b8fe3ab478535a03df6",
+    "content_hash": "c5d6cffd443607dee715962fae5d324b",
+    "date_parsed": "2027-02-13"
   },
-  "a7c412e041b57b36242acd3a0ca44c9e": {
-    "source_id": "politeama_genovese",
-    "title": "Daniele Tinti",
-    "speaker_name": "Daniele Tinti",
-    "date": "2027-03-23 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/05/28/daniele-tinti/",
-    "extra": {},
-    "id": "a7c412e041b57b36242acd3a0ca44c9e",
-    "content_hash": "7a3d0d4b053a1e30f29755374ddf9d4d",
-    "date_parsed": "2027-03-23"
-  },
-  "74f891fd3348cc3bd13b438e88857736": {
-    "source_id": "politeama_genovese",
-    "title": "Angelo Pintus",
-    "speaker_name": "Angelo Pintus",
-    "date": "2026-10-25",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
-    "extra": {},
-    "id": "74f891fd3348cc3bd13b438e88857736",
-    "content_hash": "31a99e01382d5340ca50dd7634b24b6a",
-    "date_parsed": "2026-10-25"
-  },
-  "2a680ea206d1501ff0447ee347303719": {
+  "f2f1c0d3afc715dc84b82aad73539db1": {
     "source_id": "politeama_genovese",
     "title": "Katia Follesa",
     "speaker_name": "Katia Follesa",
-    "date": "2026-12-04",
+    "date": "2026-12-04 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2025/02/13/katia-follesa/",
+    "url": "https://www.politeamagenovese.it/2026/03/20/katia-follesa-2/",
     "extra": {},
-    "id": "2a680ea206d1501ff0447ee347303719",
-    "content_hash": "eb788a5c2087d68402695c182e1095bd",
+    "id": "f2f1c0d3afc715dc84b82aad73539db1",
+    "content_hash": "4c36fbd0153cf867b35619b96460a17b",
     "date_parsed": "2026-12-04"
   },
-  "69733c131636bc7a8a44d1a61006dbd2": {
+  "f0a229e53e539640685906c6ca794d04": {
     "source_id": "politeama_genovese",
-    "title": "Eleazaro Rossi",
-    "speaker_name": "Eleazaro Rossi",
-    "date": "2027-02-15 21:00",
+    "title": "Geppi Cucciari",
+    "speaker_name": "Geppi Cucciari",
+    "date": "2026-11-23 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/06/18/eleazaro-rossi-2/",
+    "url": "https://www.politeamagenovese.it/2026/07/15/geppi-cucciari/",
     "extra": {},
-    "id": "69733c131636bc7a8a44d1a61006dbd2",
-    "content_hash": "1f85d5ade16a54ba38af717743cb887e",
-    "date_parsed": "2027-02-15"
+    "id": "f0a229e53e539640685906c6ca794d04",
+    "content_hash": "a466cf69cf02f8c0872c9aa76568a258",
+    "date_parsed": "2026-11-23"
+  },
+  "46cdfe26fc043a001069a096280ea260": {
+    "source_id": "politeama_genovese",
+    "title": "Antonio Ornano",
+    "speaker_name": "Antonio Ornano",
+    "date": "2027-02-20 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/01/antonio-ornano/",
+    "extra": {},
+    "id": "46cdfe26fc043a001069a096280ea260",
+    "content_hash": "57395097ea355d808eece49324f670c6",
+    "date_parsed": "2027-02-20"
+  },
+  "aa8fa46f9023f4e08a7a9bde130f3013": {
+    "source_id": "politeama_genovese",
+    "title": "Arianna Porcelli Safonov",
+    "speaker_name": "Arianna Porcelli Safonov",
+    "date": "2027-01-27 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/07/01/arianna-porcelli-safonov/",
+    "extra": {},
+    "id": "aa8fa46f9023f4e08a7a9bde130f3013",
+    "content_hash": "ce0153a9359d614c380290b40897cbdf",
+    "date_parsed": "2027-01-27"
   },
   "c92bde11f9a3b7b492e43b17c94e74f8": {
     "source_id": "politeama_genovese",
@@ -128,206 +225,5 @@
     "id": "8c4c6b8f37da0dbaf369b5ddeced49cb",
     "content_hash": "7e5d71880b6a8b7cb174ffd546f68ee1",
     "date_parsed": "2026-11-06"
-  },
-  "bfb8e06999bf36cc727d0d2012df9a1b": {
-    "source_id": "politeama_genovese",
-    "title": "Maurizio Lastrico",
-    "speaker_name": "Maurizio Lastrico",
-    "date": "2026-12-31 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/maurizio-lastrico/",
-    "extra": {},
-    "id": "bfb8e06999bf36cc727d0d2012df9a1b",
-    "content_hash": "0c5c6334a8e7bb6660e1394271cc46b6",
-    "date_parsed": "2026-12-31"
-  },
-  "aa8fa46f9023f4e08a7a9bde130f3013": {
-    "source_id": "politeama_genovese",
-    "title": "Arianna Porcelli Safonov",
-    "speaker_name": "Arianna Porcelli Safonov",
-    "date": "2027-01-27 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/arianna-porcelli-safonov/",
-    "extra": {},
-    "id": "aa8fa46f9023f4e08a7a9bde130f3013",
-    "content_hash": "ce0153a9359d614c380290b40897cbdf",
-    "date_parsed": "2027-01-27"
-  },
-  "07800e8b02eb0b8fe3ab478535a03df6": {
-    "source_id": "politeama_genovese",
-    "title": "Paolo Kessisoglu",
-    "speaker_name": "Paolo Kessisoglu",
-    "date": "2027-02-13 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/paolo-kessisoglu/",
-    "extra": {},
-    "id": "07800e8b02eb0b8fe3ab478535a03df6",
-    "content_hash": "c5d6cffd443607dee715962fae5d324b",
-    "date_parsed": "2027-02-13"
-  },
-  "46cdfe26fc043a001069a096280ea260": {
-    "source_id": "politeama_genovese",
-    "title": "Antonio Ornano",
-    "speaker_name": "Antonio Ornano",
-    "date": "2027-02-20 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/antonio-ornano/",
-    "extra": {},
-    "id": "46cdfe26fc043a001069a096280ea260",
-    "content_hash": "57395097ea355d808eece49324f670c6",
-    "date_parsed": "2027-02-20"
-  },
-  "751b3ec38dd99803a27a330178c61db0": {
-    "source_id": "politeama_genovese",
-    "title": "Virginia Raffaele",
-    "speaker_name": "Virginia Raffaele",
-    "date": "2027-03-20",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
-    "extra": {},
-    "id": "751b3ec38dd99803a27a330178c61db0",
-    "content_hash": "2e5ff5a99237e579f1087facd2827d4d",
-    "date_parsed": "2027-03-20"
-  },
-  "5446cefcb150e74c5196bbe58c4e001c": {
-    "source_id": "politeama_genovese",
-    "title": "Andrea Pennacchi",
-    "speaker_name": "Andrea Pennacchi",
-    "date": "2027-04-03 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/andrea-pennacchi/",
-    "extra": {},
-    "id": "5446cefcb150e74c5196bbe58c4e001c",
-    "content_hash": "765a2e069558e719a40f05c41f0096c9",
-    "date_parsed": "2027-04-03"
-  },
-  "3a84ed3887c0455ec7b273f9981753ab": {
-    "source_id": "politeama_genovese",
-    "title": "Aldo Cazzullo",
-    "speaker_name": "Aldo Baglio",
-    "date": "2027-04-06 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/01/aldo-cazzullo/",
-    "extra": {},
-    "id": "3a84ed3887c0455ec7b273f9981753ab",
-    "content_hash": "f403aff2132d7090f0c033a0fc657170",
-    "date_parsed": "2027-04-06"
-  },
-  "1427b1e1fd8ef67001d1df9fad859329": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Giada Messetti e Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-08-02 18:00",
-    "city": "Corvara (bz)",
-    "venue": "Sala manifestazioni F. A. Rottonara Str. Col Alt 36, 39033 Corvara",
-    "url": "https://www.francescocosta.net/agenda/a106492aba1bb0cbbca336f93955114b/",
-    "extra": {},
-    "id": "1427b1e1fd8ef67001d1df9fad859329",
-    "content_hash": "10c3ad00e04150b9177eb82d5d405b66",
-    "date_parsed": "2026-08-02"
-  },
-  "baca5a846598d0ab7d35045d89b4fc44": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-08-03 18:00",
-    "city": "Cortina d’ampezzo (bl)",
-    "venue": "Cinema Alexander Girardi Hall, Via Marangoi, 2, 32043 Cortina d'Ampezzo BL, Italia",
-    "url": "https://www.francescocosta.net/agenda/2b8931d4aecec3e633bcc3ff18c9d04a/",
-    "extra": {},
-    "id": "baca5a846598d0ab7d35045d89b4fc44",
-    "content_hash": "b5eb40b71ca7a2014f1858ae25c578ba",
-    "date_parsed": "2026-08-03"
-  },
-  "073f6f7b7347c3f39b62d1b235e4ce21": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa e Giada Messetti",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-08-01 17:30",
-    "city": "Comano terme (tn)",
-    "venue": "Parco delle Terme di Comano",
-    "url": "https://www.francescocosta.net/agenda/fb59b27e645ae0767716fdcc0a5f4b81/",
-    "extra": {},
-    "id": "073f6f7b7347c3f39b62d1b235e4ce21",
-    "content_hash": "a6dc2efae4a8c9031a2dcf2078406be5",
-    "date_parsed": "2026-08-01"
-  },
-  "29f123c8b54ede2e086df2181b2d43e1": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-30 21:15",
-    "city": "Brescia",
-    "venue": "Via del Castello, 925121 Brescia BS, Castello di Brescia",
-    "url": "https://www.francescocosta.net/agenda/ae2f67dd622453aa37a25e936ebb142d/",
-    "extra": {},
-    "id": "29f123c8b54ede2e086df2181b2d43e1",
-    "content_hash": "2100881ceffaa871542f470e9fc3f4ba",
-    "date_parsed": "2026-07-30"
-  },
-  "f0a229e53e539640685906c6ca794d04": {
-    "source_id": "politeama_genovese",
-    "title": "Geppi Cucciari",
-    "speaker_name": "Geppi Cucciari",
-    "date": "2026-11-23 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/15/geppi-cucciari/",
-    "extra": {},
-    "id": "f0a229e53e539640685906c6ca794d04",
-    "content_hash": "a466cf69cf02f8c0872c9aa76568a258",
-    "date_parsed": "2026-11-23"
-  },
-  "58c2e67bf1c2313dacf7843c41cdfc17": {
-    "source_id": "festival_mente",
-    "title": "Crescere, la guerra",
-    "speaker_name": "Francesca Mannocchi",
-    "date": "Settembre 2026 19:00",
-    "city": "Sarzana",
-    "venue": "Chiostro delle Muse",
-    "url": "https://www.festivaldellamente.it/it/?p=24162",
-    "extra": {
-      "all_speakers": "Francesca Mannocchi, Rodrigo D’Erasmo"
-    },
-    "id": "58c2e67bf1c2313dacf7843c41cdfc17",
-    "content_hash": "570835cb20516a2c50cf9001fe94b076",
-    "date_parsed": null
-  },
-  "0b0c20ba6054f9f176c11121882ce2b8": {
-    "source_id": "festival_mente",
-    "title": "Le parole che bruciano",
-    "speaker_name": "Francesca Mannocchi",
-    "date": "Settembre 2026 18:00",
-    "city": "Sarzana",
-    "venue": "Piazza dell'Accademia",
-    "url": "https://www.festivaldellamente.it/it/?p=24172",
-    "extra": {
-      "all_speakers": "Francesca Mannocchi"
-    },
-    "id": "0b0c20ba6054f9f176c11121882ce2b8",
-    "content_hash": "3f49188083d6287aebe62af72f502e44",
-    "date_parsed": null
-  },
-  "ab3f427b3365be709ef7c8c240be18f5": {
-    "source_id": "festival_mente",
-    "title": "San Francesco e il fuoco",
-    "speaker_name": "Alessandro Barbero",
-    "date": "Settembre 2026 21:00",
-    "city": "Sarzana",
-    "venue": "Piazza Duomo",
-    "url": "https://www.festivaldellamente.it/it/?p=24203",
-    "extra": {
-      "all_speakers": "Alessandro Barbero"
-    },
-    "id": "ab3f427b3365be709ef7c8c240be18f5",
-    "content_hash": "35136eba6f382faf2a0c95acda66786d",
-    "date_parsed": null
   }
 }
