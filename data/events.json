@@ -3,7 +3,7 @@
     "source_id": "festival_mente",
     "title": "Crescere, la guerra",
     "speaker_name": "Francesca Mannocchi",
-    "date": "Settembre 2026 17:00",
+    "date": "Settembre 2026 17:30",
     "city": "Sarzana",
     "venue": "Piazza del Duomo",
     "url": "https://www.festivaldellamente.it/it/?p=24162",
@@ -11,51 +11,38 @@
       "all_speakers": "Francesca Mannocchi, Rodrigo D’Erasmo"
     },
     "id": "58c2e67bf1c2313dacf7843c41cdfc17",
-    "content_hash": "067a5b2bd5395dbf635107c40d84b139",
+    "content_hash": "a1b5f4196b48af4625bf865bef3912ec",
     "date_parsed": null
   },
   "0b0c20ba6054f9f176c11121882ce2b8": {
     "source_id": "festival_mente",
     "title": "Le parole che bruciano",
     "speaker_name": "Francesca Mannocchi",
-    "date": "Settembre 2026 18:00",
+    "date": "Settembre 2026 21:30",
     "city": "Sarzana",
-    "venue": "Fortezza Firmafede",
+    "venue": "Piazza Brignole",
     "url": "https://www.festivaldellamente.it/it/?p=24172",
     "extra": {
       "all_speakers": "Francesca Mannocchi"
     },
     "id": "0b0c20ba6054f9f176c11121882ce2b8",
-    "content_hash": "869260ddacdb68f0313067ea7b3fcc7a",
+    "content_hash": "a90d2f395bdb54c4f02c6e41c09b4e0d",
     "date_parsed": null
   },
   "ab3f427b3365be709ef7c8c240be18f5": {
     "source_id": "festival_mente",
     "title": "San Francesco e il fuoco",
     "speaker_name": "Alessandro Barbero",
-    "date": "Settembre 2026 11:30",
+    "date": "Settembre 2026 21:00",
     "city": "Sarzana",
-    "venue": "Piazza Matteotti",
+    "venue": "Piazza del Duomo",
     "url": "https://www.festivaldellamente.it/it/?p=24203",
     "extra": {
       "all_speakers": "Alessandro Barbero"
     },
     "id": "ab3f427b3365be709ef7c8c240be18f5",
-    "content_hash": "cdfaf4f349860bc453e45c6312fdd3fa",
+    "content_hash": "0fa88b154736c97054a67a11de693355",
     "date_parsed": null
-  },
-  "c782ea486bbf6236526657505e3a2573": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-22 21:00",
-    "city": "Pozzolo formigaro (al)",
-    "venue": "Pozzolo Formigaro, Castello Sforzesco, (AL)",
-    "url": "https://www.francescocosta.net/agenda/03f7e8423310000f6d9d2b3ebd310bb3/",
-    "extra": {},
-    "id": "c782ea486bbf6236526657505e3a2573",
-    "content_hash": "2d22b647bbd64b8334313f2372830925",
-    "date_parsed": "2026-07-22"
   },
   "0e4de4738685d0702d7eea64e0b7881a": {
     "source_id": "costa_agenda",
