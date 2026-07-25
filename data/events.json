@@ -303,5 +303,363 @@
     "id": "929420391a6f08e3b97e2b4ab21a07aa",
     "content_hash": "8c664b034ecc3eda2cd8e7ee7f712bc3",
     "date_parsed": "2026-11-30"
+  },
+  "f8ccde3f4130483d59cf462f8777d59e": {
+    "source_id": "festival_comunicazione",
+    "title": "Se non c'eri non c'ero",
+    "speaker_name": "Telmo Pievani",
+    "date": "Settembre 2026 19:00",
+    "city": "Camogli",
+    "venue": "Piazza della Comunicazione",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-pievani/",
+    "extra": {
+      "speakers_raw": "Telmo PIEVANI"
+    },
+    "id": "f8ccde3f4130483d59cf462f8777d59e",
+    "content_hash": "796bf3973c60e660ee42fa45629aba10",
+    "date_parsed": null
+  },
+  "ec93c8c40650f04b96310d8a87cf7719": {
+    "source_id": "festival_comunicazione",
+    "title": "Il coraggio del silenzio (quando la scienza tace)",
+    "speaker_name": "Guido Barbujani",
+    "date": "Settembre 2026 11:00",
+    "city": "Camogli",
+    "venue": "Parco di Villa Serena",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-barbujani/",
+    "extra": {
+      "speakers_raw": "Guido BARBUJANI"
+    },
+    "id": "ec93c8c40650f04b96310d8a87cf7719",
+    "content_hash": "012c98f4843b1d52f6f289674bd98365",
+    "date_parsed": null
+  },
+  "fbf2f7efe93136721dd3710455b6d24c": {
+    "source_id": "festival_comunicazione",
+    "title": "Il coraggio dei cavalieri medievali",
+    "speaker_name": "Alessandro Barbero",
+    "date": "Settembre 2026 16:00",
+    "city": "Camogli",
+    "venue": "Piazzale della Chiesa di San Michele Arcangelo",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-barbero/",
+    "extra": {
+      "speakers_raw": "Alessandro BARBERO"
+    },
+    "id": "fbf2f7efe93136721dd3710455b6d24c",
+    "content_hash": "ab13534176cdb24952272599b1343e2d",
+    "date_parsed": null
+  },
+  "dac4843fa2821289410ede2e65fd7424": {
+    "source_id": "festival_comunicazione",
+    "title": "New York, 11 settembre 2001: io c'ero",
+    "speaker_name": "Federico Rampini",
+    "date": "Settembre 2026 17:00",
+    "city": "Camogli",
+    "venue": "Auditorium – Polo della Comunicazione",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-bucci-rampini-schillaci/",
+    "extra": {
+      "speakers_raw": "Marco BUCCI, Federico RAMPINI, Omar SCHILLACI"
+    },
+    "id": "dac4843fa2821289410ede2e65fd7424",
+    "content_hash": "ff4508125883283e135ffff2cf7bee7e",
+    "date_parsed": null
+  },
+  "bafd417382be17e506547fb3f51b5dc6": {
+    "source_id": "festival_comunicazione",
+    "title": "Un evangelista e il suo DNA",
+    "speaker_name": "Guido Barbujani",
+    "date": "Settembre 2026 16:00",
+    "city": "Camogli",
+    "venue": "Terrazza",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-barbujani-benente/",
+    "extra": {
+      "speakers_raw": "Guido BARBUJANI, Fabrizio BENENTE"
+    },
+    "id": "bafd417382be17e506547fb3f51b5dc6",
+    "content_hash": "8ccd761cf43968789922190d7a856693",
+    "date_parsed": null
+  },
+  "1dd1d807b7aefd878a0c54be30b8ba61": {
+    "source_id": "festival_comunicazione",
+    "title": "A che cosa serve l'America",
+    "speaker_name": "Federico Rampini",
+    "date": "Settembre 2026 21:30",
+    "city": "Camogli",
+    "venue": "Palazzo della Cittadella",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-rampini-rampini/",
+    "extra": {
+      "speakers_raw": "Jacopo RAMPINI, Federico RAMPINI"
+    },
+    "id": "1dd1d807b7aefd878a0c54be30b8ba61",
+    "content_hash": "14504987474955af0ee9f41325b773b3",
+    "date_parsed": null
+  },
+  "13d0ed1a9ad0d957670b1870ce16047a": {
+    "source_id": "festivaletteratura",
+    "title": "38",
+    "speaker_name": "Lucio Caracciolo",
+    "date": "2026-09-10 16:30",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/38-spezzeranno-le-spade-e-ne-faranno-aratri-4904",
+    "extra": {
+      "all_authors": "Lucio Caracciolo Matteo Maria Zuppi Paola Caridi"
+    },
+    "id": "13d0ed1a9ad0d957670b1870ce16047a",
+    "content_hash": "25766c4ebe4fbbf756c38cba4e916246",
+    "date_parsed": "2026-09-10"
+  },
+  "f765ef3a6b9893bfc4ebbfdfccccb079": {
+    "source_id": "festivaletteratura",
+    "title": "LA MIA STORIA CON LA LETTURA",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "2026-09-10 18:00",
+    "city": "Mantova",
+    "venue": "Piazza Alberti",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/la-mia-storia-con-la-lettura-5122",
+    "extra": {
+      "all_authors": "Francesca Mannocchi Elsa Riccadonna"
+    },
+    "id": "f765ef3a6b9893bfc4ebbfdfccccb079",
+    "content_hash": "07214c5594c9d3b3df0d1d52171192fd",
+    "date_parsed": "2026-09-10"
+  },
+  "495638b976161d0017f7178d9d174959": {
+    "source_id": "festivaletteratura",
+    "title": "56",
+    "speaker_name": "Edoardo Ferrario",
+    "date": "2026-09-10 18:30",
+    "city": "Mantova",
+    "venue": "Teatro Bibiena",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/56-l-eco-che-non-si-spegne-4965",
+    "extra": {
+      "all_authors": "Mario Andreose Davide Ferrario Elisabetta Sgarbi"
+    },
+    "id": "495638b976161d0017f7178d9d174959",
+    "content_hash": "7b50d1e9a3472e3351c10ddc38c1aa87",
+    "date_parsed": "2026-09-10"
+  },
+  "be821430f1f04be47d60b2fbf2c062cf": {
+    "source_id": "festivaletteratura",
+    "title": "57",
+    "speaker_name": "Alessandro Barbero",
+    "date": "2026-09-10 18:45",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/57-va-e-ripara-la-mia-chiesa-4906",
+    "extra": {
+      "all_authors": "Alessandro Barbero"
+    },
+    "id": "be821430f1f04be47d60b2fbf2c062cf",
+    "content_hash": "8fd99c5df2291f0741d002ebb5819ffb",
+    "date_parsed": "2026-09-10"
+  },
+  "133fd68e8ee0f8b044dde14c6254f362": {
+    "source_id": "festivaletteratura",
+    "title": "SENZA FINE",
+    "speaker_name": "Edoardo Ferrario",
+    "date": "2026-09-11 11:00",
+    "city": "Mantova",
+    "venue": "Tenda Sordello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/senza-fine-5080",
+    "extra": {
+      "all_authors": "Davide Ferrario"
+    },
+    "id": "133fd68e8ee0f8b044dde14c6254f362",
+    "content_hash": "c7bcecc0b510f71767c7b2434c2935de",
+    "date_parsed": "2026-09-11"
+  },
+  "5f6e8b9309d4634260077c1a7051053e": {
+    "source_id": "festivaletteratura",
+    "title": "96",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "2026-09-11 14:45",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/96-uno-spaesamento-collettivo-4908",
+    "extra": {
+      "all_authors": "Ece Temelkuran Francesca Mannocchi"
+    },
+    "id": "5f6e8b9309d4634260077c1a7051053e",
+    "content_hash": "3301efa07a818d733930734f631b802a",
+    "date_parsed": "2026-09-11"
+  },
+  "f4519f899c790f650fc7615543ddffd8": {
+    "source_id": "festivaletteratura",
+    "title": "BLURANDEVÙ",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-11 20:45",
+    "city": "Mantova",
+    "venue": "Seminario Vescovile",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/blurandevu-4991",
+    "extra": {
+      "all_authors": "Francesco Costa"
+    },
+    "id": "f4519f899c790f650fc7615543ddffd8",
+    "content_hash": "c4f866ca62b331316585d7a61b09e65c",
+    "date_parsed": "2026-09-11"
+  },
+  "256d3b8fe27365ca663667cb13e552e4": {
+    "source_id": "festivaletteratura",
+    "title": "МEGLIO DI UN ROМANZO",
+    "speaker_name": "Eugenio Cau",
+    "date": "2026-09-12 10:00",
+    "city": "Mantova",
+    "venue": "Piazza Alberti",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/meglio-di-un-romanzo-5125",
+    "extra": {
+      "all_authors": "Eugenio Cau Riccardo Staglianò Christian Elia"
+    },
+    "id": "256d3b8fe27365ca663667cb13e552e4",
+    "content_hash": "826b8693efc49cdee378d1906ba208c1",
+    "date_parsed": "2026-09-12"
+  },
+  "cafbf57b05b2de8935d66ba74d538877": {
+    "source_id": "festivaletteratura",
+    "title": "136",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-12 10:00",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/136-stati-uniti-e-cina-allo-specchio-4912",
+    "extra": {
+      "all_authors": "Francesco Costa Simone Pieranni Veronica Fernandes"
+    },
+    "id": "cafbf57b05b2de8935d66ba74d538877",
+    "content_hash": "21e5325da0cac65b9f7db43a42296ca8",
+    "date_parsed": "2026-09-12"
+  },
+  "5c308c6eeff6177f1a63f2a42d61f46d": {
+    "source_id": "festivaletteratura",
+    "title": "154",
+    "speaker_name": "Telmo Pievani",
+    "date": "2026-09-12 12:15",
+    "city": "Mantova",
+    "venue": "Basilica Palatina di Santa Barbara",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/154-l-umanita-in-natura-4953",
+    "extra": {
+      "all_authors": "Andrea Wulf Telmo Pievani"
+    },
+    "id": "5c308c6eeff6177f1a63f2a42d61f46d",
+    "content_hash": "1c35a1f0ed8f8ff4f02aadf1b8046d99",
+    "date_parsed": "2026-09-12"
+  },
+  "4ec246a431e011a7224e21bfb89f9057": {
+    "source_id": "festivaletteratura",
+    "title": "169",
+    "speaker_name": "Luciana Littizzetto",
+    "date": "2026-09-12 14:45",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/169-un-po-queen-e-un-po-teenager-4917",
+    "extra": {
+      "all_authors": "Luciana Littizzetto Chiara Valerio"
+    },
+    "id": "4ec246a431e011a7224e21bfb89f9057",
+    "content_hash": "6aef3fd608c0669f1ce23b047875ea96",
+    "date_parsed": "2026-09-12"
+  },
+  "16dd0b49c2806d47f8d461d199306a82": {
+    "source_id": "festivaletteratura",
+    "title": "МEGLIO DI UN ROМANZO",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-13 10:00",
+    "city": "Mantova",
+    "venue": "Piazza Alberti",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/meglio-di-un-romanzo-5129",
+    "extra": {
+      "all_authors": "Caterina Carradori Lella Costa Grace Fainelli Christian Elia"
+    },
+    "id": "16dd0b49c2806d47f8d461d199306a82",
+    "content_hash": "1a371d9bcac2b6607372685002b67486",
+    "date_parsed": "2026-09-13"
+  },
+  "9759b516a9c5221107be7821e1c892f3": {
+    "source_id": "festivaletteratura",
+    "title": "QUELLA SVENTURATA",
+    "speaker_name": "Lucio Caracciolo",
+    "date": "2026-09-13 10:00",
+    "city": "Mantova",
+    "venue": "Tenda Sordello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/quella-sventurata-5086",
+    "extra": {
+      "all_authors": "Edgarda Ferri Luigi Caracciolo"
+    },
+    "id": "9759b516a9c5221107be7821e1c892f3",
+    "content_hash": "2c5cb89a332a4e6785555011bc0d5b94",
+    "date_parsed": "2026-09-13"
+  },
+  "0de46a03d72564fb9d1aa9882f386a74": {
+    "source_id": "festivaletteratura",
+    "title": "217",
+    "speaker_name": "Cecilia Sala",
+    "date": "2026-09-13 11:00",
+    "city": "Mantova",
+    "venue": "Piazza Castello",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/217-historia-magistra-vitae-4918",
+    "extra": {
+      "all_authors": "Bruna Bagnato Elvira Mujčić Cecilia Sala Neri Marcorè"
+    },
+    "id": "0de46a03d72564fb9d1aa9882f386a74",
+    "content_hash": "466d45bcf21a3b29e0d543b9be295852",
+    "date_parsed": "2026-09-13"
+  },
+  "d8d9b93fde3cd0dd242af04c9400f159": {
+    "source_id": "festivaletteratura",
+    "title": "229",
+    "speaker_name": "Telmo Pievani",
+    "date": "2026-09-13 14:30",
+    "city": "Mantova",
+    "venue": "Casa del Mantegna",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/229-se-fa-caldo-ci-sara-una-ragione-5251",
+    "extra": {
+      "all_authors": "Michele Freppaz Telmo Pievani Valentina Vitali"
+    },
+    "id": "d8d9b93fde3cd0dd242af04c9400f159",
+    "content_hash": "59b652cd57607d1214db6f6c2a89689d",
+    "date_parsed": "2026-09-13"
+  },
+  "33abef65b8f1fefd5226b171d9faeb35": {
+    "source_id": "festivaletteratura",
+    "title": "246",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "2026-09-13 17:15",
+    "city": "Mantova",
+    "venue": "Basilica Palatina di Santa Barbara",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/246-scrivere-dalla-guerra-scrivere-la-guerra-4961",
+    "extra": {
+      "all_authors": "Haidar al-Ghazali Francesca Mannocchi Mario Soldaini"
+    },
+    "id": "33abef65b8f1fefd5226b171d9faeb35",
+    "content_hash": "328d1cc3712f94079bc7693c7d0f495c",
+    "date_parsed": "2026-09-13"
+  },
+  "d19a9046a7b87825acc3d0c29693ee4d": {
+    "source_id": "festivaletteratura",
+    "title": "248",
+    "speaker_name": "Eugenio Cau",
+    "date": "2026-09-13 17:30",
+    "city": "Mantova",
+    "venue": "Seminario Vescovile",
+    "url": "https://www.festivaletteratura.it/it/2026/eventi/248-capire-l-iran-5168",
+    "extra": {
+      "all_authors": "Majid Bita Paola Rivetti Eugenio Cau"
+    },
+    "id": "d19a9046a7b87825acc3d0c29693ee4d",
+    "content_hash": "68311cb867523d56f1583a1d27d4c662",
+    "date_parsed": "2026-09-13"
+  },
+  "74f891fd3348cc3bd13b438e88857736": {
+    "source_id": "politeama_genovese",
+    "title": "Angelo Pintus",
+    "speaker_name": "Angelo Pintus",
+    "date": "2026-10-25 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
+    "extra": {},
+    "id": "74f891fd3348cc3bd13b438e88857736",
+    "content_hash": "108bba1e2691d7f4bca636ec0fa8e473",
+    "date_parsed": "2026-10-25"
   }
 }
