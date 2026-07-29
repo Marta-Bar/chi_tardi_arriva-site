@@ -344,19 +344,6 @@
     "content_hash": "68311cb867523d56f1583a1d27d4c662",
     "date_parsed": "2026-09-13"
   },
-  "0e4de4738685d0702d7eea64e0b7881a": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-28 21:00",
-    "city": "Saluzzo (cn)",
-    "venue": "Il Quartiere, Piazza Montebello, 1, 12037 Saluzzo CN, Italia",
-    "url": "https://www.francescocosta.net/agenda/b2830bb169042f28fc34bd1b71cccc15/",
-    "extra": {},
-    "id": "0e4de4738685d0702d7eea64e0b7881a",
-    "content_hash": "740f139a131fc6c135b8faa55b0103fb",
-    "date_parsed": "2026-07-28"
-  },
   "29f123c8b54ede2e086df2181b2d43e1": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
