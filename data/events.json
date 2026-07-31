@@ -344,19 +344,6 @@
     "content_hash": "68311cb867523d56f1583a1d27d4c662",
     "date_parsed": "2026-09-13"
   },
-  "29f123c8b54ede2e086df2181b2d43e1": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-07-30 21:15",
-    "city": "Brescia",
-    "venue": "Via del Castello, 925121 Brescia BS, Castello di Brescia",
-    "url": "https://www.francescocosta.net/agenda/ae2f67dd622453aa37a25e936ebb142d/",
-    "extra": {},
-    "id": "29f123c8b54ede2e086df2181b2d43e1",
-    "content_hash": "2100881ceffaa871542f470e9fc3f4ba",
-    "date_parsed": "2026-07-30"
-  },
   "073f6f7b7347c3f39b62d1b235e4ce21": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa e Giada Messetti",
