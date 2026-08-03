@@ -344,19 +344,6 @@
     "content_hash": "68311cb867523d56f1583a1d27d4c662",
     "date_parsed": "2026-09-13"
   },
-  "1427b1e1fd8ef67001d1df9fad859329": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa e Giada Messetti",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-08-02 21:00",
-    "city": "Corvara (bz)",
-    "venue": "Sala manifestazioni F. A. Rottonara Str. Col Alt 36, 39033 Corvara",
-    "url": "https://www.francescocosta.net/agenda/a106492aba1bb0cbbca336f93955114b/",
-    "extra": {},
-    "id": "1427b1e1fd8ef67001d1df9fad859329",
-    "content_hash": "af1b5fa139edee4bf561f736a57ada73",
-    "date_parsed": "2026-08-02"
-  },
   "baca5a846598d0ab7d35045d89b4fc44": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
