@@ -344,19 +344,6 @@
     "content_hash": "68311cb867523d56f1583a1d27d4c662",
     "date_parsed": "2026-09-13"
   },
-  "baca5a846598d0ab7d35045d89b4fc44": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-08-03 18:00",
-    "city": "Cortina d’ampezzo (bl)",
-    "venue": "Cinema Alexander Girardi Hall, Via Marangoi, 2, 32043 Cortina d'Ampezzo BL, Italia",
-    "url": "https://www.francescocosta.net/agenda/2b8931d4aecec3e633bcc3ff18c9d04a/",
-    "extra": {},
-    "id": "baca5a846598d0ab7d35045d89b4fc44",
-    "content_hash": "b5eb40b71ca7a2014f1858ae25c578ba",
-    "date_parsed": "2026-08-03"
-  },
   "6624d928bb4d1f85e01241bc41df6d3c": {
     "source_id": "costa_agenda",
     "title": "Incontro con Francesco Costa",
