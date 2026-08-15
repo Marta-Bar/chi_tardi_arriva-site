@@ -609,5 +609,20 @@
     "id": "74f891fd3348cc3bd13b438e88857736",
     "content_hash": "108bba1e2691d7f4bca636ec0fa8e473",
     "date_parsed": "2026-10-25"
+  },
+  "3ac12b78e27285a9f5a0c358ec829d42": {
+    "source_id": "festival_comunicazione",
+    "title": "New York, 11 settembre 2001: io c'ero",
+    "speaker_name": "Federico Rampini",
+    "date": "Settembre 2026 19:00",
+    "city": "Camogli",
+    "venue": "Terrazza a Mare",
+    "url": "https://www.festivalcomunicazione.it/incontro-2026-bucci-rampini-cagiano/",
+    "extra": {
+      "speakers_raw": "Marco BUCCI, Federico RAMPINI, Michele CAGIANO"
+    },
+    "id": "3ac12b78e27285a9f5a0c358ec829d42",
+    "content_hash": "034af7fd083f1430804cb704daa616ef",
+    "date_parsed": null
   }
 }
