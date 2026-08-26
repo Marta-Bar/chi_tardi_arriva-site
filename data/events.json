@@ -624,5 +624,44 @@
     "id": "3ac12b78e27285a9f5a0c358ec829d42",
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
+  },
+  "44028152673be49dfb0c123cc9312d1e": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce, con Francesco Costa e Matteo Bordone",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-08 19:00",
+    "city": "Milano",
+    "venue": "Teatro Arcimboldi, 20126 Milano MI, Italia",
+    "url": "https://www.francescocosta.net/agenda/61506dade87c66b2f11524db9841521f/",
+    "extra": {},
+    "id": "44028152673be49dfb0c123cc9312d1e",
+    "content_hash": "d2e2db7518d8049aeadbba0bdebe638c",
+    "date_parsed": "2026-09-08"
+  },
+  "fa5f5302587238936231cfa188cd1f96": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce, con Francesco Costa",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-13 10:00",
+    "city": "Certaldo (fi)",
+    "venue": "Auditorium San Fedele",
+    "url": "https://www.francescocosta.net/agenda/2565cdcc9359fc1b483b2d8122420eb4/",
+    "extra": {},
+    "id": "fa5f5302587238936231cfa188cd1f96",
+    "content_hash": "9b57de4a7aa219cadd2058fc4390026f",
+    "date_parsed": "2026-09-13"
+  },
+  "3a7c0e4a0d5cbf744926a4be18f8aa40": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce, con Francesco Costa e Andrea Lucchetta",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-17 21:00",
+    "city": "Pordenone",
+    "venue": "Largo San Giorgio, Largo S. Giorgio, 33170 Pordenone PN, Italia",
+    "url": "https://www.francescocosta.net/agenda/b191fde03f3d9e45d800ec5211de1d58/",
+    "extra": {},
+    "id": "3a7c0e4a0d5cbf744926a4be18f8aa40",
+    "content_hash": "906ee1cdf10e18b5a1344615ea527d25",
+    "date_parsed": "2026-09-17"
   }
 }
