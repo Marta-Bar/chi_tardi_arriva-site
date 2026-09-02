@@ -344,19 +344,6 @@
     "content_hash": "68311cb867523d56f1583a1d27d4c662",
     "date_parsed": "2026-09-13"
   },
-  "6624d928bb4d1f85e01241bc41df6d3c": {
-    "source_id": "costa_agenda",
-    "title": "Incontro con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-01 21:00",
-    "city": "Nizza monferrato (at)",
-    "venue": "Piazza Martiri di Alessandria, 14049 Nizza Monferrato AT, Italia",
-    "url": "https://www.francescocosta.net/agenda/e2c73caa95293f2cc00bca1e7eda028e/",
-    "extra": {},
-    "id": "6624d928bb4d1f85e01241bc41df6d3c",
-    "content_hash": "85c7fd8c7f3fdc1d54dc8304ee853f29",
-    "date_parsed": "2026-09-01"
-  },
   "91e10d80b76b3790f6aaecb88ceb30d8": {
     "source_id": "politeama_genovese",
     "title": "Alessandro Cattelan",
