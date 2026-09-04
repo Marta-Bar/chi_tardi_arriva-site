@@ -588,14 +588,14 @@
     "source_id": "politeama_genovese",
     "title": "Angelo Pintus",
     "speaker_name": "Angelo Pintus",
-    "date": "2026-10-25 21:00",
+    "date": "2026-10-31 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
     "extra": {},
     "id": "74f891fd3348cc3bd13b438e88857736",
-    "content_hash": "108bba1e2691d7f4bca636ec0fa8e473",
-    "date_parsed": "2026-10-25"
+    "content_hash": "5bc3beb81d4e738c0e837fe8f1b18df6",
+    "date_parsed": "2026-10-31"
   },
   "3ac12b78e27285a9f5a0c358ec829d42": {
     "source_id": "festival_comunicazione",
@@ -676,5 +676,83 @@
     "id": "855b894335b52295695943fc1388c234",
     "content_hash": "29577b4b0114c0dbae053b00b0a385db",
     "date_parsed": "2026-09-27"
+  },
+  "c6278c3c6711414a033c9e291947a436": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-19 10:00",
+    "city": "Faenza (ra)",
+    "venue": "Faventia Sales, Via san Giovanni Bosco, 1, 48018 Faenza RA, Italia",
+    "url": "https://www.francescocosta.net/agenda/1e1c2a3bf6492c732c924558eb6ff8f9/",
+    "extra": {},
+    "id": "c6278c3c6711414a033c9e291947a436",
+    "content_hash": "e1f8956f0292e9f16aae5d112c1345e4",
+    "date_parsed": "2026-09-19"
+  },
+  "ecd002a9d4d87ab5ed2235f778765711": {
+    "source_id": "costa_agenda",
+    "title": "Come se ne esce (con Francesco Costa)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-20 12:00",
+    "city": "Faenza (ra)",
+    "venue": "Faventia Sales, Via san Giovanni Bosco, 1, 48018 Faenza RA, Italia",
+    "url": "https://www.francescocosta.net/agenda/06ee100fc99c1bfc4528b3f08863d0bd/",
+    "extra": {},
+    "id": "ecd002a9d4d87ab5ed2235f778765711",
+    "content_hash": "88c63b8af6e6c6e5ef4b93f6d50eda56",
+    "date_parsed": "2026-09-20"
+  },
+  "882f343f397ccd81d5883e83425b8908": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-23 18:30",
+    "city": "Milano",
+    "venue": "LCA Studio Legale, Via della Moscova, 18, 20121 Milano MI, Italia",
+    "url": "https://www.francescocosta.net/agenda/a17882a15db8418ebef5f56e00a9c7bb/",
+    "extra": {},
+    "id": "882f343f397ccd81d5883e83425b8908",
+    "content_hash": "591568758cdd36b5b746fb6c6e541593",
+    "date_parsed": "2026-09-23"
+  },
+  "61ea71e79731869b7c2dc3eac0553fac": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce (con Francesco Costa e Francesca Sforza)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-09-28 18:30",
+    "city": "Torino",
+    "venue": "OGR Torino, Corso Castelfidardo, 22, 10128 Torino TO, Italia",
+    "url": "https://www.francescocosta.net/agenda/d7c6c837f3652f536d8f5e87d3cb71d0/",
+    "extra": {},
+    "id": "61ea71e79731869b7c2dc3eac0553fac",
+    "content_hash": "3d53e0c01c6cdf468e61e2ab68dbdb6f",
+    "date_parsed": "2026-09-28"
+  },
+  "86e89fcf416370af14ab9a3449ec4677": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-03 10:00",
+    "city": "Carpi (mo)",
+    "venue": "Piazzale Re Astolfo, 41012 Carpi MO, Italia",
+    "url": "https://www.francescocosta.net/agenda/c28131308911c208623acaef31a75f2b/",
+    "extra": {},
+    "id": "86e89fcf416370af14ab9a3449ec4677",
+    "content_hash": "58b51d5b1f54543757ccbb11fd1329dc",
+    "date_parsed": "2026-10-03"
+  },
+  "fa46371c3ef37fb0dd47045a7fd287df": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce (con Francesco Costa)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-08 20:30",
+    "city": "Mestre (ve)",
+    "venue": "Teatro Toniolo, Piazzetta Gian Francesco Malipiero, 1, 30174 Venezia VE, Italia",
+    "url": "https://www.francescocosta.net/agenda/ae24f57632654a127eba181394f849b6/",
+    "extra": {},
+    "id": "fa46371c3ef37fb0dd47045a7fd287df",
+    "content_hash": "175f2e90877789ff7fecd04759f485a8",
+    "date_parsed": "2026-10-08"
   }
 }
