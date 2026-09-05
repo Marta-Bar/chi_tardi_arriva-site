@@ -599,7 +599,7 @@
   },
   "3ac12b78e27285a9f5a0c358ec829d42": {
     "source_id": "festival_comunicazione",
-    "title": "New York, 11 settembre 2001: io c'ero",
+    "title": "New York, 11 settembre 2001: io c\\'ero",
     "speaker_name": "Federico Rampini",
     "date": "Settembre 2026 19:00",
     "city": "Camogli",
@@ -609,7 +609,7 @@
       "speakers_raw": "Marco BUCCI, Federico RAMPINI, Michele CAGIANO"
     },
     "id": "3ac12b78e27285a9f5a0c358ec829d42",
-    "content_hash": "034af7fd083f1430804cb704daa616ef",
+    "content_hash": "5d8e3fbeece90be92fbb90a0a1a6364c",
     "date_parsed": null
   },
   "44028152673be49dfb0c123cc9312d1e": {
@@ -754,5 +754,50 @@
     "id": "fa46371c3ef37fb0dd47045a7fd287df",
     "content_hash": "175f2e90877789ff7fecd04759f485a8",
     "date_parsed": "2026-10-08"
+  },
+  "3b65798f270bf5ad7fedba324f1ab15a": {
+    "source_id": "festival_mente",
+    "title": "Crescere, la guerra",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 21:30",
+    "city": "Sarzana",
+    "venue": "Piazza della Cittadella",
+    "url": "https://www.festivaldellamente.it/it/evento-n-4-2026/",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi, Rodrigo D’Erasmo"
+    },
+    "id": "3b65798f270bf5ad7fedba324f1ab15a",
+    "content_hash": "cc271272e187e431b960c017c86f3c97",
+    "date_parsed": null
+  },
+  "d56b1856df9cdb20032f9e74f07676c0": {
+    "source_id": "festival_mente",
+    "title": "Le parole che bruciano",
+    "speaker_name": "Francesca Mannocchi",
+    "date": "Settembre 2026 21:30",
+    "city": "Sarzana",
+    "venue": "Fortezza Firmafede",
+    "url": "https://www.festivaldellamente.it/it/evento-n-8-2026/",
+    "extra": {
+      "all_speakers": "Francesca Mannocchi"
+    },
+    "id": "d56b1856df9cdb20032f9e74f07676c0",
+    "content_hash": "0bb2e6f9581785b4f64262026ee5f983",
+    "date_parsed": null
+  },
+  "f8d9a299943693b5d597a9ea93fca6ab": {
+    "source_id": "festival_mente",
+    "title": "San Francesco e il fuoco",
+    "speaker_name": "Alessandro Barbero",
+    "date": "Settembre 2026 21:30",
+    "city": "Sarzana",
+    "venue": "Piazza del Duomo",
+    "url": "https://www.festivaldellamente.it/it/evento-n-21-2026/",
+    "extra": {
+      "all_speakers": "Alessandro Barbero"
+    },
+    "id": "f8d9a299943693b5d597a9ea93fca6ab",
+    "content_hash": "600b5f6ddedebdd680027a65bbd3d27d",
+    "date_parsed": null
   }
 }
