@@ -799,5 +799,31 @@
     "id": "f8d9a299943693b5d597a9ea93fca6ab",
     "content_hash": "600b5f6ddedebdd680027a65bbd3d27d",
     "date_parsed": null
+  },
+  "63a091f7f86c1eaf776a713bea90c7fb": {
+    "source_id": "politeama_genovese",
+    "title": "Angelo Duro",
+    "speaker_name": "Angelo Duro",
+    "date": "2027-04-21 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/09/07/angelo-duro/",
+    "extra": {},
+    "id": "63a091f7f86c1eaf776a713bea90c7fb",
+    "content_hash": "65151bcbcc6ade4fda754d0bd2a23ee6",
+    "date_parsed": "2027-04-21"
+  },
+  "bb92b1618d3144cefedd5b78ef19d328": {
+    "source_id": "politeama_genovese",
+    "title": "Stefano Nazzi",
+    "speaker_name": "Stefano Nazzi",
+    "date": "2027-04-29 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/09/07/stefano-nazzi/",
+    "extra": {},
+    "id": "bb92b1618d3144cefedd5b78ef19d328",
+    "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
+    "date_parsed": "2027-04-29"
   }
 }
