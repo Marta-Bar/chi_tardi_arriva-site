@@ -76,7 +76,7 @@
   },
   "1dd1d807b7aefd878a0c54be30b8ba61": {
     "source_id": "festival_comunicazione",
-    "title": "A che cosa serve l'America Si ringrazia Fondazione Carige",
+    "title": "A che cosa serve l\\'America Si ringrazia Fondazione Carige",
     "speaker_name": "Federico Rampini",
     "date": "Settembre 2026 21:30",
     "city": "Camogli",
@@ -86,7 +86,7 @@
       "speakers_raw": "Jacopo RAMPINI, Federico RAMPINI"
     },
     "id": "1dd1d807b7aefd878a0c54be30b8ba61",
-    "content_hash": "512606f1e58ad20a1821fcb4857bc27d",
+    "content_hash": "a05bd6d4552aea6cb689a796d3aa13d4",
     "date_parsed": null
   },
   "13d0ed1a9ad0d957670b1870ce16047a": {
@@ -599,7 +599,7 @@
   },
   "3ac12b78e27285a9f5a0c358ec829d42": {
     "source_id": "festival_comunicazione",
-    "title": "New York, 11 settembre 2001: io c\\'ero",
+    "title": "New York, 11 settembre 2001: io c'ero",
     "speaker_name": "Federico Rampini",
     "date": "Settembre 2026 19:00",
     "city": "Camogli",
@@ -609,21 +609,8 @@
       "speakers_raw": "Marco BUCCI, Federico RAMPINI, Michele CAGIANO"
     },
     "id": "3ac12b78e27285a9f5a0c358ec829d42",
-    "content_hash": "5d8e3fbeece90be92fbb90a0a1a6364c",
+    "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
-  },
-  "44028152673be49dfb0c123cc9312d1e": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce, con Francesco Costa e Matteo Bordone",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-08 19:00",
-    "city": "Milano",
-    "venue": "Teatro Arcimboldi, 20126 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/61506dade87c66b2f11524db9841521f/",
-    "extra": {},
-    "id": "44028152673be49dfb0c123cc9312d1e",
-    "content_hash": "d2e2db7518d8049aeadbba0bdebe638c",
-    "date_parsed": "2026-09-08"
   },
   "fa5f5302587238936231cfa188cd1f96": {
     "source_id": "costa_agenda",
