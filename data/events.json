@@ -89,66 +89,6 @@
     "content_hash": "a05bd6d4552aea6cb689a796d3aa13d4",
     "date_parsed": null
   },
-  "13d0ed1a9ad0d957670b1870ce16047a": {
-    "source_id": "festivaletteratura",
-    "title": "38",
-    "speaker_name": "Lucio Caracciolo",
-    "date": "2026-09-10 16:30",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/38-spezzeranno-le-spade-e-ne-faranno-aratri-4904",
-    "extra": {
-      "all_authors": "Lucio Caracciolo Matteo Maria Zuppi Paola Caridi"
-    },
-    "id": "13d0ed1a9ad0d957670b1870ce16047a",
-    "content_hash": "25766c4ebe4fbbf756c38cba4e916246",
-    "date_parsed": "2026-09-10"
-  },
-  "f765ef3a6b9893bfc4ebbfdfccccb079": {
-    "source_id": "festivaletteratura",
-    "title": "LA MIA STORIA CON LA LETTURA",
-    "speaker_name": "Francesca Mannocchi",
-    "date": "2026-09-10 18:00",
-    "city": "Mantova",
-    "venue": "Piazza Alberti",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/la-mia-storia-con-la-lettura-5122",
-    "extra": {
-      "all_authors": "Francesca Mannocchi Elsa Riccadonna"
-    },
-    "id": "f765ef3a6b9893bfc4ebbfdfccccb079",
-    "content_hash": "07214c5594c9d3b3df0d1d52171192fd",
-    "date_parsed": "2026-09-10"
-  },
-  "495638b976161d0017f7178d9d174959": {
-    "source_id": "festivaletteratura",
-    "title": "56",
-    "speaker_name": "Edoardo Ferrario",
-    "date": "2026-09-10 18:30",
-    "city": "Mantova",
-    "venue": "Teatro Bibiena",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/56-l-eco-che-non-si-spegne-4965",
-    "extra": {
-      "all_authors": "Mario Andreose Davide Ferrario Elisabetta Sgarbi"
-    },
-    "id": "495638b976161d0017f7178d9d174959",
-    "content_hash": "7b50d1e9a3472e3351c10ddc38c1aa87",
-    "date_parsed": "2026-09-10"
-  },
-  "be821430f1f04be47d60b2fbf2c062cf": {
-    "source_id": "festivaletteratura",
-    "title": "57",
-    "speaker_name": "Alessandro Barbero",
-    "date": "2026-09-10 18:45",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/57-va-e-ripara-la-mia-chiesa-4906",
-    "extra": {
-      "all_authors": "Alessandro Barbero"
-    },
-    "id": "be821430f1f04be47d60b2fbf2c062cf",
-    "content_hash": "8fd99c5df2291f0741d002ebb5819ffb",
-    "date_parsed": "2026-09-10"
-  },
   "133fd68e8ee0f8b044dde14c6254f362": {
     "source_id": "festivaletteratura",
     "title": "SENZA FINE",
