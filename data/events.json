@@ -89,51 +89,6 @@
     "content_hash": "a05bd6d4552aea6cb689a796d3aa13d4",
     "date_parsed": null
   },
-  "133fd68e8ee0f8b044dde14c6254f362": {
-    "source_id": "festivaletteratura",
-    "title": "SENZA FINE",
-    "speaker_name": "Edoardo Ferrario",
-    "date": "2026-09-11 11:00",
-    "city": "Mantova",
-    "venue": "Tenda Sordello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/senza-fine-5080",
-    "extra": {
-      "all_authors": "Davide Ferrario"
-    },
-    "id": "133fd68e8ee0f8b044dde14c6254f362",
-    "content_hash": "c7bcecc0b510f71767c7b2434c2935de",
-    "date_parsed": "2026-09-11"
-  },
-  "5f6e8b9309d4634260077c1a7051053e": {
-    "source_id": "festivaletteratura",
-    "title": "96",
-    "speaker_name": "Francesca Mannocchi",
-    "date": "2026-09-11 14:45",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/96-uno-spaesamento-collettivo-4908",
-    "extra": {
-      "all_authors": "Ece Temelkuran Francesca Mannocchi"
-    },
-    "id": "5f6e8b9309d4634260077c1a7051053e",
-    "content_hash": "3301efa07a818d733930734f631b802a",
-    "date_parsed": "2026-09-11"
-  },
-  "f4519f899c790f650fc7615543ddffd8": {
-    "source_id": "festivaletteratura",
-    "title": "BLURANDEVÙ",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-11 20:45",
-    "city": "Mantova",
-    "venue": "Seminario Vescovile",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/blurandevu-4991",
-    "extra": {
-      "all_authors": "Francesco Costa"
-    },
-    "id": "f4519f899c790f650fc7615543ddffd8",
-    "content_hash": "c4f866ca62b331316585d7a61b09e65c",
-    "date_parsed": "2026-09-11"
-  },
   "256d3b8fe27365ca663667cb13e552e4": {
     "source_id": "festivaletteratura",
     "title": "МEGLIO DI UN ROМANZO",
