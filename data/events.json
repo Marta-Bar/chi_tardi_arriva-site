@@ -89,66 +89,6 @@
     "content_hash": "a05bd6d4552aea6cb689a796d3aa13d4",
     "date_parsed": null
   },
-  "256d3b8fe27365ca663667cb13e552e4": {
-    "source_id": "festivaletteratura",
-    "title": "МEGLIO DI UN ROМANZO",
-    "speaker_name": "Eugenio Cau",
-    "date": "2026-09-12 10:00",
-    "city": "Mantova",
-    "venue": "Piazza Alberti",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/meglio-di-un-romanzo-5125",
-    "extra": {
-      "all_authors": "Eugenio Cau Riccardo Staglianò Christian Elia"
-    },
-    "id": "256d3b8fe27365ca663667cb13e552e4",
-    "content_hash": "826b8693efc49cdee378d1906ba208c1",
-    "date_parsed": "2026-09-12"
-  },
-  "cafbf57b05b2de8935d66ba74d538877": {
-    "source_id": "festivaletteratura",
-    "title": "136",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-12 10:00",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/136-stati-uniti-e-cina-allo-specchio-4912",
-    "extra": {
-      "all_authors": "Francesco Costa Simone Pieranni Veronica Fernandes"
-    },
-    "id": "cafbf57b05b2de8935d66ba74d538877",
-    "content_hash": "21e5325da0cac65b9f7db43a42296ca8",
-    "date_parsed": "2026-09-12"
-  },
-  "5c308c6eeff6177f1a63f2a42d61f46d": {
-    "source_id": "festivaletteratura",
-    "title": "154",
-    "speaker_name": "Telmo Pievani",
-    "date": "2026-09-12 12:15",
-    "city": "Mantova",
-    "venue": "Basilica Palatina di Santa Barbara",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/154-l-umanita-in-natura-4953",
-    "extra": {
-      "all_authors": "Andrea Wulf Telmo Pievani"
-    },
-    "id": "5c308c6eeff6177f1a63f2a42d61f46d",
-    "content_hash": "1c35a1f0ed8f8ff4f02aadf1b8046d99",
-    "date_parsed": "2026-09-12"
-  },
-  "4ec246a431e011a7224e21bfb89f9057": {
-    "source_id": "festivaletteratura",
-    "title": "169",
-    "speaker_name": "Luciana Littizzetto",
-    "date": "2026-09-12 14:45",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/169-un-po-queen-e-un-po-teenager-4917",
-    "extra": {
-      "all_authors": "Luciana Littizzetto Chiara Valerio"
-    },
-    "id": "4ec246a431e011a7224e21bfb89f9057",
-    "content_hash": "6aef3fd608c0669f1ce23b047875ea96",
-    "date_parsed": "2026-09-12"
-  },
   "16dd0b49c2806d47f8d461d199306a82": {
     "source_id": "festivaletteratura",
     "title": "МEGLIO DI UN ROМANZO",
