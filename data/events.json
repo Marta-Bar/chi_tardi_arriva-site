@@ -89,96 +89,6 @@
     "content_hash": "a05bd6d4552aea6cb689a796d3aa13d4",
     "date_parsed": null
   },
-  "16dd0b49c2806d47f8d461d199306a82": {
-    "source_id": "festivaletteratura",
-    "title": "МEGLIO DI UN ROМANZO",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-13 10:00",
-    "city": "Mantova",
-    "venue": "Piazza Alberti",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/meglio-di-un-romanzo-5129",
-    "extra": {
-      "all_authors": "Caterina Carradori Lella Costa Grace Fainelli Christian Elia"
-    },
-    "id": "16dd0b49c2806d47f8d461d199306a82",
-    "content_hash": "1a371d9bcac2b6607372685002b67486",
-    "date_parsed": "2026-09-13"
-  },
-  "9759b516a9c5221107be7821e1c892f3": {
-    "source_id": "festivaletteratura",
-    "title": "QUELLA SVENTURATA",
-    "speaker_name": "Lucio Caracciolo",
-    "date": "2026-09-13 10:00",
-    "city": "Mantova",
-    "venue": "Tenda Sordello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/quella-sventurata-5086",
-    "extra": {
-      "all_authors": "Edgarda Ferri Luigi Caracciolo"
-    },
-    "id": "9759b516a9c5221107be7821e1c892f3",
-    "content_hash": "2c5cb89a332a4e6785555011bc0d5b94",
-    "date_parsed": "2026-09-13"
-  },
-  "0de46a03d72564fb9d1aa9882f386a74": {
-    "source_id": "festivaletteratura",
-    "title": "217",
-    "speaker_name": "Cecilia Sala",
-    "date": "2026-09-13 11:00",
-    "city": "Mantova",
-    "venue": "Piazza Castello",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/217-historia-magistra-vitae-4918",
-    "extra": {
-      "all_authors": "Bruna Bagnato Elvira Mujčić Cecilia Sala Neri Marcorè"
-    },
-    "id": "0de46a03d72564fb9d1aa9882f386a74",
-    "content_hash": "466d45bcf21a3b29e0d543b9be295852",
-    "date_parsed": "2026-09-13"
-  },
-  "d8d9b93fde3cd0dd242af04c9400f159": {
-    "source_id": "festivaletteratura",
-    "title": "229",
-    "speaker_name": "Telmo Pievani",
-    "date": "2026-09-13 14:30",
-    "city": "Mantova",
-    "venue": "Casa del Mantegna",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/229-se-fa-caldo-ci-sara-una-ragione-5251",
-    "extra": {
-      "all_authors": "Michele Freppaz Telmo Pievani Valentina Vitali"
-    },
-    "id": "d8d9b93fde3cd0dd242af04c9400f159",
-    "content_hash": "59b652cd57607d1214db6f6c2a89689d",
-    "date_parsed": "2026-09-13"
-  },
-  "33abef65b8f1fefd5226b171d9faeb35": {
-    "source_id": "festivaletteratura",
-    "title": "246",
-    "speaker_name": "Francesca Mannocchi",
-    "date": "2026-09-13 17:15",
-    "city": "Mantova",
-    "venue": "Basilica Palatina di Santa Barbara",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/246-scrivere-dalla-guerra-scrivere-la-guerra-4961",
-    "extra": {
-      "all_authors": "Haidar al-Ghazali Francesca Mannocchi Mario Soldaini"
-    },
-    "id": "33abef65b8f1fefd5226b171d9faeb35",
-    "content_hash": "328d1cc3712f94079bc7693c7d0f495c",
-    "date_parsed": "2026-09-13"
-  },
-  "d19a9046a7b87825acc3d0c29693ee4d": {
-    "source_id": "festivaletteratura",
-    "title": "248",
-    "speaker_name": "Eugenio Cau",
-    "date": "2026-09-13 17:30",
-    "city": "Mantova",
-    "venue": "Seminario Vescovile",
-    "url": "https://www.festivaletteratura.it/it/2026/eventi/248-capire-l-iran-5168",
-    "extra": {
-      "all_authors": "Majid Bita Paola Rivetti Eugenio Cau"
-    },
-    "id": "d19a9046a7b87825acc3d0c29693ee4d",
-    "content_hash": "68311cb867523d56f1583a1d27d4c662",
-    "date_parsed": "2026-09-13"
-  },
   "91e10d80b76b3790f6aaecb88ceb30d8": {
     "source_id": "politeama_genovese",
     "title": "Alessandro Cattelan",
@@ -447,19 +357,6 @@
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
   },
-  "fa5f5302587238936231cfa188cd1f96": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce, con Francesco Costa",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-13 10:00",
-    "city": "Certaldo (fi)",
-    "venue": "Auditorium San Fedele",
-    "url": "https://www.francescocosta.net/agenda/2565cdcc9359fc1b483b2d8122420eb4/",
-    "extra": {},
-    "id": "fa5f5302587238936231cfa188cd1f96",
-    "content_hash": "9b57de4a7aa219cadd2058fc4390026f",
-    "date_parsed": "2026-09-13"
-  },
   "3a7c0e4a0d5cbf744926a4be18f8aa40": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce, con Francesco Costa e Andrea Lucchetta",
@@ -647,5 +544,44 @@
     "id": "bb92b1618d3144cefedd5b78ef19d328",
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
+  },
+  "de500fc4bf1591a878922df1d7dd069d": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-11 17:00",
+    "city": "Modena",
+    "venue": "Teatro Dal Verme",
+    "url": "https://www.francescocosta.net/agenda/eac87f3588f37c17a691b8fcc1938ac8/",
+    "extra": {},
+    "id": "de500fc4bf1591a878922df1d7dd069d",
+    "content_hash": "415bbaa068286ff6a1b288a8c3c46978",
+    "date_parsed": "2026-10-11"
+  },
+  "a2fc6f0a32c8b0827b841bbeefb451b7": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-13 19:00",
+    "city": "Conegliano (tv)",
+    "venue": "Cortile della Biblioteca Comunale",
+    "url": "https://www.francescocosta.net/agenda/98791d19a50288197092e68f085e648a/",
+    "extra": {},
+    "id": "a2fc6f0a32c8b0827b841bbeefb451b7",
+    "content_hash": "1228b1464bfc8592d58f499a793949c6",
+    "date_parsed": "2026-10-13"
+  },
+  "07c14abe9325e09fa90ffed77541a79b": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-17 17:00",
+    "city": "Bologna",
+    "venue": "Villa Reale",
+    "url": "https://www.francescocosta.net/agenda/225f6836eecd16bc759807f92ff615d0/",
+    "extra": {},
+    "id": "07c14abe9325e09fa90ffed77541a79b",
+    "content_hash": "59a92c7865e0a4b9530b65592b3f2ce9",
+    "date_parsed": "2026-10-17"
   }
 }
