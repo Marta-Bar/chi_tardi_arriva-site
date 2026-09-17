@@ -344,7 +344,7 @@
   },
   "3ac12b78e27285a9f5a0c358ec829d42": {
     "source_id": "festival_comunicazione",
-    "title": "New York, 11 settembre 2001: io c'ero",
+    "title": "New York, 11 settembre 2001: io c\\'ero",
     "speaker_name": "Federico Rampini",
     "date": "Settembre 2026 19:00",
     "city": "Camogli",
@@ -354,7 +354,7 @@
       "speakers_raw": "Marco BUCCI, Federico RAMPINI, Michele CAGIANO"
     },
     "id": "3ac12b78e27285a9f5a0c358ec829d42",
-    "content_hash": "034af7fd083f1430804cb704daa616ef",
+    "content_hash": "5d8e3fbeece90be92fbb90a0a1a6364c",
     "date_parsed": null
   },
   "3a7c0e4a0d5cbf744926a4be18f8aa40": {
