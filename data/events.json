@@ -383,19 +383,6 @@
     "content_hash": "29577b4b0114c0dbae053b00b0a385db",
     "date_parsed": "2026-09-27"
   },
-  "c6278c3c6711414a033c9e291947a436": {
-    "source_id": "costa_agenda",
-    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-19 10:00",
-    "city": "Faenza (ra)",
-    "venue": "Faventia Sales, Via san Giovanni Bosco, 1, 48018 Faenza RA, Italia",
-    "url": "https://www.francescocosta.net/agenda/1e1c2a3bf6492c732c924558eb6ff8f9/",
-    "extra": {},
-    "id": "c6278c3c6711414a033c9e291947a436",
-    "content_hash": "e1f8956f0292e9f16aae5d112c1345e4",
-    "date_parsed": "2026-09-19"
-  },
   "ecd002a9d4d87ab5ed2235f778765711": {
     "source_id": "costa_agenda",
     "title": "Come se ne esce (con Francesco Costa)",
