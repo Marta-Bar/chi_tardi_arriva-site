@@ -383,19 +383,6 @@
     "content_hash": "29577b4b0114c0dbae053b00b0a385db",
     "date_parsed": "2026-09-27"
   },
-  "ecd002a9d4d87ab5ed2235f778765711": {
-    "source_id": "costa_agenda",
-    "title": "Come se ne esce (con Francesco Costa)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-20 12:00",
-    "city": "Faenza (ra)",
-    "venue": "Faventia Sales, Via san Giovanni Bosco, 1, 48018 Faenza RA, Italia",
-    "url": "https://www.francescocosta.net/agenda/06ee100fc99c1bfc4528b3f08863d0bd/",
-    "extra": {},
-    "id": "ecd002a9d4d87ab5ed2235f778765711",
-    "content_hash": "88c63b8af6e6c6e5ef4b93f6d50eda56",
-    "date_parsed": "2026-09-20"
-  },
   "882f343f397ccd81d5883e83425b8908": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce",
