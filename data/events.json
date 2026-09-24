@@ -383,19 +383,6 @@
     "content_hash": "29577b4b0114c0dbae053b00b0a385db",
     "date_parsed": "2026-09-27"
   },
-  "882f343f397ccd81d5883e83425b8908": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-23 18:30",
-    "city": "Milano",
-    "venue": "LCA Studio Legale, Via della Moscova, 18, 20121 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/a17882a15db8418ebef5f56e00a9c7bb/",
-    "extra": {},
-    "id": "882f343f397ccd81d5883e83425b8908",
-    "content_hash": "591568758cdd36b5b746fb6c6e541593",
-    "date_parsed": "2026-09-23"
-  },
   "61ea71e79731869b7c2dc3eac0553fac": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce (con Francesco Costa e Francesca Sforza)",
