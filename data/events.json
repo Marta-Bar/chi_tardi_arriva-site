@@ -210,14 +210,14 @@
     "source_id": "politeama_genovese",
     "title": "Virginia Raffaele",
     "speaker_name": "Virginia Raffaele",
-    "date": "2027-03-20 21:00",
+    "date": "2026-10-31 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
     "extra": {},
     "id": "751b3ec38dd99803a27a330178c61db0",
-    "content_hash": "5f42a2889be4fe1190291f25e1438e57",
-    "date_parsed": "2027-03-20"
+    "content_hash": "abe0ad81fe1aacf57f358893a6fa4619",
+    "date_parsed": "2026-10-31"
   },
   "5446cefcb150e74c5196bbe58c4e001c": {
     "source_id": "politeama_genovese",
@@ -531,5 +531,18 @@
     "id": "07c14abe9325e09fa90ffed77541a79b",
     "content_hash": "59a92c7865e0a4b9530b65592b3f2ce9",
     "date_parsed": "2026-10-17"
+  },
+  "639b451e7931886cac09ddbc70c540a2": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-23 20:30",
+    "city": "Treviso",
+    "venue": "Auditorium Fondazione Cassamarca - Piazza delle Istituzioni, 7 Treviso, Veneto",
+    "url": "https://www.francescocosta.net/agenda/1625245a399c68ac0545cb5808a3af88/",
+    "extra": {},
+    "id": "639b451e7931886cac09ddbc70c540a2",
+    "content_hash": "603f9791a7cae217338e630a67fbeb26",
+    "date_parsed": "2026-10-23"
   }
 }
