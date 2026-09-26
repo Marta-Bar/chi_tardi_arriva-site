@@ -357,19 +357,6 @@
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
   },
-  "9e41608c00f60989b4ceaff0afb46a37": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce, con Francesco Costa e Caterina Moser",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-25 20:30",
-    "city": "Vezzano (tn)",
-    "venue": "Teatro valle dei laghi, Vezzano",
-    "url": "https://www.francescocosta.net/agenda/c848299630a1996838c4b2408b06d062/",
-    "extra": {},
-    "id": "9e41608c00f60989b4ceaff0afb46a37",
-    "content_hash": "00943b1d4b04f42c8487a4fd5346be7f",
-    "date_parsed": "2026-09-25"
-  },
   "855b894335b52295695943fc1388c234": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce, con Francesco Costa e Veronica Fernandes",
