@@ -357,19 +357,6 @@
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
   },
-  "855b894335b52295695943fc1388c234": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce, con Francesco Costa e Veronica Fernandes",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-09-27 10:30",
-    "city": "Piacenza",
-    "venue": "Piazza Cavalli, Piacenza",
-    "url": "https://www.francescocosta.net/agenda/94a111272dc9bc2922e50bcbfee1c874/",
-    "extra": {},
-    "id": "855b894335b52295695943fc1388c234",
-    "content_hash": "29577b4b0114c0dbae053b00b0a385db",
-    "date_parsed": "2026-09-27"
-  },
   "61ea71e79731869b7c2dc3eac0553fac": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce (con Francesco Costa e Francesca Sforza)",
