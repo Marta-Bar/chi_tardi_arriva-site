@@ -357,19 +357,6 @@
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
   },
-  "86e89fcf416370af14ab9a3449ec4677": {
-    "source_id": "costa_agenda",
-    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-03 10:00",
-    "city": "Carpi (mo)",
-    "venue": "Piazzale Re Astolfo, 41012 Carpi MO, Italia",
-    "url": "https://www.francescocosta.net/agenda/c28131308911c208623acaef31a75f2b/",
-    "extra": {},
-    "id": "86e89fcf416370af14ab9a3449ec4677",
-    "content_hash": "58b51d5b1f54543757ccbb11fd1329dc",
-    "date_parsed": "2026-10-03"
-  },
   "fa46371c3ef37fb0dd47045a7fd287df": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce (con Francesco Costa)",
