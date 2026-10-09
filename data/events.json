@@ -357,19 +357,6 @@
     "content_hash": "034af7fd083f1430804cb704daa616ef",
     "date_parsed": null
   },
-  "fa46371c3ef37fb0dd47045a7fd287df": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce (con Francesco Costa)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-08 20:30",
-    "city": "Mestre (ve)",
-    "venue": "Teatro Toniolo, Piazzetta Gian Francesco Malipiero, 1, 30174 Venezia VE, Italia",
-    "url": "https://www.francescocosta.net/agenda/ae24f57632654a127eba181394f849b6/",
-    "extra": {},
-    "id": "fa46371c3ef37fb0dd47045a7fd287df",
-    "content_hash": "175f2e90877789ff7fecd04759f485a8",
-    "date_parsed": "2026-10-08"
-  },
   "3b65798f270bf5ad7fedba324f1ab15a": {
     "source_id": "festival_mente",
     "title": "Crescere, la guerra",
@@ -492,5 +479,31 @@
     "id": "639b451e7931886cac09ddbc70c540a2",
     "content_hash": "603f9791a7cae217338e630a67fbeb26",
     "date_parsed": "2026-10-23"
+  },
+  "7a0c8f7e05305b8b102660b1e363fe15": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-31 10:00",
+    "city": "Napoli",
+    "venue": "Teatro Bellini di Napoli, Via Conte di Ruvo, 14, 80135 Napoli NA, Italia",
+    "url": "https://www.francescocosta.net/agenda/380277f1eecb80f1e37795d8119f354c/",
+    "extra": {},
+    "id": "7a0c8f7e05305b8b102660b1e363fe15",
+    "content_hash": "38d24398ef0b7b925cc94e9ebab8ebd5",
+    "date_parsed": "2026-10-31"
+  },
+  "5777132fbf4aa898529cec884838ac3b": {
+    "source_id": "costa_agenda",
+    "title": "Dopodomani in America",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-01 17:30",
+    "city": "Napoli",
+    "venue": "Teatro Bellini di Napoli, Via Conte di Ruvo, 14, 80135 Napoli NA, Italia",
+    "url": "https://www.francescocosta.net/agenda/1131cd6b1a10624313677ea7878acc7d/",
+    "extra": {},
+    "id": "5777132fbf4aa898529cec884838ac3b",
+    "content_hash": "82661d2d9ff5e48f23136485733ad1e7",
+    "date_parsed": "2026-11-01"
   }
 }
