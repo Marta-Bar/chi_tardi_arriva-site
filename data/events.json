@@ -505,5 +505,18 @@
     "id": "5777132fbf4aa898529cec884838ac3b",
     "content_hash": "82661d2d9ff5e48f23136485733ad1e7",
     "date_parsed": "2026-11-01"
+  },
+  "28779a8a2d7932f76eec88fab6637164": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-22 16:00",
+    "city": "Milano",
+    "venue": "Salone Valente, Via S. Barnaba, 29, 20122 Milano MI, Italia",
+    "url": "https://www.francescocosta.net/agenda/53be1b37a4c8670eb0d62ed1aff5ba56/",
+    "extra": {},
+    "id": "28779a8a2d7932f76eec88fab6637164",
+    "content_hash": "fb8bb4056faf5dac91784c5e610a3570",
+    "date_parsed": "2026-10-22"
   }
 }
