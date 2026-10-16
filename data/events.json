@@ -492,5 +492,31 @@
     "id": "28779a8a2d7932f76eec88fab6637164",
     "content_hash": "fb8bb4056faf5dac91784c5e610a3570",
     "date_parsed": "2026-10-22"
+  },
+  "a06c13b107042e6655e371cc9079731a": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-10-27 21:00",
+    "city": "Firenze",
+    "venue": "Teatro Puccini, Via delle Cascine, 41, 50144 Firenze FI, Italia",
+    "url": "https://www.francescocosta.net/agenda/c42beaae6c478ccee1db281d5a344429/",
+    "extra": {},
+    "id": "a06c13b107042e6655e371cc9079731a",
+    "content_hash": "68a8d1b00bbe90d89761d0347108daac",
+    "date_parsed": "2026-10-27"
+  },
+  "d0c4cb4d40e18fb97d50a24d1831d8bb": {
+    "source_id": "costa_agenda",
+    "title": "Come se ne esce? L’America, la scienza e noi altri in mezzo",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-08 10:00",
+    "city": "Padova (pd)",
+    "venue": "AGORA', Centro Altinate",
+    "url": "https://www.francescocosta.net/agenda/96d063c865274e9532eef9418b1a6843/",
+    "extra": {},
+    "id": "d0c4cb4d40e18fb97d50a24d1831d8bb",
+    "content_hash": "626e78337358ba4e7718a6e25d1f45fc",
+    "date_parsed": "2026-11-08"
   }
 }
