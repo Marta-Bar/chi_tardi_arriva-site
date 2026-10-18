@@ -428,19 +428,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "07c14abe9325e09fa90ffed77541a79b": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-17 17:00",
-    "city": "Bologna",
-    "venue": "Villa Reale",
-    "url": "https://www.francescocosta.net/agenda/225f6836eecd16bc759807f92ff615d0/",
-    "extra": {},
-    "id": "07c14abe9325e09fa90ffed77541a79b",
-    "content_hash": "59a92c7865e0a4b9530b65592b3f2ce9",
-    "date_parsed": "2026-10-17"
-  },
   "639b451e7931886cac09ddbc70c540a2": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce",
