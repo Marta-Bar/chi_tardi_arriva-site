@@ -210,14 +210,14 @@
     "source_id": "politeama_genovese",
     "title": "Virginia Raffaele",
     "speaker_name": "Virginia Raffaele",
-    "date": "2027-02-06 21:00",
+    "date": "2026-12-06 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
     "extra": {},
     "id": "751b3ec38dd99803a27a330178c61db0",
-    "content_hash": "9736ca3288234b27a1175e6f7e565214",
-    "date_parsed": "2027-02-06"
+    "content_hash": "8311daffaafc1f114dbb0f62708f568f",
+    "date_parsed": "2026-12-06"
   },
   "5446cefcb150e74c5196bbe58c4e001c": {
     "source_id": "politeama_genovese",
@@ -505,5 +505,31 @@
     "id": "d0c4cb4d40e18fb97d50a24d1831d8bb",
     "content_hash": "626e78337358ba4e7718a6e25d1f45fc",
     "date_parsed": "2026-11-08"
+  },
+  "6aaa3fa770db9943cce3e3d7f4f2c77d": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-10 21:00",
+    "city": "Varese",
+    "venue": "Cinema-teatro Castellani, Via Acquadro, 32, 21022 Azzate VA, Italia",
+    "url": "https://www.francescocosta.net/agenda/76b273bf5e751e74147e10e10f2a5507/",
+    "extra": {},
+    "id": "6aaa3fa770db9943cce3e3d7f4f2c77d",
+    "content_hash": "dfa587f3d2c873c61d68c86a079d0cc4",
+    "date_parsed": "2026-11-10"
+  },
+  "ab7f1ce48800d5485cfb0c3b67e88663": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce (con Paolo Giordano)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-15 18:00",
+    "city": "Roma",
+    "venue": "Auditorium Parco della Musica Ennio Morricone, Via Pietro de Coubertin, 30, 00196 Roma RM, Italia",
+    "url": "https://www.francescocosta.net/agenda/06b192c2670fbb202b7b2dd62f6c3010/",
+    "extra": {},
+    "id": "ab7f1ce48800d5485cfb0c3b67e88663",
+    "content_hash": "78a6c4296622810310bee6ffb6e13315",
+    "date_parsed": "2026-11-15"
   }
 }
