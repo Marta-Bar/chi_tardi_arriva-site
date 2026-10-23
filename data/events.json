@@ -467,19 +467,6 @@
     "content_hash": "82661d2d9ff5e48f23136485733ad1e7",
     "date_parsed": "2026-11-01"
   },
-  "28779a8a2d7932f76eec88fab6637164": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-22 16:00",
-    "city": "Milano",
-    "venue": "Salone Valente, Via S. Barnaba, 29, 20122 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/53be1b37a4c8670eb0d62ed1aff5ba56/",
-    "extra": {},
-    "id": "28779a8a2d7932f76eec88fab6637164",
-    "content_hash": "fb8bb4056faf5dac91784c5e610a3570",
-    "date_parsed": "2026-10-22"
-  },
   "a06c13b107042e6655e371cc9079731a": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce",
@@ -498,12 +485,12 @@
     "title": "Come se ne esce? L’America, la scienza e noi altri in mezzo",
     "speaker_name": "Francesco Costa",
     "date": "2026-11-08 10:00",
-    "city": "Padova (pd)",
+    "city": "Padova",
     "venue": "AGORA', Centro Altinate",
     "url": "https://www.francescocosta.net/agenda/96d063c865274e9532eef9418b1a6843/",
     "extra": {},
     "id": "d0c4cb4d40e18fb97d50a24d1831d8bb",
-    "content_hash": "626e78337358ba4e7718a6e25d1f45fc",
+    "content_hash": "c1d81a47ab67e4bd811fe50ca17ccc7d",
     "date_parsed": "2026-11-08"
   },
   "6aaa3fa770db9943cce3e3d7f4f2c77d": {
@@ -531,5 +518,31 @@
     "id": "ab7f1ce48800d5485cfb0c3b67e88663",
     "content_hash": "78a6c4296622810310bee6ffb6e13315",
     "date_parsed": "2026-11-15"
+  },
+  "250153ecf6f795d4779b40b0d5dae976": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se ne esce",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-06 21:00",
+    "city": "Pescara",
+    "venue": "Teatro Massimo, Via Caduta del Forte, 15, 65121 Pescara PE, Italia",
+    "url": "https://www.francescocosta.net/agenda/49e57e1650e7afb3fbc9bdb2889c1281/",
+    "extra": {},
+    "id": "250153ecf6f795d4779b40b0d5dae976",
+    "content_hash": "9ba4f0249dfc807863466e7edceba5b0",
+    "date_parsed": "2026-11-06"
+  },
+  "76e6520de93ab762beefd63a4d1abe6e": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-07 11:00",
+    "city": "Pescara",
+    "venue": "Teatro Massimo, Via Caduta del Forte, 15, 65121 Pescara PE, Italia",
+    "url": "https://www.francescocosta.net/agenda/9c3dd82ce478244b17321318be31bafd/",
+    "extra": {},
+    "id": "76e6520de93ab762beefd63a4d1abe6e",
+    "content_hash": "db1f25478aaf697959d65d996bf5001b",
+    "date_parsed": "2026-11-07"
   }
 }
