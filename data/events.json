@@ -428,19 +428,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "639b451e7931886cac09ddbc70c540a2": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-23 20:30",
-    "city": "Treviso",
-    "venue": "Auditorium Fondazione Cassamarca - Piazza delle Istituzioni, 7 Treviso, Veneto",
-    "url": "https://www.francescocosta.net/agenda/1625245a399c68ac0545cb5808a3af88/",
-    "extra": {},
-    "id": "639b451e7931886cac09ddbc70c540a2",
-    "content_hash": "603f9791a7cae217338e630a67fbeb26",
-    "date_parsed": "2026-10-23"
-  },
   "7a0c8f7e05305b8b102660b1e363fe15": {
     "source_id": "costa_agenda",
     "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
