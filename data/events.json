@@ -329,19 +329,6 @@
     "content_hash": "8c664b034ecc3eda2cd8e7ee7f712bc3",
     "date_parsed": "2026-11-30"
   },
-  "74f891fd3348cc3bd13b438e88857736": {
-    "source_id": "politeama_genovese",
-    "title": "Angelo Pintus",
-    "speaker_name": "Angelo Pintus",
-    "date": "2026-10-31 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/05/21/angelo-pintus-3/",
-    "extra": {},
-    "id": "74f891fd3348cc3bd13b438e88857736",
-    "content_hash": "5bc3beb81d4e738c0e837fe8f1b18df6",
-    "date_parsed": "2026-10-31"
-  },
   "3ac12b78e27285a9f5a0c358ec829d42": {
     "source_id": "festival_comunicazione",
     "title": "New York, 11 settembre 2001: io c'ero",
@@ -427,19 +414,6 @@
     "id": "bb92b1618d3144cefedd5b78ef19d328",
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
-  },
-  "7a0c8f7e05305b8b102660b1e363fe15": {
-    "source_id": "costa_agenda",
-    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-10-31 10:00",
-    "city": "Napoli",
-    "venue": "Teatro Bellini di Napoli, Via Conte di Ruvo, 14, 80135 Napoli NA, Italia",
-    "url": "https://www.francescocosta.net/agenda/380277f1eecb80f1e37795d8119f354c/",
-    "extra": {},
-    "id": "7a0c8f7e05305b8b102660b1e363fe15",
-    "content_hash": "38d24398ef0b7b925cc94e9ebab8ebd5",
-    "date_parsed": "2026-10-31"
   },
   "5777132fbf4aa898529cec884838ac3b": {
     "source_id": "costa_agenda",
