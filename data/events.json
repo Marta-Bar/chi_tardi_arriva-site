@@ -415,19 +415,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "5777132fbf4aa898529cec884838ac3b": {
-    "source_id": "costa_agenda",
-    "title": "Dopodomani in America",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-01 17:30",
-    "city": "Napoli",
-    "venue": "Teatro Bellini di Napoli, Via Conte di Ruvo, 14, 80135 Napoli NA, Italia",
-    "url": "https://www.francescocosta.net/agenda/1131cd6b1a10624313677ea7878acc7d/",
-    "extra": {},
-    "id": "5777132fbf4aa898529cec884838ac3b",
-    "content_hash": "82661d2d9ff5e48f23136485733ad1e7",
-    "date_parsed": "2026-11-01"
-  },
   "d0c4cb4d40e18fb97d50a24d1831d8bb": {
     "source_id": "costa_agenda",
     "title": "Come se ne esce? L’America, la scienza e noi altri in mezzo",
