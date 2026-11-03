@@ -210,14 +210,14 @@
     "source_id": "politeama_genovese",
     "title": "Virginia Raffaele",
     "speaker_name": "Virginia Raffaele",
-    "date": "2026-12-06 21:00",
+    "date": "2027-04-05 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
     "extra": {},
     "id": "751b3ec38dd99803a27a330178c61db0",
-    "content_hash": "8311daffaafc1f114dbb0f62708f568f",
-    "date_parsed": "2026-12-06"
+    "content_hash": "52182c6393fcb378924bdb9ff23a84e7",
+    "date_parsed": "2027-04-05"
   },
   "5446cefcb150e74c5196bbe58c4e001c": {
     "source_id": "politeama_genovese",
@@ -570,5 +570,18 @@
     "id": "d11dbd60a8a58d77c075d097a4035ede",
     "content_hash": "8924ac439c8dfaa3c6fa3758be06d77a",
     "date_parsed": "2026-11-14"
+  },
+  "24b86cbba28861e38f2b08913797d5a9": {
+    "source_id": "politeama_genovese",
+    "title": "Eleazaro Rossi",
+    "speaker_name": "Eleazaro Rossi",
+    "date": "2027-04-05 21:00",
+    "city": "Genova",
+    "venue": "Politeama Genovese",
+    "url": "https://www.politeamagenovese.it/2026/11/03/eleazaro-rossi/",
+    "extra": {},
+    "id": "24b86cbba28861e38f2b08913797d5a9",
+    "content_hash": "243b9432a49fe4254a1b754853ab91ae",
+    "date_parsed": "2027-04-05"
   }
 }
