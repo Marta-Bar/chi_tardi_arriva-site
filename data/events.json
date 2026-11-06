@@ -583,5 +583,18 @@
     "id": "24b86cbba28861e38f2b08913797d5a9",
     "content_hash": "243b9432a49fe4254a1b754853ab91ae",
     "date_parsed": "2027-04-05"
+  },
+  "c96f8bb835a1a51929529b989f01035f": {
+    "source_id": "costa_agenda",
+    "title": "Ne siamo usciti? (Francesco Costa con Christian Rocca)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-11-22 12:30",
+    "city": "Milano",
+    "venue": "Teatro Franco Parenti, Via Pier Lombardo, 14, 20135 Milano MI, Italia",
+    "url": "https://www.francescocosta.net/agenda/69dd3a0d6eef20e3cd43b2cbad7dfb31/",
+    "extra": {},
+    "id": "c96f8bb835a1a51929529b989f01035f",
+    "content_hash": "1a761a71932f43aa020ebeaf2ce32559",
+    "date_parsed": "2026-11-22"
   }
 }
