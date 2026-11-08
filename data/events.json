@@ -441,19 +441,6 @@
     "content_hash": "78a6c4296622810310bee6ffb6e13315",
     "date_parsed": "2026-11-15"
   },
-  "76e6520de93ab762beefd63a4d1abe6e": {
-    "source_id": "costa_agenda",
-    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-07 11:00",
-    "city": "Pescara",
-    "venue": "Teatro Massimo, Via Caduta del Forte, 15, 65121 Pescara PE, Italia",
-    "url": "https://www.francescocosta.net/agenda/9c3dd82ce478244b17321318be31bafd/",
-    "extra": {},
-    "id": "76e6520de93ab762beefd63a4d1abe6e",
-    "content_hash": "db1f25478aaf697959d65d996bf5001b",
-    "date_parsed": "2026-11-07"
-  },
   "7d6d8f1d7abe4c3c81530e81d007d704": {
     "source_id": "costa_agenda",
     "title": "Evento di apertura di BookCity: Francesco Costa dialoga con Colson Whitehead",
