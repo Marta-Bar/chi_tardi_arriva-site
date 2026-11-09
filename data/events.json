@@ -402,19 +402,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "d0c4cb4d40e18fb97d50a24d1831d8bb": {
-    "source_id": "costa_agenda",
-    "title": "Come se ne esce? L’America, la scienza e noi altri in mezzo",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-08 10:00",
-    "city": "Padova",
-    "venue": "AGORA', Centro Altinate",
-    "url": "https://www.francescocosta.net/agenda/96d063c865274e9532eef9418b1a6843/",
-    "extra": {},
-    "id": "d0c4cb4d40e18fb97d50a24d1831d8bb",
-    "content_hash": "c1d81a47ab67e4bd811fe50ca17ccc7d",
-    "date_parsed": "2026-11-08"
-  },
   "6aaa3fa770db9943cce3e3d7f4f2c77d": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce",
