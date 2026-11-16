@@ -402,19 +402,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "ab7f1ce48800d5485cfb0c3b67e88663": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce (con Paolo Giordano)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-15 18:00",
-    "city": "Roma",
-    "venue": "Auditorium Parco della Musica Ennio Morricone, Via Pietro de Coubertin, 30, 00196 Roma RM, Italia",
-    "url": "https://www.francescocosta.net/agenda/06b192c2670fbb202b7b2dd62f6c3010/",
-    "extra": {},
-    "id": "ab7f1ce48800d5485cfb0c3b67e88663",
-    "content_hash": "78a6c4296622810310bee6ffb6e13315",
-    "date_parsed": "2026-11-15"
-  },
   "7d6d8f1d7abe4c3c81530e81d007d704": {
     "source_id": "costa_agenda",
     "title": "Evento di apertura di BookCity: Francesco Costa dialoga con Colson Whitehead",
@@ -531,5 +518,31 @@
     "id": "e6f4f1ceb9fe15aec5962905f57d4022",
     "content_hash": "89de2fc65297da116312ab636e379c01",
     "date_parsed": "2026-11-27"
+  },
+  "cfaeb36dbe92af6ab6222728a06c16fc": {
+    "source_id": "costa_agenda",
+    "title": "Presentazione di Come se esce (con Annalisa Cuzzocrea)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-12-04 21:00",
+    "city": "Peccioli (pi)",
+    "venue": "Galleria dei Giganti, Viale Camillo Benso Conte di Cavour, 3B, 56037 Peccioli PI, Italia",
+    "url": "https://www.francescocosta.net/agenda/b26e2170cd904772f98cf06278f98bc5/",
+    "extra": {},
+    "id": "cfaeb36dbe92af6ab6222728a06c16fc",
+    "content_hash": "8c3abe5fd99396c4fdf7750be8036a0b",
+    "date_parsed": "2026-12-04"
+  },
+  "e14e1bdb1138d67232c90b449c74b115": {
+    "source_id": "costa_agenda",
+    "title": "I giornali spiegati bene (con Francesco Costa e Luca Sofri)",
+    "speaker_name": "Francesco Costa",
+    "date": "2026-12-05 10:30",
+    "city": "Peccioli (pi)",
+    "venue": "Galleria dei Giganti, Viale Camillo Benso Conte di Cavour, 3B, 56037 Peccioli PI, Italia",
+    "url": "https://www.francescocosta.net/agenda/3facda37b522c5ceca1829faad8d55dd/",
+    "extra": {},
+    "id": "e14e1bdb1138d67232c90b449c74b115",
+    "content_hash": "185c5239c185285a2db2c062fa06748c",
+    "date_parsed": "2026-12-05"
   }
 }
