@@ -128,19 +128,6 @@
     "content_hash": "4c36fbd0153cf867b35619b96460a17b",
     "date_parsed": "2026-12-04"
   },
-  "f0a229e53e539640685906c6ca794d04": {
-    "source_id": "politeama_genovese",
-    "title": "Geppi Cucciari",
-    "speaker_name": "Geppi Cucciari",
-    "date": "2026-11-23 21:00",
-    "city": "Genova",
-    "venue": "Politeama Genovese",
-    "url": "https://www.politeamagenovese.it/2026/07/15/geppi-cucciari/",
-    "extra": {},
-    "id": "f0a229e53e539640685906c6ca794d04",
-    "content_hash": "a466cf69cf02f8c0872c9aa76568a258",
-    "date_parsed": "2026-11-23"
-  },
   "46cdfe26fc043a001069a096280ea260": {
     "source_id": "politeama_genovese",
     "title": "Antonio Ornano",
@@ -401,19 +388,6 @@
     "id": "bb92b1618d3144cefedd5b78ef19d328",
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
-  },
-  "7d6d8f1d7abe4c3c81530e81d007d704": {
-    "source_id": "costa_agenda",
-    "title": "Evento di apertura di BookCity: Francesco Costa dialoga con Colson Whitehead",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-23 20:00",
-    "city": "Milano",
-    "venue": "Teatro Dal Verme, Via S. Giovanni sul Muro, 2, 20121 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/2427ae9d8dad59cf45b88a9646663601/",
-    "extra": {},
-    "id": "7d6d8f1d7abe4c3c81530e81d007d704",
-    "content_hash": "96d9f534f9b0caa741d8e93fa8a26af2",
-    "date_parsed": "2026-11-23"
   },
   "539480dbedad684da53176de1e8fed34": {
     "source_id": "costa_agenda",
