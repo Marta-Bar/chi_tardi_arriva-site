@@ -184,14 +184,14 @@
     "source_id": "politeama_genovese",
     "title": "Virginia Raffaele",
     "speaker_name": "Virginia Raffaele",
-    "date": "2027-10-20 21:00",
+    "date": "2028-03-02 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/07/01/virginia-raffaele/",
     "extra": {},
     "id": "751b3ec38dd99803a27a330178c61db0",
-    "content_hash": "a690361898c1fc3aed2a66ca1b5cf559",
-    "date_parsed": "2027-10-20"
+    "content_hash": "e6bef37d62c0b2fbdc69be38e2b42d4e",
+    "date_parsed": "2028-03-02"
   },
   "5446cefcb150e74c5196bbe58c4e001c": {
     "source_id": "politeama_genovese",
@@ -367,14 +367,14 @@
     "source_id": "politeama_genovese",
     "title": "Angelo Duro",
     "speaker_name": "Angelo Duro",
-    "date": "2027-10-20 21:00",
+    "date": "2028-03-02 21:00",
     "city": "Genova",
     "venue": "Politeama Genovese",
     "url": "https://www.politeamagenovese.it/2026/09/07/angelo-duro/",
     "extra": {},
     "id": "63a091f7f86c1eaf776a713bea90c7fb",
-    "content_hash": "01768b7e80e657086e311c236416b3b5",
-    "date_parsed": "2027-10-20"
+    "content_hash": "e614bd441b432782c41206df4c1c5f2c",
+    "date_parsed": "2028-03-02"
   },
   "bb92b1618d3144cefedd5b78ef19d328": {
     "source_id": "politeama_genovese",
@@ -388,19 +388,6 @@
     "id": "bb92b1618d3144cefedd5b78ef19d328",
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
-  },
-  "539480dbedad684da53176de1e8fed34": {
-    "source_id": "costa_agenda",
-    "title": "Presentazione di Come se ne esce",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-24 17:00",
-    "city": "Milano",
-    "venue": "Via Porlezza, 12, 20121 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/c5b18282843c5d2bfc02e2cce3b35f15/",
-    "extra": {},
-    "id": "539480dbedad684da53176de1e8fed34",
-    "content_hash": "beb393f5d495f00561eb27e92ec08223",
-    "date_parsed": "2026-11-24"
   },
   "28da7da80eb450b59c3cc680344660b8": {
     "source_id": "costa_agenda",
