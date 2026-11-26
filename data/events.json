@@ -505,5 +505,18 @@
     "id": "7f497924b9cac431449905a0e46ee42f",
     "content_hash": "909fb8ca98cd2d75a3b700154816c8d7",
     "date_parsed": "2027-10-30"
+  },
+  "56ac2fd3c8a3ceb425073dd9627cd51a": {
+    "source_id": "genova_teatro",
+    "title": "Finale del Premio Aldo Amoroso",
+    "speaker_name": "Aldo Baglio",
+    "date": "2027-02-06 21:00",
+    "city": "Genova",
+    "venue": "Teatro Instabile, via A. Cecchi 19r, Genova",
+    "url": "https://www.genovateatro.it/eventi/2025-2026/laquintapraticabile/MC4WNDUZNDAWMCAXNZK1NZA1ODQ0.htm",
+    "extra": {},
+    "id": "56ac2fd3c8a3ceb425073dd9627cd51a",
+    "content_hash": "2a3f7c28e1f1123a8e7d4f5623c287fe",
+    "date_parsed": "2027-02-06"
   }
 }
