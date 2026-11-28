@@ -389,19 +389,6 @@
     "content_hash": "ee45e1ecc6d1a02bdd17735ab8dda65e",
     "date_parsed": "2027-04-29"
   },
-  "28da7da80eb450b59c3cc680344660b8": {
-    "source_id": "costa_agenda",
-    "title": "Che succede al Regno Unito? (con Matteo Castellucci e Francesco Costa)",
-    "speaker_name": "Francesco Costa",
-    "date": "2026-11-27 18:30",
-    "city": "Milano",
-    "venue": "Circolo Filologico Milanese, Via Clerici, 10, 20121 Milano MI, Italia",
-    "url": "https://www.francescocosta.net/agenda/665c38868d0502d3d6d14d559feead77/",
-    "extra": {},
-    "id": "28da7da80eb450b59c3cc680344660b8",
-    "content_hash": "99e8a39f160f4e9aaef24459a077df88",
-    "date_parsed": "2026-11-27"
-  },
   "e3c04d8ecb10df6bf655028f46da918d": {
     "source_id": "costa_agenda",
     "title": "Presentazione di Come se ne esce",
@@ -453,19 +440,6 @@
     "id": "24b86cbba28861e38f2b08913797d5a9",
     "content_hash": "243b9432a49fe4254a1b754853ab91ae",
     "date_parsed": "2027-04-05"
-  },
-  "e6f4f1ceb9fe15aec5962905f57d4022": {
-    "source_id": "feltrinelli_genova",
-    "title": "Armando D'Amaro Indagini di Natale per Boccadoro",
-    "speaker_name": "Stefano Nazzi",
-    "date": "2026-11-27 18:00",
-    "city": "Genova",
-    "venue": "Feltrinelli Genova",
-    "url": "https://www.lafeltrinelli.it/eventi/GE566-00116/genova/ms-genova",
-    "extra": {},
-    "id": "e6f4f1ceb9fe15aec5962905f57d4022",
-    "content_hash": "89de2fc65297da116312ab636e379c01",
-    "date_parsed": "2026-11-27"
   },
   "cfaeb36dbe92af6ab6222728a06c16fc": {
     "source_id": "costa_agenda",
